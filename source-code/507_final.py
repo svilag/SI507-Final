@@ -23,8 +23,10 @@ score_years = {2018, 2019, 2020, 2021, 2022}
 # yyyy-percussion-scores
 
 
-@dataclass()
+@dataclass(frozen=True)
 class Percussion:
+    """creates a percussion class object"""
+    group_type: string
 
 
 
