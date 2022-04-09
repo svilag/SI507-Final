@@ -7,7 +7,7 @@ import Flask
 import requests
 import re
 import sys
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup as bs
 
 
 BASE_URL = 'https://wgi.org'
@@ -42,11 +42,13 @@ def cache_pages():
                 data = requests.get
             # TODO
 
-def parse_scores(data):
+def get_score_recap(data):
     """parses pages on wgi.com with scores data"""
-    # TODO implement parser
-    pass
+    soup = bs(data, 'html.parser')
+    table_rows = soup.findAll('tr')
+    td = table_rows.findAll
 
+    return recap_url
 
 @dataclass(frozen=True)
 class Percussion:
