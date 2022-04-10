@@ -15,40 +15,9 @@ BASE_URL = 'https://wgi.org'
 # GUARD_URL = 'color-guard/'
 # WINDS_URL = 'winds/'
 
-url_paths = {'percussion/', 'color-guard/', 'winds/'}
-score_years = {2018, 2019, 2020, 2021, 2022}
 
-# url patterns:
-# yyyy-perc-scores
-# perc-scores-yyyy
-# yyyy-percussion-scores
 
-def cache_pages():
-    """parses pages on wgi.com with scores data and caches the pages
-
-    params:
-        url(string): url to cache
-
-    returns:
-        cache
-    """
-    # TODO implement caching
-    for path in url_paths:
-        url = BASE_URL + path
-        for year in score_years:
-            try:
-                data = requests.get
-            finally:
-                data = requests.get
-            # TODO
-
-def get_score_recap(data):
-    """parses pages on wgi.com with scores data"""
-    soup = bs(data, 'html.parser')
-    table_rows = soup.findAll('tr')
-    td = table_rows.findAll
-
-    return recap_url
+# Classes
 
 @dataclass(frozen=True)
 class Percussion:
@@ -67,6 +36,58 @@ class Winds:
     """creates a winds class object"""
     group_type: str
     name: str
+
+
+
+
+
+
+# Functions
+
+def read_json():
+
+def cache_pages():
+    """parses pages on wgi.com with scores data and caches the pages
+
+    params:
+        url(string): url to cache
+
+    returns:
+        cache
+    """
+    # TODO implement caching
+    pass
+
+def get_score_recap(data):
+    """parses pages on wgi.com with scores data"""
+    pass
+
+def get_competition_data(data):
+    """ takes in a url to a page with a list of competitions with links to their score data
+        and returns a list of dicts of each competition name and links to the scores and recap pages.
+
+    params:
+        data: link to html content
+
+    returns:
+        comps(list): list of dicts [{'competition': comp_name, 'scores': link, 'recaps': link},...]
+    """
+    soup = bs(data, 'html.parser')
+    table_rows = soup.find_all('tr')
+    comps = []
+    for tr in table_rows: # find tr tags
+        tr_children = [child for child in tr.children] # find children
+        if len(tr_children) == 9: # grab only lines with score data linked
+            tr_children_data = tr_children[1::2][1:]
+            comp_name = tr_children_data[0].contents # get competition name # list len 0
+            scores = tr_children_data[1].a['href'] # get link to scores
+            recaps = tr_children_data[-1].a['href'] # get link to recaps
+            competition = {'competition': comp_name[0], 'scores': scores, 'recaps': recaps}
+            comps.append(competition)
+
+    return comps
+
+
 
 
 
