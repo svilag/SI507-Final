@@ -8,16 +8,40 @@ req = requests.get(url).text
 soup = bs(req, 'html.parser')
 table_rows = soup.find_all('tr') # list
 
-comps = []
-for tr in table_rows: # find tr tags
+# comps = []
+# for tr in table_rows: # find tr tags
+#     tr_children = [child for child in tr.children] # find children
+#     if len(tr_children) == 9: # grab only lines with score data linked
+#         tr_children_data = tr_children[1::2][1:]
+#         comp_name = tr_children_data[0].contents # get competition name # list len 0
+#         scores = tr_children_data[1].a['href'] # get link to scores
+#         recaps = tr_children_data[-1].a['href'] # get link to recaps
+#         competition = {'competition': comp_name[0], 'scores': scores, 'recaps': recaps}
+#         comps.append(competition)
+
+# print(comps[0])
+
+# x = {'competition': comp_name, 'date': date, 'scores': scores, 'recap': recaps}
+comp_list = []
+for tr in table_rows[:-1]:
+    comps = {}
     tr_children = [child for child in tr.children] # find children
-    if len(tr_children) == 9: # grab only lines with score data linked
+    if len(tr_children) == 3: # rows with dates
+        date = tr_children[1:-1:1][0].strong.contents[0]
+    elif len(tr_children) == 9:
         tr_children_data = tr_children[1::2][1:]
         comp_name = tr_children_data[0].contents # get competition name # list len 0
         scores = tr_children_data[1].a['href'] # get link to scores
         recaps = tr_children_data[-1].a['href'] # get link to recaps
-        competition = {'competition': comp_name[0], 'scores': scores, 'recaps': recaps}
-        comps.append(competition)
+        # competition = {'competition': comp_name[0], 'scores': scores, 'recaps': recaps}
+        # comps[date].append(competition)
+        comps['competition'] = comp_name
+        comps['date'] = date
+        comps['scores'] = scores
+        comps['recap'] = recaps
+        comp_list.append(comps)
 
-print(comps[0])
+print(comp_list)
+
+
 

@@ -9,40 +9,35 @@ import re
 import sys
 from bs4 import BeautifulSoup as bs
 
-
-BASE_URL = 'https://wgi.org'
-# PERCUSSION_URL = 'percussion/'
-# GUARD_URL = 'color-guard/'
-# WINDS_URL = 'winds/'
-
 URLS = "./urls.json"
 
 # Classes
 
 @dataclass(frozen=True)
-class Percussion:
-    """creates a percussion class object"""
+class Group:
+    """creates a group class object"""
     group_type: str
     name: str
 
-@dataclass(frozen=True)
-class Guard:
-    """creates a color guard class object"""
-    group_type: str
-    name: str
+# @dataclass(frozen=True)
+# class Guard:
+#     """creates a color guard class object"""
+#     group_type: str
+#     name: str
 
-@dataclass(frozen=True)
-class Winds:
-    """creates a winds class object"""
-    group_type: str
-    name: str
+# @dataclass(frozen=True)
+# class Winds:
+#     """creates a winds class object"""
+#     group_type: str
+#     name: str
 
 @dataclass(frozen=True)
 class Competition:
     """creates a competition class object"""
     title: str
+    date: str
     scores: str
-    recaps: str
+    recap: str
 
 
 
@@ -83,18 +78,27 @@ def get_competition_data(data):
     """
     soup = bs(data, 'html.parser')
     table_rows = soup.find_all('tr')
-    comps = []
-    for tr in table_rows: # find tr tags
+
+    comp_list = [] # [{'competition': comp_name, 'date': date, 'scores': scores, 'recap': recaps},...]
+    for tr in table_rows[:-1]:
+        comps = {}
         tr_children = [child for child in tr.children] # find children
-        if len(tr_children) == 9: # grab only lines with score data linked
+        if len(tr_children) == 3: # rows with dates
+            date = tr_children[1:-1:1][0].strong.contents[0]
+        elif len(tr_children) == 9:
             tr_children_data = tr_children[1::2][1:]
             comp_name = tr_children_data[0].contents # get competition name # list len 0
             scores = tr_children_data[1].a['href'] # get link to scores
             recaps = tr_children_data[-1].a['href'] # get link to recaps
-            competition = {'competition': comp_name[0], 'scores': scores, 'recaps': recaps}
-            comps.append(competition)
+            # competition = {'competition': comp_name[0], 'scores': scores, 'recaps': recaps}
+            # comps[date].append(competition)
+            comps['competition'] = comp_name
+            comps['date'] = date
+            comps['scores'] = scores
+            comps['recap'] = recaps
+            comp_list.append(comps)
 
-    return comps
+    print(comp_list)
 
 
 
