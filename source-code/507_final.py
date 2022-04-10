@@ -39,6 +39,7 @@ class Winds:
 
 @dataclass(frozen=True)
 class Competition:
+    """creates a competition class object"""
     title: str
     scores: str
     recaps: str
