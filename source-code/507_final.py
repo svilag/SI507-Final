@@ -15,7 +15,7 @@ BASE_URL = 'https://wgi.org'
 # GUARD_URL = 'color-guard/'
 # WINDS_URL = 'winds/'
 
-
+URLS = "./urls.json"
 
 # Classes
 
@@ -37,16 +37,24 @@ class Winds:
     group_type: str
     name: str
 
-
+@dataclass(frozen=True)
+class Competition:
+    title: str
+    scores: str
+    recaps: str
 
 
 
 
 # Functions
 
-def read_json():
+def read_json(filepath, encoding='utf-8'):
+    """Reads a json file and returns a dictionary of the object
+    """
+    with open(filepath, 'r', encoding=encoding) as file_obj:
+        return json.load(file_obj)
 
-def cache_pages():
+def cache_pages(url):
     """parses pages on wgi.com with scores data and caches the pages
 
     params:
