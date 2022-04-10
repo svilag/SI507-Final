@@ -12,6 +12,7 @@ from bs4 import BeautifulSoup as bs
 URLS = "./urls.json"
 
 # Classes
+# using Frozen=True so classes cannot be edited once instantiated
 
 @dataclass(frozen=True)
 class Group:
@@ -74,7 +75,7 @@ def get_competition_data(data):
         data: link to html content
 
     returns:
-        comps(list): list of dicts [{'competition': comp_name, 'scores': link, 'recaps': link},...]
+        comps(list): list of comp objects [{'competition': comp_name, 'scores': link, 'recaps': link},...]
     """
     soup = bs(data, 'html.parser')
     table_rows = soup.find_all('tr')
