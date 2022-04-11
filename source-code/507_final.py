@@ -67,7 +67,7 @@ def get_score_recap(data):
     """parses pages on wgi.com with scores data"""
     pass
 
-def get_competition_data(data):
+def get_competitions(data):
     """ takes in a url to a page with a list of competitions with links to their score data
         and returns a list of dicts of each competition name and links to the scores and recap pages.
 
