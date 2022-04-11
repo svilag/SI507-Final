@@ -20,18 +20,6 @@ class Group:
     group_type: str
     name: str
 
-# @dataclass(frozen=True)
-# class Guard:
-#     """creates a color guard class object"""
-#     group_type: str
-#     name: str
-
-# @dataclass(frozen=True)
-# class Winds:
-#     """creates a winds class object"""
-#     group_type: str
-#     name: str
-
 @dataclass(frozen=True)
 class Competition:
     """creates a competition class object"""
@@ -39,6 +27,9 @@ class Competition:
     date: str
     scores: str
     recap: str
+    groups: list
+
+
 
 
 
@@ -75,7 +66,7 @@ def get_competitions(data):
         data: link to html content
 
     returns:
-        comps(list): list of comp objects [{'competition': comp_name, 'scores': link, 'recaps': link},...]
+        comps(list): list of Competition objects
     """
     soup = bs(data, 'html.parser')
     table_rows = soup.find_all('tr')
@@ -92,9 +83,9 @@ def get_competitions(data):
             scores = tr_children_data[1].a['href'] # get link to scores
             recaps = tr_children_data[-1].a['href'] # get link to recaps
             comp_list.append(comps)
-            competition = Competition(comp_name[0], date, scores, recaps)
-            comps.append(competition)
-
+            # competition = Competition(comp_name[0], date, scores, recaps)
+            # comps.append(competition)
+# TODO fix this
     return comps
 
 
