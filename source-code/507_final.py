@@ -82,7 +82,7 @@ def get_competition_data(data):
 
     comp_list = [] # [{'competition': comp_name, 'date': date, 'scores': scores, 'recap': recaps},...]
     for tr in table_rows[:-1]:
-        comps = {}
+        comps = []
         tr_children = [child for child in tr.children] # find children
         if len(tr_children) == 3: # rows with dates
             date = tr_children[1:-1:1][0].strong.contents[0]
@@ -91,15 +91,11 @@ def get_competition_data(data):
             comp_name = tr_children_data[0].contents # get competition name # list len 0
             scores = tr_children_data[1].a['href'] # get link to scores
             recaps = tr_children_data[-1].a['href'] # get link to recaps
-            # competition = {'competition': comp_name[0], 'scores': scores, 'recaps': recaps}
-            # comps[date].append(competition)
-            comps['competition'] = comp_name
-            comps['date'] = date
-            comps['scores'] = scores
-            comps['recap'] = recaps
             comp_list.append(comps)
+            competition = Competition(comp_name[0], date, scores, recaps)
+            comps.append(competition)
 
-    print(comp_list)
+    return comps
 
 
 
