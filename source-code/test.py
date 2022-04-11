@@ -22,7 +22,7 @@ class Competition:
     groups: list
 
 
-def soup(url):
+def stew(url):
     """takes a url and returns a BS4 response
     """
     req = requests.get(url).text
@@ -32,14 +32,14 @@ def soup(url):
 
 url = 'https://wgi.org/percussion/perc-scores-2020/'
 req = requests.get(url).text
-soupy = soup(url)
+soupy = stew(url)
 table_rows = soupy.find_all('tr') # list
 
 # x = {'competition': comp_name, 'date': date, 'scores': scores, 'recap': recaps}
 comp_list = [] # [{'competition': comp_name, 'date': date, 'scores': scores, 'recap': recaps},...]
-for tr in table_rows[:-1]:
+for t_r in table_rows[:-1]:
     comps = []
-    tr_children = [child for child in tr.children] # find children
+    tr_children = [child for child in t_r.children] # find children
     if len(tr_children) == 3: # rows with dates
         date = tr_children[1:-1:1][0].strong.contents[0]
     elif len(tr_children) == 9:
@@ -49,7 +49,7 @@ for tr in table_rows[:-1]:
         recaps = tr_children_data[-1].a['href'] # get link to recaps
 
         # print(scores)
-        scores_data = soup(scores)
+        scores_data = stew(scores)
         scores_div = scores_data.find_all('div', attrs={'class': 'table-responsive'}) # list of div elements # len = 1
 
         all_groups = []
@@ -79,5 +79,8 @@ for tr in table_rows[:-1]:
 
             groups[class_level] = class_groups
 
-        competition = Competition(comp_name[0], date, scores, recaps, groups) # create Competition class object
+        competition = Competition(comp_name[0], date, scores, recaps, all_groups) # create Competition class object
 
+print(competition.groups)
+
+# TODO write to files

@@ -1,0 +1,138 @@
+Start run: 2022-04-11T18:16:44.956832
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+Checking cache for https://wgi.org/percussion/perc-scores-2020/
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Start run: 2022-04-11T18:18:25.121281
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+End run: 2022-04-11T18:18:27.037952
+Start run: 2022-04-11T18:20:28.618433
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+End run: 2022-04-11T18:20:32.136018
+Start run: 2022-04-11T18:32:45.182235
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+End run: 2022-04-11T18:32:48.505062
+Start run: 2022-04-11T18:48:01.756447
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+End run: 2022-04-11T18:48:05.024111
+Start run: 2022-04-11T18:48:24.779156
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+End run: 2022-04-11T18:48:29.431738
+Start run: 2022-04-11T18:59:45.815218
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+Checking cache for https://wgi.org/percussion/perc-scores-2020/
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Start run: 2022-04-11T19:01:46.921499
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+Checking cache for https://wgi.org/percussion/perc-scores-2020/
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+End run: 2022-04-11T19:01:48.747446
+Start run: 2022-04-11T19:20:05.674687
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+Checking cache for https://wgi.org/percussion/perc-scores-2020/
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+Start run: 2022-04-11T19:21:02.762238
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+Checking cache for https://wgi.org/percussion/perc-scores-2020/
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+End run: 2022-04-11T19:21:05.148041
+Start run: 2022-04-11T19:24:10.913082
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+Checking cache for https://wgi.org/percussion/perc-scores-2020/
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+End run: 2022-04-11T19:24:13.001336
+Start run: 2022-04-11T19:26:01.636223
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+Checking cache for https://wgi.org/percussion/perc-scores-2020/
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+Start run: 2022-04-11T19:26:13.427775
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+Checking cache for https://wgi.org/percussion/perc-scores-2020/
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+End run: 2022-04-11T19:26:15.651640
+Start run: 2022-04-11T19:30:17.547161
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+Checking cache for https://wgi.org/percussion/perc-scores-2020/
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+End run: 2022-04-11T19:30:19.145589
+Start run: 2022-04-11T19:30:37.092503
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+Checking cache for https://wgi.org/percussion/perc-scores-2020/
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+End run: 2022-04-11T19:30:38.823135
+Start run: 2022-04-11T19:32:05.346299
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2020/ added to cache
+Checking cache for https://wgi.org/percussion/perc-scores-2020/
+Parsing page: https://wgi.org/percussion/perc-scores-2020/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+End run: 2022-04-11T19:32:07.156022
