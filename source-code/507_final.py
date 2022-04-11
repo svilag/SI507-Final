@@ -25,7 +25,7 @@ class Competition:
     """creates a competition class object"""
     title: str
     date: str
-    scores: str
+    scores: dict
     recap: str
     groups: list
 
@@ -41,6 +41,14 @@ def read_json(filepath, encoding='utf-8'):
     """
     with open(filepath, 'r', encoding=encoding) as file_obj:
         return json.load(file_obj)
+
+def soup(url):
+    """takes a url and returns a BS4 response
+    """
+    req = requests.get(url).text
+    stew = bs(req, 'html.parser')
+
+    return stew
 
 def cache_pages(url):
     """parses pages on wgi.com with scores data and caches the pages
@@ -70,23 +78,7 @@ def get_competitions(data):
     """
     soup = bs(data, 'html.parser')
     table_rows = soup.find_all('tr')
-
-    comp_list = [] # [{'competition': comp_name, 'date': date, 'scores': scores, 'recap': recaps},...]
-    for tr in table_rows[:-1]:
-        comps = []
-        tr_children = [child for child in tr.children] # find children
-        if len(tr_children) == 3: # rows with dates
-            date = tr_children[1:-1:1][0].strong.contents[0]
-        elif len(tr_children) == 9:
-            tr_children_data = tr_children[1::2][1:]
-            comp_name = tr_children_data[0].contents # get competition name # list len 0
-            scores = tr_children_data[1].a['href'] # get link to scores
-            recaps = tr_children_data[-1].a['href'] # get link to recaps
-            comp_list.append(comps)
-            # competition = Competition(comp_name[0], date, scores, recaps)
-            # comps.append(competition)
-# TODO fix this
-    return comps
+    pass# TODO
 
 
 
