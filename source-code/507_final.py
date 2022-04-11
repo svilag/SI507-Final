@@ -76,9 +76,7 @@ def get_competitions(data):
     returns:
         comps(list): list of Competition objects
     """
-    soup = bs(data, 'html.parser')
-    table_rows = soup.find_all('tr')
-    pass# TODO
+    
 
 
 
@@ -86,3 +84,8 @@ def get_competitions(data):
 
 if __name__ == '__main__':
     print('program started')
+    links = read_json(URLS)
+    for link in links:
+        response = soup(link)
+        
+

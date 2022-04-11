@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup as bs
 @dataclass(frozen=True)
 class Group:
     """creates a group class object"""
-    group_type: str
+    # group_type: str
     name: str
     class_level: str
     location: str
@@ -48,18 +48,36 @@ for tr in table_rows[:-1]:
         scores = tr_children_data[1].a['href'] # get link to scores
         recaps = tr_children_data[-1].a['href'] # get link to recaps
 
-        print(scores)
-        groups = []
+        # print(scores)
         scores_data = soup(scores)
-        rows = scores_data.find_all('tr') # list
-        
-        # TODO get list of groups
-        # TODO create dict of scores
-        # TODO create Group class objects
+        scores_div = scores_data.find_all('div', attrs={'class': 'table-responsive'}) # list of div elements # len = 1
 
+        all_groups = []
+        groups = {} # {class_lvl: [group, group,...], class_lvl: [...]}
+        scores= {} # {group: score, ...}
 
-    # TODO create Competition class objects
+        scores_table = scores_div[0].table # .table.tbody.tr.td.table
+        table_rows = scores_table.find_all('tr')
+        for row in table_rows:
+            tcells = [child for child in row.children]
+            # print(len(tcells))
+            # print(tcells[2])
+            if len(tcells) == 3:
+                class_level = tcells[1].b.contents[0] # group class_level
+                class_groups = []
+            elif len(tcells) == 4:
+                em = tcells[2].contents[1]
+                group_name = tcells[2].contents[0].strip() # group names
+                location = em.contents[0].replace('(', '').replace(')', '') # group location
 
+                group = Group(group_name, class_level, location) # create Group class object
+                all_groups.append(group) # add group to all groups for that competition
+                class_groups.append(group) # add group to list for that class_lvl
 
+                score = tcells[-1].b.contents[0]
+                scores[group_name] = score
 
+            groups[class_level] = class_groups
+
+        competition = Competition(comp_name[0], date, scores, recaps, groups) # create Competition class object
 
