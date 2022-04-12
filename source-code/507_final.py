@@ -127,10 +127,7 @@ def check_cache(url: str) -> str:
 
 
 
-# def get_score_recap(data):
-#     """parses pages on wgi.com with scores data"""
-#     pass
-# TODO parse score recap pages
+
 
 def get_competitions(data):
     """ takes a url to a page with a list of competitions with links to their score data, parses the scores page and
@@ -223,7 +220,13 @@ def get_competitions(data):
     write_json("./data/groups.json", groups_to_write, add=True) # write to file
 
 
+# def get_score_recap(data):
+#     """parses pages on wgi.com with scores data"""
+#     pass
+# TODO parse score recap pages
 
+# def get_scores():
+# TODO implement from above
 
 
 if __name__ == '__main__':
