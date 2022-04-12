@@ -160,7 +160,7 @@ def get_competitions(data):
             scores = tr_children_data[1].a['href'] # get link to scores # TODO debug
             recaps = tr_children_data[-1].a['href'] # get link to recaps
 
-
+            # TODO HERE call get_scores()
             # TODO reorganize into get_scores()
             # TODO assign url to scores or None
             # TODO update class data
