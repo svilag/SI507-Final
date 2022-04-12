@@ -1,106 +1,95 @@
-Start run: 2022-04-11T18:16:44.956832
+Start run: 2022-04-11T21:39:47.130734
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-https://wgi.org/percussion/perc-scores-2020/ added to cache
-Checking cache for https://wgi.org/percussion/perc-scores-2020/
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
-Start run: 2022-04-11T18:18:25.121281
+https://wgi.org:443 "GET /percussion/perc-scores-2022/ HTTP/1.1" 200 None
+https://wgi.org/percussion/perc-scores-2022/ added to cache
+Checking cache for https://wgi.org/percussion/perc-scores-2022/
+Parsing page: https://wgi.org/percussion/perc-scores-2022/
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_San_Bernardino_Perc_Finals.html HTTP/1.1" 200 9118
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
-End run: 2022-04-11T18:18:27.037952
-Start run: 2022-04-11T18:20:28.618433
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Dayton_Perc_Finals.html HTTP/1.1" 200 8818
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Monroe_Township_Perc_Prelims.html HTTP/1.1" 200 9137
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_San_Bernardino_Perc_Prelims.html HTTP/1.1" 200 9311
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-https://wgi.org/percussion/perc-scores-2020/ added to cache
-End run: 2022-04-11T18:20:32.136018
-Start run: 2022-04-11T18:32:45.182235
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Dayton_Perc_Prelims.html HTTP/1.1" 200 9017
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Monroe_Township_Perc_Finals.html HTTP/1.1" 200 8815
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Portland_Perc_Prelims.html HTTP/1.1" 200 8985
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-https://wgi.org/percussion/perc-scores-2020/ added to cache
-End run: 2022-04-11T18:32:48.505062
-Start run: 2022-04-11T18:48:01.756447
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Portland_Perc_Finals.html HTTP/1.1" 200 8944
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Dallas_Perc_Prelims.html HTTP/1.1" 200 9159
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Dallas_Perc_Finals.html HTTP/1.1" 200 9160
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-https://wgi.org/percussion/perc-scores-2020/ added to cache
-End run: 2022-04-11T18:48:05.024111
-Start run: 2022-04-11T18:48:24.779156
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Minneapolis_Perc_Prelims.html HTTP/1.1" 200 9082
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Minneapolis_Perc_Finals.html HTTP/1.1" 200 9067
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Atlanta_Perc_Finals.html HTTP/1.1" 200 8978
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-https://wgi.org/percussion/perc-scores-2020/ added to cache
-End run: 2022-04-11T18:48:29.431738
-Start run: 2022-04-11T18:59:45.815218
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Atlanta_Perc_Prelims.html HTTP/1.1" 200 8977
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-https://wgi.org/percussion/perc-scores-2020/ added to cache
-Checking cache for https://wgi.org/percussion/perc-scores-2020/
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
-Start run: 2022-04-11T19:01:46.921499
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Phoenix_Perc_Finals.html HTTP/1.1" 200 9174
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-https://wgi.org/percussion/perc-scores-2020/ added to cache
-Checking cache for https://wgi.org/percussion/perc-scores-2020/
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Merced_Perc_Prelims.html HTTP/1.1" 200 8917
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
-End run: 2022-04-11T19:01:48.747446
-Start run: 2022-04-11T19:20:05.674687
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Merced_Perc_Finals.html HTTP/1.1" 200 8900
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-https://wgi.org/percussion/perc-scores-2020/ added to cache
-Checking cache for https://wgi.org/percussion/perc-scores-2020/
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Denver_Perc_Prelims.html HTTP/1.1" 200 8928
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
-Start run: 2022-04-11T19:21:02.762238
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Hattiesburg_Perc_Prelims.html HTTP/1.1" 200 9110
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-https://wgi.org/percussion/perc-scores-2020/ added to cache
-Checking cache for https://wgi.org/percussion/perc-scores-2020/
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Hattiesburg_Perc_Finals.html HTTP/1.1" 200 9094
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
-End run: 2022-04-11T19:21:05.148041
-Start run: 2022-04-11T19:24:10.913082
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Phoenix_Perc_Prelims.html HTTP/1.1" 200 9177
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-https://wgi.org/percussion/perc-scores-2020/ added to cache
-Checking cache for https://wgi.org/percussion/perc-scores-2020/
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Spartanburg_Perc_Finals.html HTTP/1.1" 200 9059
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
-End run: 2022-04-11T19:24:13.001336
-Start run: 2022-04-11T19:26:01.636223
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Spartanburg_Perc_Prelims.html HTTP/1.1" 200 9028
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-https://wgi.org/percussion/perc-scores-2020/ added to cache
-Checking cache for https://wgi.org/percussion/perc-scores-2020/
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8941
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
-Start run: 2022-04-11T19:26:13.427775
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Indianapolis_Perc_Finals.html HTTP/1.1" 200 9588
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Houston_Perc_Prelims.html HTTP/1.1" 200 9203
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Houston_Perc_Finals.html HTTP/1.1" 200 9198
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Indianapolis_Perc_Prelims.html HTTP/1.1" 200 9751
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Knoxville_Perc_Prelims.html HTTP/1.1" 200 9189
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Knoxville_Perc_Finals.html HTTP/1.1" 200 9170
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Omaha_Perc_Prelims.html HTTP/1.1" 200 8809
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Omaha_Perc_Finals.html HTTP/1.1" 200 8725
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Richmond_Perc_Prelims.html HTTP/1.1" 200 9239
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Richmond_Perc_Finals.html HTTP/1.1" 200 9234
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Orlando_Perc_Prelims.html HTTP/1.1" 200 9002
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Orlando_Perc_Finals.html HTTP/1.1" 200 9016
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Temecula_Perc_Prelims.html HTTP/1.1" 200 9186
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Temecula_Perc_Finals.html HTTP/1.1" 200 9202
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Trumbull_Perc_Finals.html HTTP/1.1" 200 9167
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Chicago_Perc_Finals.html HTTP/1.1" 200 8749
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Chicago_Perc_Prelims.html HTTP/1.1" 200 8749
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Troy_Perc_Finals.html HTTP/1.1" 200 8925
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2022/scores_Troy_Perc_Prelims.html HTTP/1.1" 200 8909
 Starting new HTTPS connection (1): wgi.org:443
 https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
 https://wgi.org/percussion/perc-scores-2020/ added to cache
@@ -108,31 +97,102 @@ Checking cache for https://wgi.org/percussion/perc-scores-2020/
 Parsing page: https://wgi.org/percussion/perc-scores-2020/
 Starting new HTTPS connection (1): wgi.org:443
 https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
-End run: 2022-04-11T19:26:15.651640
-Start run: 2022-04-11T19:30:17.547161
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-https://wgi.org/percussion/perc-scores-2020/ added to cache
-Checking cache for https://wgi.org/percussion/perc-scores-2020/
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Spartanburg_Perc_Prelims.html HTTP/1.1" 200 8604
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
-End run: 2022-04-11T19:30:19.145589
-Start run: 2022-04-11T19:30:37.092503
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Spartanburg_Perc_Finals.html HTTP/1.1" 200 8607
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-https://wgi.org/percussion/perc-scores-2020/ added to cache
-Checking cache for https://wgi.org/percussion/perc-scores-2020/
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Phoenix_Perc_Prelims.html HTTP/1.1" 200 8744
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
-End run: 2022-04-11T19:30:38.823135
-Start run: 2022-04-11T19:32:05.346299
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Phoenix_Perc_Finals.html HTTP/1.1" 200 8613
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /percussion/perc-scores-2020/ HTTP/1.1" 200 None
-https://wgi.org/percussion/perc-scores-2020/ added to cache
-Checking cache for https://wgi.org/percussion/perc-scores-2020/
-Parsing page: https://wgi.org/percussion/perc-scores-2020/
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Merced_Perc_Prelims.html HTTP/1.1" 200 8472
 Starting new HTTPS connection (1): wgi.org:443
-https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html HTTP/1.1" 200 8640
-End run: 2022-04-11T19:32:07.156022
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Merced_Perc_Finals.html HTTP/1.1" 200 8472
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Dallas_Perc_Prelims.html HTTP/1.1" 200 8833
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Dallas_Perc_Finals.html HTTP/1.1" 200 8820
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Prelims.html HTTP/1.1" 200 8650
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Dayton_Perc_Finals.html HTTP/1.1" 200 8856
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Richmond_Perc_Finals.html HTTP/1.1" 200 8723
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Richmond_Perc_Prelims.html HTTP/1.1" 200 8880
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Trumbull_Perc_Finals.html HTTP/1.1" 200 8563
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Trumbull_Perc_Prelims.html HTTP/1.1" 200 8611
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Omaha_Perc_Finals.html HTTP/1.1" 200 8365
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Omaha_Perc_Prelims.html HTTP/1.1" 200 8361
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Houston_Perc_Finals.html HTTP/1.1" 200 8564
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Houston_Perc_Prelims.html HTTP/1.1" 200 8788
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Dayton_Perc_Prelims.html HTTP/1.1" 200 8864
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Temecula_Perc_Finals.html HTTP/1.1" 200 8585
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Knoxville_Perc_Prelims.html HTTP/1.1" 200 8337
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Knoxville_Perc_Finals.html HTTP/1.1" 200 8340
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Temecula_Perc_Prelims.html HTTP/1.1" 200 8726
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Orlando_Perc_Prelims.html HTTP/1.1" 200 8545
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Orlando_Perc_Finals.html HTTP/1.1" 200 8540
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Chicago_Perc_Finals.html HTTP/1.1" 200 8474
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Chicago_Perc_Prelims.html HTTP/1.1" 200 8466
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Troy_Perc_Finals.html HTTP/1.1" 200 8464
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /wp-content/uploads/wgi_events/static_scores/2020/scores_Troy_Perc_Prelims.html HTTP/1.1" 200 8476
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/2019-perc-scores/ HTTP/1.1" 200 None
+https://wgi.org/percussion/2019-perc-scores/ added to cache
+Checking cache for https://wgi.org/percussion/2019-perc-scores/
+Parsing page: https://wgi.org/percussion/2019-perc-scores/
+Start run: 2022-04-11T21:40:48.541574
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/2019-perc-scores/ HTTP/1.1" 200 None
+https://wgi.org/percussion/2019-perc-scores/ added to cache
+Checking cache for https://wgi.org/percussion/2019-perc-scores/
+Parsing page: https://wgi.org/percussion/2019-perc-scores/
+Start run: 2022-04-11T21:43:35.990498
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/2019-perc-scores/ HTTP/1.1" 200 None
+https://wgi.org/percussion/2019-perc-scores/ added to cache
+Checking cache for https://wgi.org/percussion/2019-perc-scores/
+Parsing page: https://wgi.org/percussion/2019-perc-scores/
+Start run: 2022-04-11T21:44:08.503026
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/2019-perc-scores/ HTTP/1.1" 200 None
+https://wgi.org/percussion/2019-perc-scores/ added to cache
+Checking cache for https://wgi.org/percussion/2019-perc-scores/
+Parsing page: https://wgi.org/percussion/2019-perc-scores/
+Start run: 2022-04-11T21:44:39.292976
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/2019-perc-scores/ HTTP/1.1" 200 None
+https://wgi.org/percussion/2019-perc-scores/ added to cache
+Checking cache for https://wgi.org/percussion/2019-perc-scores/
+Parsing page: https://wgi.org/percussion/2019-perc-scores/
+Start run: 2022-04-11T21:47:02.700691
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/2019-perc-scores/ HTTP/1.1" 200 None
+https://wgi.org/percussion/2019-perc-scores/ added to cache
+Checking cache for https://wgi.org/percussion/2019-perc-scores/
+Parsing page: https://wgi.org/percussion/2019-perc-scores/
+Start run: 2022-04-11T21:48:42.967670
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/2019-perc-scores/ HTTP/1.1" 200 None
+https://wgi.org/percussion/2019-perc-scores/ added to cache
+Checking cache for https://wgi.org/percussion/2019-perc-scores/
+Parsing page: https://wgi.org/percussion/2019-perc-scores/

@@ -127,19 +127,17 @@ def check_cache(url):
 
 
 
-def get_score_recap(data):
-    """parses pages on wgi.com with scores data"""
-    pass
+# def get_score_recap(data):
+#     """parses pages on wgi.com with scores data"""
+#     pass
+# TODO parse score recap pages
 
 def get_competitions(data):
-    """ takes in a url to a page with a list of competitions with links to their score data
-        and returns a list of dicts of each competition name and links to the scores and recap pages.
+    """ takes a url to a page with a list of competitions with links to their score data, parses the scores page and
+        creates Competition and Group objects. Writes these objects to JSON files.
 
     params:
         data(str): link to html content
-
-    returns:
-        comps(list): list of Competition objects
     """
     cache_data = check_cache(data) # check cache for url content
     logging.info("Checking cache for %s", data)
@@ -150,6 +148,10 @@ def get_competitions(data):
 
     table_rows = soupy.find_all('tr') # list
 
+
+    comps_to_write = [] # Competition objects as json
+    groups_to_write = [] # Group objects as json
+
     for t_r in table_rows[:-1]:
         tr_children = [child for child in t_r.children] # find children
         if len(tr_children) == 3: # rows with dates
@@ -157,7 +159,7 @@ def get_competitions(data):
         elif len(tr_children) == 9:
             tr_children_data = tr_children[1::2][1:]
             comp_name = tr_children_data[0].contents # get competition name # list
-            scores = tr_children_data[1].a['href'] # get link to scores
+            scores = tr_children_data[1].a['href'] # get link to scores # TODO debug
             recaps = tr_children_data[-1].a['href'] # get link to recaps
 
             # print(scores)
@@ -183,6 +185,16 @@ def get_competitions(data):
                     location = em.contents[0].replace('(', '').replace(')', '') # group location
 
                     group = Group(group_name, class_level, location) # create Group class object
+
+                    group_json = {
+                        "name": group.name,
+                        "class_level": group.class_level,
+                        "location": group.location
+                    }
+
+                    if group_json not in groups_to_write: # check if group in list; add if not
+                        groups_to_write.append(group_json)
+
                     all_groups.append(group) # add group to all groups for that competition
                     class_groups.append(group) # add group to list for that class_lvl
 
@@ -200,10 +212,10 @@ def get_competitions(data):
                 "recap": competition.recap,
                 "groups": [group.name for group in competition.groups]
             }
-            print(comp_json)
-            # write_json("./data/competitions.json", comp_json, add=True) # append to end of file
-
-            return competition
+            if comp_json not in comps_to_write: # check if competition in list; add if not
+                comps_to_write.append(comp_json)
+    write_json("./data/competitions.json", comps_to_write, add=True) # write to file
+    write_json("./data/groups.json", groups_to_write, add=True) # write to file
 
 
 
@@ -236,11 +248,10 @@ if __name__ == '__main__':
     # links = read_json(URLS)
     # for link in links:
     #     get_competitions(link)
-        # TODO write to json
+    #     # print(link)
 
-    test = 'https://wgi.org/percussion/perc-scores-2020/'
-    tres = get_competitions(test)
-    # print(tres)
+    TEST = 'https://wgi.org/percussion/2019-perc-scores/'
+    get_competitions(TEST)
 
 
 
