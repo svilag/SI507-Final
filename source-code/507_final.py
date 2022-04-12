@@ -91,7 +91,7 @@ def stew(url: str) -> bs:
 
     return meal
 
-def get_content(url: str) -> Response:
+def get_content(url: str) -> str:
     """Takes a url and returns the html content
 
     params:
@@ -104,7 +104,7 @@ def get_content(url: str) -> Response:
 
     return response.text
 
-def check_cache(url):
+def check_cache(url: str) -> str:
     """ checks if a url is already in the cache. if not, adds it.
         Also writes the cache to a JSON file.
 
@@ -162,6 +162,11 @@ def get_competitions(data):
             scores = tr_children_data[1].a['href'] # get link to scores # TODO debug
             recaps = tr_children_data[-1].a['href'] # get link to recaps
 
+
+            # TODO reorganize into get_scores()
+            # TODO assign url to scores or None
+            # TODO update class data
+            # TODO update schema
             # print(scores)
             scores_data = stew(scores) # follow link to scores page
             scores_div = scores_data.find_all('div', attrs={'class': 'table-responsive'}) # list of div elements # len = 1
