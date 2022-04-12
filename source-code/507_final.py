@@ -115,9 +115,11 @@ def check_cache(url: str) -> str:
         CACHE[url]: contents from the html page
     """
     if url not in CACHE:
-        # TODO check if value changed, update cache
         CACHE[url] = get_content(url)
         logging.info("%s added to cache", url)
+    elif CACHE[url] != get_content(url): # check if value changed
+        CACHE[url] = get_content(url) # update cache
+        logging.info("Cache updated for %s", url)
 
     write_json('./cache/cache.json', CACHE)
     return CACHE[url]
