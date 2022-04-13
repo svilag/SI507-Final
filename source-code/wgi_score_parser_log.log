@@ -196,3 +196,11 @@ https://wgi.org:443 "GET /percussion/2019-perc-scores/ HTTP/1.1" 200 None
 https://wgi.org/percussion/2019-perc-scores/ added to cache
 Checking cache for https://wgi.org/percussion/2019-perc-scores/
 Parsing page: https://wgi.org/percussion/2019-perc-scores/
+Start run: 2022-04-12T17:07:31.552946
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/2019-perc-scores/ HTTP/1.1" 200 None
+https://wgi.org/percussion/2019-perc-scores/ added to cache
+Checking cache for https://wgi.org/percussion/2019-perc-scores/
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/2019-perc-scores/ HTTP/1.1" 200 None
+Parsing page: https://wgi.org/percussion/2019-perc-scores/

@@ -16,9 +16,8 @@ URLS = "./urls.json"
 CACHE = {}
 
 # Classes
-# using Frozen=True so classes cannot be edited once instantiated
 
-@dataclass(frozen=True)
+@dataclass()
 class Group:
     """creates a group class object"""
     # group_type: str
@@ -26,12 +25,12 @@ class Group:
     class_level: str
     location: str
 
-@dataclass(frozen=True)
+@dataclass()
 class Competition:
     """creates a competition class object"""
     title: str
     date: str
-    scores: dict
+    scores: str
     recap: str
     groups: list
 
@@ -129,15 +128,61 @@ def check_cache(url: str) -> str:
     write_json('./cache/cache.json', CACHE)
     return CACHE[url]
 
+def get_links(url:str) -> list:
+    """ Parses a page with a list of competitions and links to data for eacg
+        competition. Returns a dictionary with each competition.
+
+        params:
+            url(str): link to html content
+
+        returns:
+            competitions(list): list of Competition objects
+    """
+    check_cache(url) # check cache for url content # add to cache if not in
+    logging.info("Checking cache for %s", url)
+
+    soupy = stew(url, cache=True) # get content as BS object
+    logger.info("Parsing page: %s", url)
+
+    table_rows = soupy.find_all('tr') # list of table rows
+
+    competitions = []
+
+    for t_r in table_rows[:-1]:
+        tr_children = [child for child in t_r.children] # find children
+        if len(tr_children) == 3: # rows with dates
+            date = tr_children[1:-1:1][0].strong.contents[0]
+        elif len(tr_children) == 9: # rows with groups and scores
+            tr_children_data = tr_children[1::2][1:]
+            comp_name = tr_children_data[0].contents # get competition name # list
+            if tr_children_data[1].a: # check if there is a link to scores # some don't have scores
+                scores = tr_children_data[1].a['href'] # get link to scores
+            else:
+                scores = "No scores"
+            recaps = tr_children_data[-1].a['href'] # get link to recaps
+
+        competition = Competition(comp_name, date, scores, recaps, groups=[])
+        competitions.append(competition)
+
+    return competitions
+
+def get_scores(url: str):
+    """ Parses a page with scores from a competition
+
+        params:
+            url(str): link to html content
+    """
+    # TODO
+    check_cache(url)
 
 
+def get_score_recap(url: str):
+    """ Parses a page with score recaps
+    """
+    # TODO
+    check_cache(url)
 
-
-
-
-
-
-def get_competitions(data: str):
+def get_competitions_old(data: str):
     """ takes a url to a page with a list of competitions with links to their score data, parses the scores page and
         creates Competition and Group objects. Writes these objects to JSON files.
 
@@ -225,10 +270,6 @@ def get_competitions(data: str):
     write_json("./data/groups.json", groups_to_write, add=True) # write to file
 
 
-# def get_score_recap(data):
-#     """parses pages on wgi.com with scores data"""
-#     pass
-# TODO parse score recap pages
 
 
 if __name__ == '__main__':
@@ -261,7 +302,9 @@ if __name__ == '__main__':
     #     # print(link)
 
     TEST = 'https://wgi.org/percussion/2019-perc-scores/'
-    get_competitions(TEST)
+    competitions_list = get_links(TEST)
+    for comp in competitions_list:
+        # TODO
 
 
 
