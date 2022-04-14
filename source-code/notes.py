@@ -8,7 +8,7 @@ import os
 import re
 import sys
 import datetime as dt
-from flask import Flask, Response
+from flask import Flask
 import requests
 from bs4 import BeautifulSoup as bs
 
@@ -129,8 +129,9 @@ def check_cache(url: str) -> str:
     return CACHE[url]
 
 def get_links(url:str) -> list:
-    """ Parses a page with a list of competitions and links to data for eacg
-        competition. Returns a dictionary with each competition.
+    """ Parses a page with a list of competitions and links to data for each
+        competition. Returns a list of tuples containing all competitions
+        with links to scores and recaps, if available.
 
         params:
             url(str): link to html content
@@ -157,20 +158,24 @@ def get_links(url:str) -> list:
             comp_name = tr_children_data[0].contents # get competition name # list
             if tr_children_data[1].a: # check if there is a link to scores # some don't have scores
                 scores = tr_children_data[1].a['href'] # get link to scores
+                recaps = tr_children_data[-1].a['href'] # get link to recaps
             else:
                 scores = "No scores"
-            recaps = tr_children_data[-1].a['href'] # get link to recaps
+                recaps = "No recaps"
 
-        competition = Competition(comp_name, date, scores, recaps, groups=[])
-        competitions.append(competition)
+            competition = Competition(comp_name, date, scores, recaps, groups=[])
+            competitions.append(competition)
 
     return competitions
 
 def get_scores(url: str):
-    """ Parses a page with scores from a competition
+    """ Parses a page with scores from a competition.
 
         params:
             url(str): link to html content
+
+        returns:
+            scores(): 
     """
     # TODO
     check_cache(url)
@@ -182,92 +187,97 @@ def get_score_recap(url: str):
     # TODO
     check_cache(url)
 
-def get_competitions_old(data: str):
-    """ takes a url to a page with a list of competitions with links to their score data, parses the scores page and
-        creates Competition and Group objects. Writes these objects to JSON files.
-
-    params:
-        data(str): link to html content
-
-    returns:
-
-    """
-    check_cache(data) # check cache for url content # add to cache if not in
-    logging.info("Checking cache for %s", data)
-
-    soupy = stew(data) # get content as BS object
-    # soupy = bs(cache_data, 'html.parser') # read from cache
-    logger.info("Parsing page: %s", data)
-
-    table_rows = soupy.find_all('tr') # list
 
 
-    comps_to_write = [] # Competition objects as json
-    groups_to_write = [] # Group objects as json
 
-    for t_r in table_rows[:-1]:
-        tr_children = [child for child in t_r.children] # find children
-        if len(tr_children) == 3: # rows with dates
-            date = tr_children[1:-1:1][0].strong.contents[0]
-        elif len(tr_children) == 9: # rows with groups and scores
-            tr_children_data = tr_children[1::2][1:]
-            comp_name = tr_children_data[0].contents # get competition name # list
-            scores = tr_children_data[1].a['href'] # get link to scores # TODO debug when no scores
-            recaps = tr_children_data[-1].a['href'] # get link to recaps
 
-            scores_data = stew(scores) # follow link to scores page
-            scores_div = scores_data.find_all('div', attrs={'class': 'table-responsive'}) # list of div elements # len = 1
 
-            all_groups = [] # all groups at the competition
-            groups = {} # {class_lvl: [group, group,...], class_lvl: [...]}
-            scores= {} # {group: score, ...}
+# def get_competitions_old(data: str):
+#     """ takes a url to a page with a list of competitions with links to their score data, parses the scores page and
+#         creates Competition and Group objects. Writes these objects to JSON files.
 
-            scores_table = scores_div[0].table # .table.tbody.tr.td.table
-            table_rows = scores_table.find_all('tr')
-            for row in table_rows:
-                tcells = [child for child in row.children]
-                # print(len(tcells))
-                # print(tcells[2])
-                if len(tcells) == 3:
-                    class_level = tcells[1].b.contents[0] # group class_level
-                    class_groups = [] # groups in this class level
-                elif len(tcells) == 4:
-                    em = tcells[2].contents[1]
-                    group_name = tcells[2].contents[0].strip() # group names
-                    location = em.contents[0].replace('(', '').replace(')', '') # group location
+#     params:
+#         data(str): link to html content
 
-                    group = Group(group_name, class_level, location) # create Group class object
+#     returns:
 
-                    group_json = {
-                        "name": group.name,
-                        "class_level": group.class_level,
-                        "location": group.location
-                    }
+#     """
+#     check_cache(data) # check cache for url content # add to cache if not in
+#     logging.info("Checking cache for %s", data)
 
-                    if group_json not in groups_to_write: # check if group in list; add if not
-                        groups_to_write.append(group_json)
+#     soupy = stew(data) # get content as BS object
+#     # soupy = bs(cache_data, 'html.parser') # read from cache
+#     logger.info("Parsing page: %s", data)
 
-                    all_groups.append(group) # add group to all groups for that competition
-                    class_groups.append(group) # add group to list for that class_lvl
+#     table_rows = soupy.find_all('tr') # list
 
-                    score = tcells[-1].b.contents[0]
-                    scores[group_name] = score
 
-                groups[class_level] = class_groups
+#     comps_to_write = [] # Competition objects as json
+#     groups_to_write = [] # Group objects as json
 
-            # create Competition class object
-            competition = Competition(comp_name[0], date, scores, recaps, all_groups)
-            comp_json = {
-                "title": competition.title,
-                "date": competition.date,
-                "scores": competition.scores,
-                "recap": competition.recap,
-                "groups": [group.name for group in competition.groups]
-            }
-            if comp_json not in comps_to_write: # check if competition in list; add if not
-                comps_to_write.append(comp_json)
-    write_json("./data/competitions.json", comps_to_write, add=True) # write to file
-    write_json("./data/groups.json", groups_to_write, add=True) # write to file
+#     for t_r in table_rows[:-1]:
+#         tr_children = [child for child in t_r.children] # find children
+#         if len(tr_children) == 3: # rows with dates
+#             date = tr_children[1:-1:1][0].strong.contents[0]
+#         elif len(tr_children) == 9: # rows with groups and scores
+#             tr_children_data = tr_children[1::2][1:]
+#             comp_name = tr_children_data[0].contents # get competition name # list
+#             scores = tr_children_data[1].a['href'] # get link to scores # TODO debug when no scores
+#             recaps = tr_children_data[-1].a['href'] # get link to recaps
+
+#             scores_data = stew(scores) # follow link to scores page
+#             scores_div = scores_data.find_all('div', attrs={'class': 'table-responsive'}) # list of div elements # len = 1
+
+#             all_groups = [] # all groups at the competition
+#             groups = {} # {class_lvl: [group, group,...], class_lvl: [...]}
+#             scores= {} # {group: score, ...}
+
+#             scores_table = scores_div[0].table # .table.tbody.tr.td.table
+#             table_rows = scores_table.find_all('tr')
+#             for row in table_rows:
+#                 tcells = [child for child in row.children]
+#                 # print(len(tcells))
+#                 # print(tcells[2])
+#                 if len(tcells) == 3:
+#                     class_level = tcells[1].b.contents[0] # group class_level
+#                     class_groups = [] # groups in this class level
+#                 elif len(tcells) == 4:
+#                     em = tcells[2].contents[1]
+#                     group_name = tcells[2].contents[0].strip() # group names
+#                     location = em.contents[0].replace('(', '').replace(')', '') # group location
+
+#                     group = Group(group_name, class_level, location) # create Group class object
+
+#                     group_json = {
+#                         "name": group.name,
+#                         "class_level": group.class_level,
+#                         "location": group.location
+#                     }
+
+#                     if group_json not in groups_to_write: # check if group in list; add if not
+#                         groups_to_write.append(group_json)
+
+#                     all_groups.append(group) # add group to all groups for that competition
+#                     class_groups.append(group) # add group to list for that class_lvl
+
+#                     score = tcells[-1].b.contents[0]
+#                     scores[group_name] = score
+
+#                 groups[class_level] = class_groups
+
+#             # create Competition class object
+#             competition = Competition(comp_name[0], date, scores, recaps, all_groups)
+#             comp_json = {
+#                 "title": competition.title,
+#                 "date": competition.date,
+#                 "scores": competition.scores,
+#                 "recap": competition.recap,
+#                 "groups": [group.name for group in competition.groups]
+#             }
+#             if comp_json not in comps_to_write: # check if competition in list; add if not
+#                 comps_to_write.append(comp_json)
+#     write_json("./data/competitions.json", comps_to_write, add=True) # write to file
+#     write_json("./data/groups.json", groups_to_write, add=True) # write to file
 
 
 
@@ -305,6 +315,7 @@ if __name__ == '__main__':
     competitions_list = get_links(TEST)
     for comp in competitions_list:
         # TODO
+        print(competitions_list)
 
 
 
