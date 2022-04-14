@@ -223,7 +223,7 @@ if __name__ == '__main__':
                             groups_to_write.append(group_json)
 
                 comp_json = {
-                    "title": str(comp.title),
+                    "title": comp.title[0],
                     "date": comp.date,
                     "scores": comp.scores,
                     "groups": [group.name for group in comp.groups],
