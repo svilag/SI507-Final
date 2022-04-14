@@ -1,0 +1,8 @@
+Start run: 2022-04-13T17:24:08.393721
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/2019-perc-scores/ HTTP/1.1" 200 None
+https://wgi.org/percussion/2019-perc-scores/ added to cache
+Start run: 2022-04-13T17:32:52.411254
+Starting new HTTPS connection (1): wgi.org:443
+https://wgi.org:443 "GET /percussion/2019-perc-scores/ HTTP/1.1" 200 None
+https://wgi.org/percussion/2019-perc-scores/ added to cache

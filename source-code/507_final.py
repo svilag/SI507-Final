@@ -138,8 +138,9 @@ def check_cache(url: str) -> str:
 
 
 def get_competitions(data: str):
-    """ takes a url to a page with a list of competitions with links to their score data, parses the scores page and
-        creates Competition and Group objects. Writes these objects to JSON files.
+    """ takes a url to a page with a list of competitions with links to their score data,
+        parses the scores page and creates Competition and Group objects.
+        Writes these objects to JSON files.
 
     params:
         data(str): link to html content
