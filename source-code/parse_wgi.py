@@ -39,13 +39,13 @@ class Competition:
 
 
 # Functions
-def read_json(filepath, encoding='utf-8') -> dict:
+def read_json(filepath:str, encoding='utf-8') -> dict:
     """Reads a json file and returns a dictionary of the object
     """
     with open(filepath, 'r', encoding=encoding) as file_obj:
         return json.load(file_obj)
 
-def write_json(filepath, data, encoding='utf-8', ensure_ascii=False, indent=4):
+def write_json(filepath:str, data, encoding='utf-8', ensure_ascii=False, indent=4):
     """ Serializes object as JSON. Writes content to the provided filepath.
         Appends to the end of the file. Checks if filepath exists.
         If not, appends file creating a new one if the file does not exists,
@@ -69,7 +69,7 @@ def write_json(filepath, data, encoding='utf-8', ensure_ascii=False, indent=4):
         with open(filepath, 'w', encoding=encoding) as file_obj:
             json.dump(data, file_obj, ensure_ascii=ensure_ascii, indent=indent)
 
-def get_content(url: str) -> str:
+def get_content(url:str) -> str:
     """Takes a url and returns the html content
 
     params:
@@ -121,6 +121,7 @@ def get_competitions(url:str) -> list:
                 scores = "No scores"
                 recaps = "No recaps"
 
+            # create Competition obj with placeholder for groups and scores_by_group
             comp_data = Competition(comp_name, date, scores, recaps, ['test'], {'test': 'test'})
             comps.append(comp_data)
     return comps
