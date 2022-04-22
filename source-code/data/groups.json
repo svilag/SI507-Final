@@ -1,5 +1,780 @@
 [
     {
+        "name": "Infinity 2",
+        "class_level": "Independent Marching Open",
+        "location": " Orlando, FL"
+    },
+    {
+        "name": "River City Rhythm",
+        "class_level": "Independent Marching Open",
+        "location": " Anoka, MN"
+    },
+    {
+        "name": "Bakersfield College",
+        "class_level": "Independent Marching Open",
+        "location": " Bakersfield, CA"
+    },
+    {
+        "name": "Q2",
+        "class_level": "Independent Marching Open",
+        "location": " Atlanta, GA"
+    },
+    {
+        "name": "Matrix Open",
+        "class_level": "Independent Marching Open",
+        "location": " Akron, OH"
+    },
+    {
+        "name": "IMPACT Percussion",
+        "class_level": "Independent Marching Open",
+        "location": " Kennewick, WA"
+    },
+    {
+        "name": "Cap City 2",
+        "class_level": "Independent Marching Open",
+        "location": " Grove City, OH"
+    },
+    {
+        "name": "Triple Crown",
+        "class_level": "Independent Marching Open",
+        "location": " Lexington, KY"
+    },
+    {
+        "name": "Paradigm Percussion",
+        "class_level": "Independent Marching Open",
+        "location": " Iron Station, NC"
+    },
+    {
+        "name": "United Percussion 2",
+        "class_level": "Independent Marching Open",
+        "location": " Voorhees, NJ"
+    },
+    {
+        "name": "Liberty University Indoor Drumline",
+        "class_level": "Independent Marching Open",
+        "location": " Lynchburg, VA"
+    },
+    {
+        "name": "Palmetto Indoor Theatre",
+        "class_level": "Independent Marching Open",
+        "location": " Spartanburg, SC"
+    },
+    {
+        "name": "STRYKE Percussion 2",
+        "class_level": "Independent Marching Open",
+        "location": " Palm Beach, FL"
+    },
+    {
+        "name": "Civitas Independent",
+        "class_level": "Independent Marching Open",
+        "location": " Rock Hill, SC"
+    },
+    {
+        "name": "Freedom Percussion",
+        "class_level": "Independent Marching Open",
+        "location": " St. Louis, MO"
+    },
+    {
+        "name": "Gold Indoor Percussion",
+        "class_level": "Independent Marching Open",
+        "location": " Oceanside, CA"
+    },
+    {
+        "name": "Meraki Percussion",
+        "class_level": "Independent Marching Open",
+        "location": " Pomona, CA"
+    },
+    {
+        "name": "Motor City Percussion",
+        "class_level": "Independent Marching Open",
+        "location": " Detroit, MI"
+    },
+    {
+        "name": "Resistance Indoor Percussion",
+        "class_level": "Independent Marching Open",
+        "location": " Tulsa, OK"
+    },
+    {
+        "name": "Vision Percussion",
+        "class_level": "Independent Marching Open",
+        "location": " Gilbert, AZ"
+    },
+    {
+        "name": "Infinity 3",
+        "class_level": "Independent Marching Open",
+        "location": " Orlando, FL"
+    },
+    {
+        "name": "Breakthrough Indoor Percussion",
+        "class_level": "Independent Marching Open",
+        "location": " Phoenix, AZ"
+    },
+    {
+        "name": "Gold Spike Percussion",
+        "class_level": "Independent Marching Open",
+        "location": " Ogden, UT"
+    },
+    {
+        "name": "Crossroads Percussion",
+        "class_level": "Independent Marching Open",
+        "location": " Ames, IA"
+    },
+    {
+        "name": "Instinct",
+        "class_level": "Independent Marching Open",
+        "location": " Westminster, CA"
+    },
+    {
+        "name": "Dartmouth HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Dartmouth, MA"
+    },
+    {
+        "name": "Arcadia HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Arcadia, CA"
+    },
+    {
+        "name": "Lambert HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Suwanee, GA"
+    },
+    {
+        "name": "Cupertino HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Cupertino, CA"
+    },
+    {
+        "name": "Broken Arrow HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Broken Arrow, OK"
+    },
+    {
+        "name": "Homestead HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Cupertino, CA"
+    },
+    {
+        "name": "Milton HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Milton, GA"
+    },
+    {
+        "name": "Petal HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Petal, MS"
+    },
+    {
+        "name": "South County HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Lorton, VA"
+    },
+    {
+        "name": "Chino Hills HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Chino Hills, CA"
+    },
+    {
+        "name": "Avon HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Avon, IN"
+    },
+    {
+        "name": "Ayala HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Chino Hills, CA"
+    },
+    {
+        "name": "Sparkman HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Harvest, AL"
+    },
+    {
+        "name": "Franklin Central HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Indianapolis, IN"
+    },
+    {
+        "name": "Center Grove HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Greenwood, IN"
+    },
+    {
+        "name": "Timber Creek HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Keller, TX"
+    },
+    {
+        "name": "Carroll Senior HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Southlake, TX"
+    },
+    {
+        "name": "Centerville HS",
+        "class_level": "Scholastic Marching World",
+        "location": " Centerville, OH"
+    },
+    {
+        "name": "Clear Brook HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Friendswood, TX"
+    },
+    {
+        "name": "Burleson HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Burleson, TX"
+    },
+    {
+        "name": "Zionsville Community HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Zionsville, IN"
+    },
+    {
+        "name": "Greenfield-Central HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Greenfield, IN"
+    },
+    {
+        "name": "Norwalk HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Norwalk, CT"
+    },
+    {
+        "name": "Foothill HS (NV)",
+        "class_level": "Scholastic Marching Open",
+        "location": " Henderson, NV"
+    },
+    {
+        "name": "Collins Hill HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Suwanee, GA"
+    },
+    {
+        "name": "Lake Orion HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Lake Orion, MI"
+    },
+    {
+        "name": "Goshen HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Goshen, IN"
+    },
+    {
+        "name": "Boswell HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Ft. Worth, TX"
+    },
+    {
+        "name": "Dorman HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Roebuck, SC"
+    },
+    {
+        "name": "Azle HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Azle, TX"
+    },
+    {
+        "name": "Brandon Valley HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Brandon, SD"
+    },
+    {
+        "name": "Mauldin HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Mauldin, SC"
+    },
+    {
+        "name": "Trumbull HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Trumbull, CT"
+    },
+    {
+        "name": "Hardin Valley Academy",
+        "class_level": "Scholastic Marching Open",
+        "location": " Knoxville, TN"
+    },
+    {
+        "name": "Freedom HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " South Riding, VA"
+    },
+    {
+        "name": "Lebanon HS",
+        "class_level": "Scholastic Marching Open",
+        "location": " Lebanon, OH"
+    },
+    {
+        "name": "North Allegheny HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Wexford, PA"
+    },
+    {
+        "name": "Irondale Combined Schools",
+        "class_level": "Scholastic Marching A",
+        "location": " New Brighton, MN"
+    },
+    {
+        "name": "Kickapoo HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Springfield, MO"
+    },
+    {
+        "name": "Grand Blanc HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Grand Blanc, MI"
+    },
+    {
+        "name": "Beavercreek HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Beavercreek, OH"
+    },
+    {
+        "name": "Cab Calloway HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Wilmington, DE"
+    },
+    {
+        "name": "Bob Jones HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Madison, AL"
+    },
+    {
+        "name": "Everett HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Everett, MA"
+    },
+    {
+        "name": "Lees Summit HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Lees Summit, MO"
+    },
+    {
+        "name": "Southgate Anderson HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Southgate, MI"
+    },
+    {
+        "name": "Thomas Worthington HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Worthington, OH"
+    },
+    {
+        "name": "Clover HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Clover, SC"
+    },
+    {
+        "name": "Franklin Community HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Franklin, IN"
+    },
+    {
+        "name": "Hempfield HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Landisville, PA"
+    },
+    {
+        "name": "Central Dauphin HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Harrisburg, PA"
+    },
+    {
+        "name": "Northview HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Brazil, IN"
+    },
+    {
+        "name": "Osseo Area Combined Schools",
+        "class_level": "Scholastic Marching A",
+        "location": " Osseo, MN"
+    },
+    {
+        "name": "Southport HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Indianapolis, IN"
+    },
+    {
+        "name": "Perry Meridian HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Indianapolis, IN"
+    },
+    {
+        "name": "Hudsonville HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Hudsonville, MI"
+    },
+    {
+        "name": "Westhill HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Stamford, CT"
+    },
+    {
+        "name": "Worthington Kilbourne HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Columbus, OH"
+    },
+    {
+        "name": "Fairborn HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Fairborn, OH"
+    },
+    {
+        "name": "Unionville HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Kennett Square, PA"
+    },
+    {
+        "name": "Ninety Six HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Ninety Six, SC"
+    },
+    {
+        "name": "Pearl HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Pearl, MS"
+    },
+    {
+        "name": "Hamilton Southeastern HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Fishers, IN"
+    },
+    {
+        "name": "E.D. White Catholic HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Thibodaux, LA"
+    },
+    {
+        "name": "Harrison HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Kennesaw, GA"
+    },
+    {
+        "name": "Kings HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Kings Mills, OH"
+    },
+    {
+        "name": "Olentangy Liberty HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Powell, OH"
+    },
+    {
+        "name": "Salem HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Salem, NH"
+    },
+    {
+        "name": "Wapakoneta HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Wapakoneta, OH"
+    },
+    {
+        "name": "Dassel-Cokato HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Cokato, MN"
+    },
+    {
+        "name": "Northeastern HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Springfield, OH"
+    },
+    {
+        "name": "Old Bridge HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Old Bridge, NJ"
+    },
+    {
+        "name": "Vandebilt Catholic HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Houma, LA"
+    },
+    {
+        "name": "Stoneman Douglas HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Parkland, FL"
+    },
+    {
+        "name": "Gulfport HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Gulfport, MS"
+    },
+    {
+        "name": "Bellbrook HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Bellbrook , OH"
+    },
+    {
+        "name": "Elk River Combined Schools",
+        "class_level": "Scholastic Marching A",
+        "location": " Elk River, MN"
+    },
+    {
+        "name": "Bellevue Combined Schools",
+        "class_level": "Scholastic Marching A",
+        "location": " Bellevue, NE"
+    },
+    {
+        "name": "Mililani HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Mililani, HI"
+    },
+    {
+        "name": "Francis Howell Combined Schools",
+        "class_level": "Scholastic Marching A",
+        "location": " St. Charles, MO"
+    },
+    {
+        "name": "Plainfield Combined School",
+        "class_level": "Scholastic Marching A",
+        "location": " Plainfield, IL"
+    },
+    {
+        "name": "Minooka Community HS",
+        "class_level": "Scholastic Marching A",
+        "location": " Minooka, IL"
+    },
+    {
+        "name": "Dennis-Yarmouth HS",
+        "class_level": "Scholastic Marching A",
+        "location": " South Yarmouth, MA"
+    },
+    {
+        "name": "Penn-Trafford HS",
+        "class_level": "Scholastic Concert A",
+        "location": "Harrison City, PA"
+    },
+    {
+        "name": "East Central HS",
+        "class_level": "Scholastic Concert A",
+        "location": "St. Leon, IN"
+    },
+    {
+        "name": "Hatboro-Horsham HS",
+        "class_level": "Scholastic Concert A",
+        "location": "Horsham, PA"
+    },
+    {
+        "name": "West Clermont HS",
+        "class_level": "Scholastic Concert A",
+        "location": "Batavia, OH"
+    },
+    {
+        "name": "Lewis Cass HS",
+        "class_level": "Scholastic Concert A",
+        "location": "Walton, IN"
+    },
+    {
+        "name": "Warren County Public Schools",
+        "class_level": "Scholastic Concert A",
+        "location": "Bowling Green, KY"
+    },
+    {
+        "name": "Clayton HS",
+        "class_level": "Scholastic Concert A",
+        "location": "Clayton, NC"
+    },
+    {
+        "name": "First Colonial HS",
+        "class_level": "Scholastic Concert A",
+        "location": "Virginia Beach, VA"
+    },
+    {
+        "name": "Atoka HS",
+        "class_level": "Scholastic Concert A",
+        "location": "Atoka , OK"
+    },
+    {
+        "name": "Madison Southern HS",
+        "class_level": "Scholastic Concert A",
+        "location": "Berea, KY"
+    },
+    {
+        "name": "Muscle Shoals HS",
+        "class_level": "Scholastic Concert Open",
+        "location": "Muscle Shoals, AL"
+    },
+    {
+        "name": "Corona del Sol HS",
+        "class_level": "Scholastic Concert Open",
+        "location": "Tempe, AZ"
+    },
+    {
+        "name": "Campbell County HS",
+        "class_level": "Scholastic Concert Open",
+        "location": "Alexandria, KY"
+    },
+    {
+        "name": "Plainfield HS",
+        "class_level": "Scholastic Concert Open",
+        "location": "Plainfield, IN"
+    },
+    {
+        "name": "Cleveland HS",
+        "class_level": "Scholastic Concert Open",
+        "location": "Clayton, NC"
+    },
+    {
+        "name": "Powhatan HS",
+        "class_level": "Scholastic Concert Open",
+        "location": "Powhatan, VA"
+    },
+    {
+        "name": "Fishers HS",
+        "class_level": "Scholastic Concert World",
+        "location": "Fishers, IN"
+    },
+    {
+        "name": "North Forney HS",
+        "class_level": "Scholastic Concert World",
+        "location": "Forney, TX"
+    },
+    {
+        "name": "Catawba Ridge HS",
+        "class_level": "Scholastic Concert World",
+        "location": "Fort Mill, SC"
+    },
+    {
+        "name": "Corinth Holders HS",
+        "class_level": "Scholastic Concert World",
+        "location": "Wendell, NC"
+    },
+    {
+        "name": "Ayala HS",
+        "class_level": "Scholastic Concert World",
+        "location": "Chino Hills, CA"
+    },
+    {
+        "name": "Tunstall HS",
+        "class_level": "Scholastic Concert World",
+        "location": "Danville, VA"
+    },
+    {
+        "name": "North Allegheny HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Wexford, PA"
+    },
+    {
+        "name": "Mars Area HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Mars, PA"
+    },
+    {
+        "name": "Beavercreek HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Beavercreek, OH"
+    },
+    {
+        "name": "Olentangy Liberty HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Powell, OH"
+    },
+    {
+        "name": "Seymour HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Seymour, TN"
+    },
+    {
+        "name": "Francis Howell Combined Schools",
+        "class_level": "Scholastic Marching A",
+        "location": "St. Charles, MO"
+    },
+    {
+        "name": "Milford HS (OH)",
+        "class_level": "Scholastic Marching A",
+        "location": "Milford, OH"
+    },
+    {
+        "name": "Worthington Kilbourne HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Columbus, OH"
+    },
+    {
+        "name": "Matrix A",
+        "class_level": "Independent Marching A",
+        "location": "Akron, OH"
+    },
+    {
+        "name": "Nomad Indoor",
+        "class_level": "Independent Marching A",
+        "location": "Lyndora , PA"
+    },
+    {
+        "name": "Zionsville Community HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Zionsville, IN"
+    },
+    {
+        "name": "Ravenwood HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Brentwood, TN"
+    },
+    {
+        "name": "Kettering Fairmont HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Kettering, OH"
+    },
+    {
+        "name": "Matrix Open",
+        "class_level": "Independent Marching Open",
+        "location": "Akron, OH"
+    },
+    {
+        "name": "Cap City 2",
+        "class_level": "Independent Marching Open",
+        "location": "Grove City, OH"
+    },
+    {
+        "name": "Triple Crown",
+        "class_level": "Independent Marching Open",
+        "location": "Lexington, KY"
+    },
+    {
+        "name": "Fishers HS",
+        "class_level": "Scholastic Marching World",
+        "location": "Fishers, IN"
+    },
+    {
+        "name": "Centerville HS",
+        "class_level": "Scholastic Marching World",
+        "location": "Centerville, OH"
+    },
+    {
+        "name": "Rhythm X",
+        "class_level": "Independent Marching World",
+        "location": "Dayton, OH"
+    },
+    {
+        "name": "Music City Mystique",
+        "class_level": "Independent Marching World",
+        "location": "Nashville, TN"
+    },
+    {
+        "name": "Matrix",
+        "class_level": "Independent Marching World",
+        "location": "Akron, OH"
+    },
+    {
+        "name": "Cap City Percussion",
+        "class_level": "Independent Marching World",
+        "location": "Columbus, OH"
+    },
+    {
+        "name": "ConneXus",
+        "class_level": "Independent Marching World",
+        "location": "Cincinnati, OH"
+    },
+    {
+        "name": "Veritas",
+        "class_level": "Independent Marching World",
+        "location": "Indianapolis, IN"
+    },
+    {
+        "name": "4th Wall",
+        "class_level": "Independent Marching World",
+        "location": "Louisville, Ky"
+    },
+    {
         "name": "Los Alamitos HS",
         "class_level": "Scholastic Marching A",
         "location": "Los Alamitos, CA"
@@ -53,11 +828,6 @@
         "name": "West Ranch HS",
         "class_level": "Scholastic Concert World",
         "location": "Stevenson Ranch, CA"
-    },
-    {
-        "name": "Ayala HS",
-        "class_level": "Scholastic Concert World",
-        "location": "Chino Hills, CA"
     },
     {
         "name": "Great Oak HS",
@@ -215,149 +985,79 @@
         "location": "Casa Grande, AZ"
     },
     {
-        "name": "North Allegheny HS",
+        "name": "Merced Union High School District",
         "class_level": "Scholastic Marching A",
-        "location": "Wexford, PA"
+        "location": "Merced, CA"
     },
     {
-        "name": "Mars Area HS",
+        "name": "Ridgeview HS",
         "class_level": "Scholastic Marching A",
-        "location": "Mars, PA"
+        "location": "Bakersfield, CA"
     },
     {
-        "name": "Beavercreek HS",
+        "name": "University HS",
         "class_level": "Scholastic Marching A",
-        "location": "Beavercreek, OH"
+        "location": "Tucson, AZ"
     },
     {
-        "name": "Olentangy Liberty HS",
+        "name": "Ogden HS",
         "class_level": "Scholastic Marching A",
-        "location": "Powell, OH"
+        "location": "Ogden, UT"
     },
     {
-        "name": "Seymour HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Seymour, TN"
-    },
-    {
-        "name": "Francis Howell Combined Schools",
-        "class_level": "Scholastic Marching A",
-        "location": "St. Charles, MO"
-    },
-    {
-        "name": "Milford HS (OH)",
-        "class_level": "Scholastic Marching A",
-        "location": "Milford, OH"
-    },
-    {
-        "name": "Worthington Kilbourne HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Columbus, OH"
-    },
-    {
-        "name": "Matrix A",
-        "class_level": "Independent Marching A",
-        "location": "Akron, OH"
-    },
-    {
-        "name": "Nomad Indoor",
-        "class_level": "Independent Marching A",
-        "location": "Lyndora , PA"
-    },
-    {
-        "name": "East Central HS",
-        "class_level": "Scholastic Concert A",
-        "location": "St. Leon, IN"
-    },
-    {
-        "name": "Penn-Trafford HS",
-        "class_level": "Scholastic Concert A",
-        "location": "Harrison City, PA"
-    },
-    {
-        "name": "West Clermont HS",
-        "class_level": "Scholastic Concert A",
-        "location": "Batavia, OH"
-    },
-    {
-        "name": "Campbell County HS",
-        "class_level": "Scholastic Concert Open",
-        "location": "Alexandria, KY"
-    },
-    {
-        "name": "Zionsville Community HS",
+        "name": "Arcadia HS",
         "class_level": "Scholastic Marching Open",
-        "location": "Zionsville, IN"
+        "location": "Arcadia, CA"
     },
     {
-        "name": "Ravenwood HS",
+        "name": "Pleasant Grove HS",
         "class_level": "Scholastic Marching Open",
-        "location": "Brentwood, TN"
+        "location": "Pleasant Grove, UT"
     },
     {
-        "name": "Kettering Fairmont HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Kettering, OH"
-    },
-    {
-        "name": "Matrix Open",
+        "name": "Breakthrough Indoor Percussion",
         "class_level": "Independent Marching Open",
-        "location": "Akron, OH"
+        "location": "Phoenix, AZ"
     },
     {
-        "name": "Cap City 2",
+        "name": "Vision Percussion",
         "class_level": "Independent Marching Open",
-        "location": "Grove City, OH"
+        "location": "Gilbert, AZ"
     },
     {
-        "name": "Triple Crown",
-        "class_level": "Independent Marching Open",
-        "location": "Lexington, KY"
+        "name": "Kings HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Kings Mills, OH"
     },
     {
-        "name": "Fishers HS",
-        "class_level": "Scholastic Marching World",
-        "location": "Fishers, IN"
+        "name": "Bellbrook HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Bellbrook , OH"
     },
     {
-        "name": "Centerville HS",
-        "class_level": "Scholastic Marching World",
-        "location": "Centerville, OH"
+        "name": "Bob Jones HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Madison, AL"
     },
     {
-        "name": "Rhythm X",
-        "class_level": "Independent Marching World",
-        "location": "Dayton, OH"
+        "name": "Hudsonville HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Hudsonville, MI"
     },
     {
-        "name": "Music City Mystique",
-        "class_level": "Independent Marching World",
-        "location": "Nashville, TN"
+        "name": "Thomas Worthington HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Worthington, OH"
     },
     {
-        "name": "Matrix",
-        "class_level": "Independent Marching World",
-        "location": "Akron, OH"
+        "name": "Fairborn HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Fairborn, OH"
     },
     {
-        "name": "Cap City Percussion",
-        "class_level": "Independent Marching World",
-        "location": "Columbus, OH"
-    },
-    {
-        "name": "ConneXus",
-        "class_level": "Independent Marching World",
-        "location": "Cincinnati, OH"
-    },
-    {
-        "name": "Veritas",
-        "class_level": "Independent Marching World",
-        "location": "Indianapolis, IN"
-    },
-    {
-        "name": "4th Wall",
-        "class_level": "Independent Marching World",
-        "location": "Louisville, Ky"
+        "name": "Wapakoneta HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Wapakoneta, OH"
     },
     {
         "name": "Old Bridge HS",
@@ -475,11 +1175,6 @@
         "location": "Washington, NC"
     },
     {
-        "name": "Hatboro-Horsham HS",
-        "class_level": "Scholastic Concert A",
-        "location": "Horsham, PA"
-    },
-    {
         "name": "Monroe Township HS",
         "class_level": "Scholastic Concert A",
         "location": "Monroe Township, NJ"
@@ -543,81 +1238,6 @@
         "name": "Imperial Dynasty",
         "class_level": "Independent Marching World",
         "location": "Wilmington, DE"
-    },
-    {
-        "name": "Merced Union High School District",
-        "class_level": "Scholastic Marching A",
-        "location": "Merced, CA"
-    },
-    {
-        "name": "Ridgeview HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Bakersfield, CA"
-    },
-    {
-        "name": "University HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Tucson, AZ"
-    },
-    {
-        "name": "Ogden HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Ogden, UT"
-    },
-    {
-        "name": "Arcadia HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Arcadia, CA"
-    },
-    {
-        "name": "Pleasant Grove HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Pleasant Grove, UT"
-    },
-    {
-        "name": "Breakthrough Indoor Percussion",
-        "class_level": "Independent Marching Open",
-        "location": "Phoenix, AZ"
-    },
-    {
-        "name": "Vision Percussion",
-        "class_level": "Independent Marching Open",
-        "location": "Gilbert, AZ"
-    },
-    {
-        "name": "Kings HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Kings Mills, OH"
-    },
-    {
-        "name": "Bellbrook HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Bellbrook , OH"
-    },
-    {
-        "name": "Bob Jones HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Madison, AL"
-    },
-    {
-        "name": "Hudsonville HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Hudsonville, MI"
-    },
-    {
-        "name": "Thomas Worthington HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Worthington, OH"
-    },
-    {
-        "name": "Fairborn HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Fairborn, OH"
-    },
-    {
-        "name": "Wapakoneta HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Wapakoneta, OH"
     },
     {
         "name": "Kamiak HS",
@@ -700,24 +1320,19 @@
         "location": "Lewisville, TX"
     },
     {
-        "name": "Robert Vela HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Edinburg, TX"
-    },
-    {
         "name": "Southmoore HS",
         "class_level": "Scholastic Marching A",
         "location": "Moore, OK"
     },
     {
+        "name": "Robert Vela HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Edinburg, TX"
+    },
+    {
         "name": "Rockwall Heath HS",
         "class_level": "Scholastic Concert A",
         "location": "Rockwall, TX"
-    },
-    {
-        "name": "Atoka HS",
-        "class_level": "Scholastic Concert A",
-        "location": "Atoka , OK"
     },
     {
         "name": "Harmony MS",
@@ -728,11 +1343,6 @@
         "name": "Keller Central HS",
         "class_level": "Scholastic Concert Open",
         "location": "Fort Worth, TX"
-    },
-    {
-        "name": "North Forney HS",
-        "class_level": "Scholastic Concert World",
-        "location": "Forney, TX"
     },
     {
         "name": "Brazos Valley Independent Percussion",
@@ -755,6 +1365,11 @@
         "location": "Ft. Worth, TX"
     },
     {
+        "name": "Rock Hill HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Frisco, TX"
+    },
+    {
         "name": "Fossil Ridge HS",
         "class_level": "Scholastic Marching Open",
         "location": "Fort Worth, TX"
@@ -763,11 +1378,6 @@
         "name": "Forney HS",
         "class_level": "Scholastic Marching Open",
         "location": "Forney, TX"
-    },
-    {
-        "name": "Rock Hill HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Frisco, TX"
     },
     {
         "name": "Saginaw HS",
@@ -890,11 +1500,6 @@
         "location": "Cary, NC"
     },
     {
-        "name": "Warren County Public Schools",
-        "class_level": "Scholastic Concert A",
-        "location": "Bowling Green, KY"
-    },
-    {
         "name": "Newnan HS",
         "class_level": "Scholastic Concert A",
         "location": "Newnan, GA"
@@ -938,6 +1543,191 @@
         "name": "Audio Theater",
         "class_level": "Independent Marching World",
         "location": "Nashville, TN"
+    },
+    {
+        "name": "Hernando HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Hernando, MS"
+    },
+    {
+        "name": "Pearl HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Pearl, MS"
+    },
+    {
+        "name": "Desoto Central HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Southaven, MS"
+    },
+    {
+        "name": "Oak Grove HS (MS)",
+        "class_level": "Scholastic Marching A",
+        "location": "Hattiesburg, MS"
+    },
+    {
+        "name": "Vandebilt Catholic HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Houma, LA"
+    },
+    {
+        "name": "West Harrison HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Gulfport, MS"
+    },
+    {
+        "name": "Harrison Central HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Gulfport, MS"
+    },
+    {
+        "name": "Gulfport HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Gulfport, MS"
+    },
+    {
+        "name": "E.D. White Catholic HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Thibodaux, LA"
+    },
+    {
+        "name": "Gulf Breeze HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Gulf Breeze, FL"
+    },
+    {
+        "name": "Warren Central HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Vicksburg, MS"
+    },
+    {
+        "name": "Clinton HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Clinton, MS"
+    },
+    {
+        "name": "Long Beach HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Long Beach, MS"
+    },
+    {
+        "name": "St. Martin Independent",
+        "class_level": "Independent Marching A",
+        "location": "Ocean Springs, MS"
+    },
+    {
+        "name": "Robertsdale HS",
+        "class_level": "Scholastic Concert Open",
+        "location": "Robertsdale, AL"
+    },
+    {
+        "name": "Pace HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Pace, FL"
+    },
+    {
+        "name": "Newsome HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Lithia, FL"
+    },
+    {
+        "name": "Centaurus HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Lafayette, CO"
+    },
+    {
+        "name": "Longmont Combined Schools",
+        "class_level": "Scholastic Marching A",
+        "location": "Longmont, CO"
+    },
+    {
+        "name": "Monarch HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Louisville, CO"
+    },
+    {
+        "name": "Rampart HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Colorado Springs, CO"
+    },
+    {
+        "name": "Columbus HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Columbus, NE"
+    },
+    {
+        "name": "Dakota Ridge HS",
+        "class_level": "Scholastic Concert A",
+        "location": "Littleton, CO"
+    },
+    {
+        "name": "Broomfield HS",
+        "class_level": "Scholastic Concert Open",
+        "location": "Broomfield, CO"
+    },
+    {
+        "name": "Arapahoe HS",
+        "class_level": "Scholastic Concert Open",
+        "location": "Centennial, CO"
+    },
+    {
+        "name": "Legacy HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Broomfield, CO"
+    },
+    {
+        "name": "Blue Knights",
+        "class_level": "Independent Marching World",
+        "location": "Denver, CO"
+    },
+    {
+        "name": "Rise Percussion",
+        "class_level": "Independent Marching World",
+        "location": "Denver, CO"
+    },
+    {
+        "name": "Damonte Ranch HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Reno, NV"
+    },
+    {
+        "name": "Golden Valley HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Merced, CA"
+    },
+    {
+        "name": "Atwater HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Atwater, CA"
+    },
+    {
+        "name": "Liberty HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Bakersfield, CA"
+    },
+    {
+        "name": "Independence HS (Bakersfield)",
+        "class_level": "Scholastic Marching Open",
+        "location": "Bakersfield, CA"
+    },
+    {
+        "name": "Stockdale HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Bakersfield, CA"
+    },
+    {
+        "name": "Granite Bay HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Granite Bay , CA"
+    },
+    {
+        "name": "Sac State Indoor",
+        "class_level": "Independent Marching Open",
+        "location": "Sacramento, CA"
+    },
+    {
+        "name": "Cupertino HS",
+        "class_level": "Scholastic Marching World",
+        "location": "Cupertino, CA"
     },
     {
         "name": "Walden Grove HS",
@@ -1000,11 +1790,6 @@
         "location": "Phoenix, AZ"
     },
     {
-        "name": "Corona del Sol HS",
-        "class_level": "Scholastic Concert Open",
-        "location": "Tempe, AZ"
-    },
-    {
         "name": "Basha HS",
         "class_level": "Scholastic Marching Open",
         "location": "Chandler, AZ"
@@ -1018,191 +1803,6 @@
         "name": "Flux Indoor Percussion",
         "class_level": "Independent Marching Open",
         "location": "Casa Grande, AZ"
-    },
-    {
-        "name": "Damonte Ranch HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Reno, NV"
-    },
-    {
-        "name": "Golden Valley HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Merced, CA"
-    },
-    {
-        "name": "Atwater HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Atwater, CA"
-    },
-    {
-        "name": "Liberty HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Bakersfield, CA"
-    },
-    {
-        "name": "Independence HS (Bakersfield)",
-        "class_level": "Scholastic Marching Open",
-        "location": "Bakersfield, CA"
-    },
-    {
-        "name": "Stockdale HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Bakersfield, CA"
-    },
-    {
-        "name": "Granite Bay HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Granite Bay , CA"
-    },
-    {
-        "name": "Sac State Indoor",
-        "class_level": "Independent Marching Open",
-        "location": "Sacramento, CA"
-    },
-    {
-        "name": "Cupertino HS",
-        "class_level": "Scholastic Marching World",
-        "location": "Cupertino, CA"
-    },
-    {
-        "name": "Centaurus HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Lafayette, CO"
-    },
-    {
-        "name": "Longmont Combined Schools",
-        "class_level": "Scholastic Marching A",
-        "location": "Longmont, CO"
-    },
-    {
-        "name": "Monarch HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Louisville, CO"
-    },
-    {
-        "name": "Rampart HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Colorado Springs, CO"
-    },
-    {
-        "name": "Columbus HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Columbus, NE"
-    },
-    {
-        "name": "Dakota Ridge HS",
-        "class_level": "Scholastic Concert A",
-        "location": "Littleton, CO"
-    },
-    {
-        "name": "Broomfield HS",
-        "class_level": "Scholastic Concert Open",
-        "location": "Broomfield, CO"
-    },
-    {
-        "name": "Arapahoe HS",
-        "class_level": "Scholastic Concert Open",
-        "location": "Centennial, CO"
-    },
-    {
-        "name": "Legacy HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Broomfield, CO"
-    },
-    {
-        "name": "Blue Knights",
-        "class_level": "Independent Marching World",
-        "location": "Denver, CO"
-    },
-    {
-        "name": "Rise Percussion",
-        "class_level": "Independent Marching World",
-        "location": "Denver, CO"
-    },
-    {
-        "name": "Pearl HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Pearl, MS"
-    },
-    {
-        "name": "Hernando HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Hernando, MS"
-    },
-    {
-        "name": "Desoto Central HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Southaven, MS"
-    },
-    {
-        "name": "Oak Grove HS (MS)",
-        "class_level": "Scholastic Marching A",
-        "location": "Hattiesburg, MS"
-    },
-    {
-        "name": "Vandebilt Catholic HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Houma, LA"
-    },
-    {
-        "name": "Harrison Central HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Gulfport, MS"
-    },
-    {
-        "name": "Gulfport HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Gulfport, MS"
-    },
-    {
-        "name": "E.D. White Catholic HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Thibodaux, LA"
-    },
-    {
-        "name": "West Harrison HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Gulfport, MS"
-    },
-    {
-        "name": "Gulf Breeze HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Gulf Breeze, FL"
-    },
-    {
-        "name": "Warren Central HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Vicksburg, MS"
-    },
-    {
-        "name": "Clinton HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Clinton, MS"
-    },
-    {
-        "name": "Long Beach HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Long Beach, MS"
-    },
-    {
-        "name": "St. Martin Independent",
-        "class_level": "Independent Marching A",
-        "location": "Ocean Springs, MS"
-    },
-    {
-        "name": "Robertsdale HS",
-        "class_level": "Scholastic Concert Open",
-        "location": "Robertsdale, AL"
-    },
-    {
-        "name": "Pace HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Pace, FL"
-    },
-    {
-        "name": "Newsome HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Lithia, FL"
     },
     {
         "name": "T.L. Hanna HS",
@@ -1240,11 +1840,6 @@
         "location": "Charleston, SC"
     },
     {
-        "name": "Clayton HS",
-        "class_level": "Scholastic Concert A",
-        "location": "Clayton, NC"
-    },
-    {
         "name": "Catawba Ridge HS",
         "class_level": "Scholastic Concert Open",
         "location": "Fort Mill, SC"
@@ -1253,11 +1848,6 @@
         "name": "Corinth Holders HS",
         "class_level": "Scholastic Concert Open",
         "location": "Wendell, NC"
-    },
-    {
-        "name": "Cleveland HS",
-        "class_level": "Scholastic Concert Open",
-        "location": "Clayton, NC"
     },
     {
         "name": "Dorman HS",
@@ -1320,16 +1910,6 @@
         "location": "Fruitport, MI"
     },
     {
-        "name": "Lewis Cass HS",
-        "class_level": "Scholastic Concert A",
-        "location": "Walton, IN"
-    },
-    {
-        "name": "Fishers HS",
-        "class_level": "Scholastic Concert World",
-        "location": "Fishers, IN"
-    },
-    {
         "name": "Decatur Central HS",
         "class_level": "Scholastic Marching Open",
         "location": "Indianapolis, IN"
@@ -1388,6 +1968,116 @@
         "name": "ConneXus",
         "class_level": "Independent Marching World",
         "location": "Delaware, OH"
+    },
+    {
+        "name": "Green Hope HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Cary, NC"
+    },
+    {
+        "name": "West Shore School District",
+        "class_level": "Scholastic Marching A",
+        "location": "Lewisberry, PA"
+    },
+    {
+        "name": "Clarke County HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Berryville, VA"
+    },
+    {
+        "name": "Hickory HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Chesapeake, VA"
+    },
+    {
+        "name": "Millbrook HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Winchester, VA"
+    },
+    {
+        "name": "Albemarle County Combined Schools",
+        "class_level": "Scholastic Marching A",
+        "location": "Charlottesville, VA"
+    },
+    {
+        "name": "Powhatan MS",
+        "class_level": "Scholastic Marching A",
+        "location": "Powhatan, VA"
+    },
+    {
+        "name": "Thomas Jefferson HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Alexandria, VA"
+    },
+    {
+        "name": "Powhatan HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Powhatan, VA"
+    },
+    {
+        "name": "Panther Creek HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Cary, NC"
+    },
+    {
+        "name": "Chantilly HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Chantilly, VA"
+    },
+    {
+        "name": "Freedom HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "South Riding, VA"
+    },
+    {
+        "name": "Old Line Independent Percussion",
+        "class_level": "Independent Marching Open",
+        "location": "Frederick, MD"
+    },
+    {
+        "name": "Liberty University Indoor Drumline",
+        "class_level": "Independent Marching Open",
+        "location": "Lynchburg, VA"
+    },
+    {
+        "name": "South County HS",
+        "class_level": "Scholastic Marching World",
+        "location": "Lorton, VA"
+    },
+    {
+        "name": "Central Crossing HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Grove City, OH"
+    },
+    {
+        "name": "Southport HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Indianapolis, IN"
+    },
+    {
+        "name": "Northview HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Brazil, IN"
+    },
+    {
+        "name": "Northeastern HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Springfield, OH"
+    },
+    {
+        "name": "Greenwood HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Greenwood, IN"
+    },
+    {
+        "name": "Southgate Anderson HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Southgate, MI"
+    },
+    {
+        "name": "Goshen HS",
+        "class_level": "Scholastic Marching Open",
+        "location": "Goshen, IN"
     },
     {
         "name": "Klein Collins HS",
@@ -1495,41 +2185,6 @@
         "location": "Houston, TX"
     },
     {
-        "name": "Central Crossing HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Grove City, OH"
-    },
-    {
-        "name": "Southport HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Indianapolis, IN"
-    },
-    {
-        "name": "Northview HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Brazil, IN"
-    },
-    {
-        "name": "Northeastern HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Springfield, OH"
-    },
-    {
-        "name": "Greenwood HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Greenwood, IN"
-    },
-    {
-        "name": "Southgate Anderson HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Southgate, MI"
-    },
-    {
-        "name": "Goshen HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Goshen, IN"
-    },
-    {
         "name": "Oak Ridge HS",
         "class_level": "Scholastic Marching A",
         "location": "Oak Ridge, TN"
@@ -1585,16 +2240,6 @@
         "location": "Gallatin, TN"
     },
     {
-        "name": "Madison Southern HS",
-        "class_level": "Scholastic Concert A",
-        "location": "Berea, KY"
-    },
-    {
-        "name": "Muscle Shoals HS",
-        "class_level": "Scholastic Concert Open",
-        "location": "Muscle Shoals, AL"
-    },
-    {
         "name": "West HS",
         "class_level": "Scholastic Concert Open",
         "location": "Knoxville, TN"
@@ -1640,94 +2285,49 @@
         "location": "Broken Arrow, OK"
     },
     {
-        "name": "Green Hope HS",
+        "name": "Hempfield HS",
         "class_level": "Scholastic Marching A",
-        "location": "Cary, NC"
+        "location": "Landisville, PA"
     },
     {
-        "name": "West Shore School District",
+        "name": "Central Dauphin HS",
         "class_level": "Scholastic Marching A",
-        "location": "Lewisberry, PA"
+        "location": "Harrisburg, PA"
     },
     {
-        "name": "Clarke County HS",
+        "name": "Londonderry HS",
         "class_level": "Scholastic Marching A",
-        "location": "Berryville, VA"
+        "location": "Londonderry, NH"
     },
     {
-        "name": "Hickory HS",
+        "name": "New Milford HS",
         "class_level": "Scholastic Marching A",
-        "location": "Chesapeake, VA"
+        "location": "New Milford, CT"
     },
     {
-        "name": "Millbrook HS",
+        "name": "Dennis-Yarmouth HS",
         "class_level": "Scholastic Marching A",
-        "location": "Winchester, VA"
+        "location": "South Yarmouth, MA"
     },
     {
-        "name": "Albemarle County Combined Schools",
+        "name": "Cranston Combined Schools",
         "class_level": "Scholastic Marching A",
-        "location": "Charlottesville, VA"
+        "location": "Cranston, RI"
     },
     {
-        "name": "Powhatan MS",
+        "name": "Eastridge HS",
         "class_level": "Scholastic Marching A",
-        "location": "Powhatan, VA"
+        "location": "Irondequoit, NY"
     },
     {
-        "name": "First Colonial HS",
-        "class_level": "Scholastic Concert A",
-        "location": "Virginia Beach, VA"
+        "name": "Salem HS",
+        "class_level": "Scholastic Marching A",
+        "location": "Salem, NH"
     },
     {
-        "name": "Powhatan HS",
-        "class_level": "Scholastic Concert Open",
-        "location": "Powhatan, VA"
-    },
-    {
-        "name": "Tunstall HS",
-        "class_level": "Scholastic Concert World",
-        "location": "Danville, VA"
-    },
-    {
-        "name": "Thomas Jefferson HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Alexandria, VA"
-    },
-    {
-        "name": "Powhatan HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Powhatan, VA"
-    },
-    {
-        "name": "Panther Creek HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Cary, NC"
-    },
-    {
-        "name": "Chantilly HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "Chantilly, VA"
-    },
-    {
-        "name": "Freedom HS",
-        "class_level": "Scholastic Marching Open",
-        "location": "South Riding, VA"
-    },
-    {
-        "name": "Old Line Independent Percussion",
-        "class_level": "Independent Marching Open",
-        "location": "Frederick, MD"
-    },
-    {
-        "name": "Liberty University Indoor Drumline",
-        "class_level": "Independent Marching Open",
-        "location": "Lynchburg, VA"
-    },
-    {
-        "name": "South County HS",
-        "class_level": "Scholastic Marching World",
-        "location": "Lorton, VA"
+        "name": "United Percussion 2",
+        "class_level": "Independent Marching A",
+        "location": "Voorhees, NJ"
     },
     {
         "name": "J.W. Mitchell HS",
@@ -1823,51 +2423,6 @@
         "name": "Price Charter School",
         "class_level": "Scholastic Concert A",
         "location": "San Jose, CA"
-    },
-    {
-        "name": "Hempfield HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Landisville, PA"
-    },
-    {
-        "name": "Central Dauphin HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Harrisburg, PA"
-    },
-    {
-        "name": "Londonderry HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Londonderry, NH"
-    },
-    {
-        "name": "New Milford HS",
-        "class_level": "Scholastic Marching A",
-        "location": "New Milford, CT"
-    },
-    {
-        "name": "Dennis-Yarmouth HS",
-        "class_level": "Scholastic Marching A",
-        "location": "South Yarmouth, MA"
-    },
-    {
-        "name": "Cranston Combined Schools",
-        "class_level": "Scholastic Marching A",
-        "location": "Cranston, RI"
-    },
-    {
-        "name": "Eastridge HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Irondequoit, NY"
-    },
-    {
-        "name": "Salem HS",
-        "class_level": "Scholastic Marching A",
-        "location": "Salem, NH"
-    },
-    {
-        "name": "United Percussion 2",
-        "class_level": "Independent Marching A",
-        "location": "Voorhees, NJ"
     },
     {
         "name": "Lake Central HS",
@@ -2875,16 +3430,6 @@
         "location": "Ogden, UT"
     },
     {
-        "name": "Clear Brook HS",
-        "class_level": "Scholastic Marching Open",
-        "location": " Friendswood, TX"
-    },
-    {
-        "name": "Norwalk HS",
-        "class_level": "Scholastic Marching Open",
-        "location": " Norwalk, CT"
-    },
-    {
         "name": "Plainfield HS",
         "class_level": "Scholastic Marching Open",
         "location": " Plainfield, IN"
@@ -2903,11 +3448,6 @@
         "name": "Belleville East HS",
         "class_level": "Scholastic Marching Open",
         "location": " Belleville, IL"
-    },
-    {
-        "name": "Trumbull HS",
-        "class_level": "Scholastic Marching Open",
-        "location": " Trumbull, CT"
     },
     {
         "name": "Pace HS",
@@ -2933,11 +3473,6 @@
         "name": "Powhatan HS",
         "class_level": "Scholastic Marching Open",
         "location": " Powhatan, VA"
-    },
-    {
-        "name": "Lake Orion HS",
-        "class_level": "Scholastic Marching Open",
-        "location": " Lake Orion, MI"
     },
     {
         "name": "Mansfield HS",
@@ -3180,54 +3715,14 @@
         "location": " Phoenix, AZ"
     },
     {
-        "name": "Chino Hills HS",
-        "class_level": "Scholastic Marching World",
-        "location": " Chino Hills, CA"
-    },
-    {
-        "name": "Ayala HS",
-        "class_level": "Scholastic Marching World",
-        "location": " Chino Hills, CA"
-    },
-    {
-        "name": "Avon HS",
-        "class_level": "Scholastic Marching World",
-        "location": " Avon, IN"
-    },
-    {
-        "name": "Franklin Central HS",
-        "class_level": "Scholastic Marching World",
-        "location": " Indianapolis, IN"
-    },
-    {
         "name": "Lebanon HS",
         "class_level": "Scholastic Marching World",
         "location": " Lebanon, OH"
     },
     {
-        "name": "Center Grove HS",
-        "class_level": "Scholastic Marching World",
-        "location": " Greenwood, IN"
-    },
-    {
-        "name": "Milton HS",
-        "class_level": "Scholastic Marching World",
-        "location": " Milton, GA"
-    },
-    {
         "name": "Cesar E Chavez HS",
         "class_level": "Scholastic Marching World",
         "location": " Delano, CA"
-    },
-    {
-        "name": "Lambert HS",
-        "class_level": "Scholastic Marching World",
-        "location": " Suwanee, GA"
-    },
-    {
-        "name": "Centerville HS",
-        "class_level": "Scholastic Marching World",
-        "location": " Centerville, OH"
     },
     {
         "name": "Eden Prairie HS",
@@ -3240,11 +3735,6 @@
         "location": " Arcadia, California"
     },
     {
-        "name": "Dartmouth HS",
-        "class_level": "Scholastic Marching World",
-        "location": " Dartmouth, MA"
-    },
-    {
         "name": "Burleson Centennial HS",
         "class_level": "Scholastic Marching World",
         "location": " Burleson, Texas"
@@ -3253,21 +3743,6 @@
         "name": "Etiwanda HS",
         "class_level": "Scholastic Marching World",
         "location": " Rancho Cucamonga, CA"
-    },
-    {
-        "name": "Homestead HS",
-        "class_level": "Scholastic Marching World",
-        "location": " Cupertino, CA"
-    },
-    {
-        "name": "Petal HS",
-        "class_level": "Scholastic Marching World",
-        "location": " Petal, MS"
-    },
-    {
-        "name": "South County HS",
-        "class_level": "Scholastic Marching World",
-        "location": " Lorton, VA"
     },
     {
         "name": "Walled Lake Central HS",
@@ -3285,39 +3760,14 @@
         "location": " Suwanee , GA"
     },
     {
-        "name": "Bakersfield College",
-        "class_level": "Independent Marching Open",
-        "location": " Bakersfield, CA"
-    },
-    {
-        "name": "Infinity 2",
-        "class_level": "Independent Marching Open",
-        "location": " Orlando, FL"
-    },
-    {
-        "name": "Matrix Open",
-        "class_level": "Independent Marching Open",
-        "location": " Akron, OH"
-    },
-    {
         "name": "Violet Crown Independent",
         "class_level": "Independent Marching Open",
         "location": " San Antonio, TX"
     },
     {
-        "name": "Civitas Independent",
-        "class_level": "Independent Marching Open",
-        "location": " Rock Hill, SC"
-    },
-    {
         "name": "Rhythmic Force Percussion",
         "class_level": "Independent Marching Open",
         "location": " Austin, TX"
-    },
-    {
-        "name": "River City Rhythm",
-        "class_level": "Independent Marching Open",
-        "location": " Anoka, MN"
     },
     {
         "name": "Red Wave Indoor",
@@ -3328,16 +3778,6 @@
         "name": "Elite Independent Percussion",
         "class_level": "Independent Marching Open",
         "location": " Covington, LA"
-    },
-    {
-        "name": "Motor City Percussion",
-        "class_level": "Independent Marching Open",
-        "location": " Detroit, MI"
-    },
-    {
-        "name": "Q2",
-        "class_level": "Independent Marching Open",
-        "location": " Atlanta, GA"
     },
     {
         "name": "Flux Indoor Percussion",
@@ -3370,16 +3810,6 @@
         "location": " Orleans, MA"
     },
     {
-        "name": "Triple Crown",
-        "class_level": "Independent Marching Open",
-        "location": " Lexington, KY"
-    },
-    {
-        "name": "Liberty University Indoor Drumline",
-        "class_level": "Independent Marching Open",
-        "location": " Lynchburg, VA"
-    },
-    {
         "name": "Ancient City Ensemble",
         "class_level": "Independent Marching Open",
         "location": " Trenton, FL"
@@ -3390,34 +3820,14 @@
         "location": " San Antonio, TX"
     },
     {
-        "name": "IMPACT Percussion",
-        "class_level": "Independent Marching Open",
-        "location": " Kennewick, WA"
-    },
-    {
-        "name": "Gold Indoor Percussion",
-        "class_level": "Independent Marching Open",
-        "location": " Oceanside, CA"
-    },
-    {
         "name": "FIU Indoor Percussion",
         "class_level": "Independent Marching Open",
         "location": " Miami, FL"
     },
     {
-        "name": "Resistance Indoor Percussion",
-        "class_level": "Independent Marching Open",
-        "location": " Tulsa, OK"
-    },
-    {
         "name": "Divergent",
         "class_level": "Independent Marching Open",
         "location": " Detroit, MI"
-    },
-    {
-        "name": "Gold Spike Percussion",
-        "class_level": "Independent Marching Open",
-        "location": " Ogden, UT"
     },
     {
         "name": "Imperial Dynasty",
@@ -3445,24 +3855,9 @@
         "location": " Thibodaux, LA"
     },
     {
-        "name": "Grand Blanc HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Grand Blanc, MI"
-    },
-    {
         "name": "Milford HS (OH)",
         "class_level": "Scholastic Marching A",
         "location": " Milford, OH"
-    },
-    {
-        "name": "Vandebilt Catholic HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Houma, LA"
-    },
-    {
-        "name": "Unionville HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Kennett Square, PA"
     },
     {
         "name": "Sycamore HS",
@@ -3470,44 +3865,9 @@
         "location": " Cincinnati, OH"
     },
     {
-        "name": "Beavercreek HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Beavercreek, OH"
-    },
-    {
-        "name": "Bob Jones HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Madison, AL"
-    },
-    {
-        "name": "Bellbrook HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Bellbrook , OH"
-    },
-    {
-        "name": "Ninety Six HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Ninety Six, SC"
-    },
-    {
-        "name": "Pearl HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Pearl, MS"
-    },
-    {
-        "name": "Fairborn HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Fairborn, OH"
-    },
-    {
         "name": "Zionsville Community HS",
         "class_level": "Scholastic Marching A",
         "location": " Zionsville, IN"
-    },
-    {
-        "name": "Hamilton Southeastern HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Fishers, IN"
     },
     {
         "name": "Kamiak HS",
@@ -3520,24 +3880,9 @@
         "location": " Roebuck, SC"
     },
     {
-        "name": "Perry Meridian HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Indianapolis, IN"
-    },
-    {
-        "name": "Dassel-Cokato HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Cokato, MN"
-    },
-    {
         "name": "West Bloomfield HS",
         "class_level": "Scholastic Marching A",
         "location": " West Bloomfield, MI"
-    },
-    {
-        "name": "Kings HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Kings Mills, OH"
     },
     {
         "name": "Hatboro-Horsham HS",
@@ -3548,11 +3893,6 @@
         "name": "Kettering Fairmont HS",
         "class_level": "Scholastic Marching A",
         "location": " Kettering, OH"
-    },
-    {
-        "name": "Everett HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Everett, MA"
     },
     {
         "name": "Osseo Area Schools ISD 279",
@@ -3608,11 +3948,6 @@
         "name": "Old Bridge HS",
         "class_level": "Scholastic Marching Open",
         "location": " Old Bridge, NJ"
-    },
-    {
-        "name": "Greenfield-Central HS",
-        "class_level": "Scholastic Marching Open",
-        "location": " Greenfield, IN"
     },
     {
         "name": "Hilton HS",
@@ -3820,16 +4155,6 @@
         "location": " Cary, NC"
     },
     {
-        "name": "Northeastern HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Springfield, OH"
-    },
-    {
-        "name": "Salem HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Salem, NH"
-    },
-    {
         "name": "Springboro HS",
         "class_level": "Scholastic Marching A",
         "location": " Springboro, OH"
@@ -3865,11 +4190,6 @@
         "location": " Cincinnati, Ohio"
     },
     {
-        "name": "Olentangy Liberty HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Powell, OH"
-    },
-    {
         "name": "Dakota HS",
         "class_level": "Scholastic Marching A",
         "location": " Macomb, MI"
@@ -3883,21 +4203,6 @@
         "name": "Mater Dei Catholic HS",
         "class_level": "Scholastic Marching A",
         "location": " Breese, IL"
-    },
-    {
-        "name": "Hempfield HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Landisville, PA"
-    },
-    {
-        "name": "Franklin Community HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Franklin, IN"
-    },
-    {
-        "name": "Westhill HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Stamford, CT"
     },
     {
         "name": "Forest Hills School District",
@@ -3918,11 +4223,6 @@
         "name": "Hilliard Bradley HS",
         "class_level": "Scholastic Marching A",
         "location": " Hilliard, OH"
-    },
-    {
-        "name": "Wapakoneta HS",
-        "class_level": "Scholastic Marching A",
-        "location": " Wapakoneta, OH"
     },
     {
         "name": "Enochs HS",
@@ -4398,11 +4698,6 @@
         "name": "Modulation Z",
         "class_level": "Independent Marching A",
         "location": "O\\'Fallon, Missouri"
-    },
-    {
-        "name": "Plainfield HS",
-        "class_level": "Scholastic Concert Open",
-        "location": "Plainfield, IN"
     },
     {
         "name": "Norton HS",

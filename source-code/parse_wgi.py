@@ -1,5 +1,7 @@
 """
-This program parses scores from https://wgi.org
+This program/module parses scores from https://wgi.org for the scores from each
+competition. Writes each Competition to competitions.json and each Group
+to groups.json.
 """
 from dataclasses import dataclass
 import json
@@ -83,7 +85,7 @@ def get_content(url:str) -> str:
 
     return response.text
 
-def get_from_cache(url:str) -> str:
+def cache_page(url:str) -> str:
     """checks cache for url, returns html content
     """
     logger.info("Checking cache for: %s", url)
@@ -99,7 +101,7 @@ def get_from_cache(url:str) -> str:
 def get_competitions(url:str) -> list:
     """ parses html data and returns a list of Competitions
     """
-    html_data = get_from_cache(url) # get html content
+    html_data = cache_page(url) # get html content
     soup = bs(html_data, 'html.parser')
     logger.info("Parsing page: %s", url)
 
@@ -116,9 +118,11 @@ def get_competitions(url:str) -> list:
             comp_name = tr_children_data[0].contents # get competition name # list
             if tr_children_data[1].a: # check if there is a link to scores # some don't have scores
                 scores = tr_children_data[1].a['href'] # get link to scores
-                recaps = tr_children_data[-1].a['href'] # get link to recaps
             else:
                 scores = "No scores"
+            if tr_children_data[-1].a:
+                recaps = tr_children_data[-1].a['href'] # get link to recaps
+            else:
                 recaps = "No recaps"
 
             # create Competition obj with placeholder for groups and scores_by_group
@@ -134,7 +138,7 @@ def get_groups_scores(comp_obj:Competition):
         groups_list = []
         scores_by_group = {}
     else:
-        html_data = get_from_cache(scores_page)
+        html_data = cache_page(scores_page)
         soup = bs(html_data, 'html.parser')
         logger.info("Parsing page: %s", scores_page)
 
@@ -227,6 +231,7 @@ if __name__ == '__main__':
                     "title": comp.title[0],
                     "date": comp.date,
                     "scores": comp.scores,
+                    "recaps": comp.recap,
                     "groups": [group.name for group in comp.groups],
                     "scores_by_group": comp.scores_by_group
                 }
