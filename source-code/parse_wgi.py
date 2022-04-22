@@ -22,7 +22,6 @@ CACHE = {}
 @dataclass()
 class Group:
     """creates a group class object"""
-    # group_type: str
     name: str
     class_level: str
     location: str
@@ -156,12 +155,6 @@ def get_groups_scores(comp_obj:Competition):
                 em = tcells[2].contents[1]
                 group_name = tcells[2].contents[0].strip() # group names
                 location = em.contents[0].replace('(', '').replace(')', '') # group location
-                # if "percussion" in scores_page.lower() or "perc" in scores_page.lower(): # assign group type
-                #     group_type = 'percussion'
-                # elif "color-guard" in scores_page.lower():
-                #     group_type = 'color_guard'
-                # elif "winds" in scores_page.lower():
-                #     group_type = 'winds'
 
                 score = tcells[-1].b.contents[0]
 
