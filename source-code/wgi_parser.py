@@ -170,8 +170,12 @@ def get_groups_scores(comp_obj:Competition) -> tuple:
         saved_cache = load_cache()
         updated_cache = check_cache(saved_cache, scores_page)
 
+        # ??
+        # TODO OSError: [Errno 22] Invalid argument: './cache/cache.json'
+        # can write to cache for most pages, but not all.
+        # different page brings up error each time.
+        # ??
         # update_cache(updated_cache)
-        # TODO OS error: './cache/cache.json' not valid arg
         write_json(CACHE_PATH, updated_cache)
         logger.info("Writing to cache...")
 
