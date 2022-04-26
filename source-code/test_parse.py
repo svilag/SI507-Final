@@ -7,9 +7,10 @@ from dataclasses import dataclass
 import json
 import logging
 import os
-# import re
+import re
 import sys
 import datetime as dt
+from turtle import write
 import requests
 from bs4 import BeautifulSoup as bs
 
@@ -27,6 +28,16 @@ class Group:
     location: str
     competitions: dict
 
+    def jsonify(self):
+        """returns class object as json"""
+        group_json = {
+            "name": self.name,
+            "class_level": self.class_level,
+            "location": self.location,
+            "competitions": self.competitions
+        }
+        return group_json
+
 @dataclass()
 class Competition:
     """creates a competition class object"""
@@ -36,6 +47,19 @@ class Competition:
     recap: str
     groups: list
     scores_by_group: dict
+
+    def jsonify(self):
+        """returns class object as json"""
+        comp_json = {
+            "title": self.title,
+            "date": self.date,
+            "scores": self.scores,
+            "recap": self.recap,
+            "groups": [group.name for group in self.groups],
+            "scores_by_group": self.scores_by_group
+        }
+        return comp_json
+
 
 
 
@@ -85,48 +109,34 @@ def get_content(url:str) -> str:
 
     return response.text
 
-# load cache -> {}
-# check cache for content
-# update cache
-
-
-def load_cache() -> dict:
-    """loads the cache
+def read_cache() -> dict:
+    """ reads the cache file
+        returns the cache
     """
-    try:
-        cache = read_json(CACHE_PATH)
-    except ValueError:
-        cache = CACHE
-    logger.info("Loading cache...")
+    cache = read_json(CACHE_PATH)
+    logger.info("Reading from cache...")
     return cache
 
-def update_cache(cache: dict) -> None:
-    """updates the cache file
-    """
-    write_json('./cache/cache.json', cache)
-    logger.info("Writing to cache...")
 
-def check_cache(cache, url:str) -> dict:
-    """checks cache for url, adds to cache if not in, returns cache
+def check_cache(url:str) -> str:
+    """ checks cache for url.
+        if url not in cache, adds it and rewrites the cache.
+        returns html content
     """
-    logger.info("Checking cache for: %s", url)
-    try:
-        cache.get(url)
-    except ValueError:
+    cache = read_cache()
+    if url not in cache.keys():
         cache[url] = get_content(url)
-        update_cache(cache)
-        logger.info("Adding page to cache: %s", url)
-
-    return cache
+        write_json(CACHE_PATH, cache)
+        logger.info("Writing %s to cache...", url)
+    logger.info("Fetching %s from cache...", url)
+    return cache[url]
 
 
 def get_competitions(url):
     """gets competition data
     """
-    saved_cache = load_cache()
-    updated_cache = check_cache(saved_cache, url)
-    update_cache(updated_cache)
-    html_data = updated_cache[url]
+    html_data = check_cache(url)
+
     soup = bs(html_data, 'html.parser')
     logger.info("Parsing page: %s", url)
 
@@ -137,27 +147,37 @@ def get_competitions(url):
     for t_r in table_rows[:-1]:
         tr_children = [child for child in t_r.children] # find children
         if len(tr_children) == 3: # rows with dates
-            date = tr_children[1:-1:1][0].strong.contents[0]
+            year_pattern = re.compile("20..")
+            year = year_pattern.match(url)
+            date = f"{tr_children[1:-1:1][0].strong.contents[0]}, {year}" # month day, year
         elif len(tr_children) == 9: # rows with groups and scores
             tr_children_data = tr_children[1::2][1:]
-            comp_name = tr_children_data[0].contents # get competition name # list
+            comp_name = tr_children_data[0].contents[0] # get competition name # list
 
             # check if there is a link to scores # some don't have scores
             if tr_children_data[1].a:
                 scores = tr_children_data[1].a['href'] # get link to scores
             else:
                 scores = "No scores"
+                logger.info("No scores found for %s", comp_name)
 
             # check if there is a link to recaps # some don't have recaps
             if tr_children_data[-1].a:
                 recaps = tr_children_data[-1].a['href'] # get link to recaps
             else:
                 recaps = "No recaps"
+                logger.info("No recaps found for %s", comp_name)
 
             # create Competition obj with placeholder for scores_by_group
             comp_data = Competition(comp_name, date, scores, recaps, [], {})
             comps.append(comp_data)
     return comps
+
+
+
+
+
+
 
 def get_groups_scores(comp_obj:Competition) -> tuple:
     """ parses page with scores.
@@ -167,21 +187,8 @@ def get_groups_scores(comp_obj:Competition) -> tuple:
     if "https://" not in comp_obj.scores : # == "No scores"
         scores_by_group = {"No groups participated in this competition": "No scores to report"}
     else:
-        saved_cache = load_cache()
-        updated_cache = check_cache(saved_cache, scores_page)
+        html_data = check_cache(scores_page)
 
-        # ??
-        # TODO OSError: [Errno 22] Invalid argument: './cache/cache.json'
-        # can write to cache for most pages, but not all.
-        # different page brings up error each time.
-        # ??
-        # update_cache(updated_cache)
-        write_json(CACHE_PATH, updated_cache)
-        logger.info("Writing to cache...")
-
-        html_data = updated_cache[scores_page]
-
-        # html_data = cache_page(scores_page)
         soup = bs(html_data, 'html.parser')
         logger.info("Parsing page: %s", scores_page)
 
@@ -191,8 +198,9 @@ def get_groups_scores(comp_obj:Competition) -> tuple:
         scores_div = soup.find_all('div', attrs={'class': 'table-responsive'}) # list of divs
         scores_table = scores_div[0].table
         table_rows = scores_table.find_all('tr')
+
         for row in table_rows:
-            tcells = [child for child in row.children]
+            tcells = list(row.children)
             if len(tcells) == 3: # rows with class levels
                 class_level = tcells[1].b.contents[0] # group class_level
             elif len(tcells) == 4: # rows with group names
@@ -208,6 +216,7 @@ def get_groups_scores(comp_obj:Competition) -> tuple:
                 scores_by_group[group_data.name] = score
 
         return groups_list, scores_by_group
+
 
 
 
@@ -234,57 +243,62 @@ if __name__ == '__main__':
     # logger.info(f"Start run: {start_date_time.isoformat()}")
     logger.info("Start run: %s", start_date_time.isoformat()) # log start time
 
-    TEST = 'https://wgi.org/percussion/2019-perc-scores/'
-    TEST_SCORES = 'https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_CG_A_Class_Finals_UD_Arena.html'
 
-    all_groups = [] # list of ALL group objects
-    all_comps = [] # list of ALL comp objects
+    all_competitions = [] # store competition objects
+    all_groups = [] # store group objects
 
-    comps_to_write = []
-    groups_to_write = []
+    comps_to_write = [] # competitions to write
+    groups_to_write = [] # groups to write
 
-    for link in read_json('./urls.json'):
-        competitions = get_competitions(link) # list of Competitions
+
+    for link in read_json(URLS):
+        # check_cache(link)
+        # get_competitions
+        competitions = get_competitions(link)
+
+        # get groups and score data for each competition
         for comp in competitions:
-            all_comps.append(comp)
             groups_and_scores = get_groups_scores(comp)
+
             if isinstance(groups_and_scores, tuple):
                 groups, scores = groups_and_scores
                 comp.groups = groups # update Competition class obj with groups list
                 comp.scores_by_group = scores # update Competition class obj with scores dict
+
                 if len(groups) > 1:
                     for group in groups:
                         all_groups.append(group)
 
-                comp_json = {
-                    "title": comp.title[0],
-                    "date": comp.date,
-                    "scores": comp.scores,
-                    "recaps": comp.recap,
-                    "groups": [group.name for group in comp.groups],
-                    "scores_by_group": comp.scores_by_group
-                }
-                if comp_json not in comps_to_write:
-                    comps_to_write.append(comp_json)
+            all_competitions.append(comp)
+
+            comps_to_write.append(comp.jsonify())
+
+
+
 
     for group in all_groups:
-        comps_list = []
-        for comp in all_comps:
-            if group.name in comp.groups:
-                comps_list.append(comp.title)
-                group.competitions = comps_list # update group object with list of comps
-        group_json = {
-            "name": group.name,
-            "class_level": group.class_level,
-            "location": group.location,
-            "competitions": group.competitions
-            }
-        if group_json not in groups_to_write:
-            groups_to_write.append(group_json)
+        # dict of comps and scores
+        group_comps = {}
+        for comp in all_competitions:
+            if group in comp.groups:
+                group_comps[f"{comp.title}, {comp.date}"] = comp.scores_by_group.get(group.name) # get score for that group
+        group.competitions = group_comps
 
-    write_json('./data/groups.json', groups_to_write)
-    logger.info("%s Groups written to file.", len(groups_to_write))
-    write_json('./data/competitions.json', comps_to_write)
-    logger.info("%s Competitions written to file.", len(comps_to_write))
+        groups_to_write.append(group.jsonify())
+
+
+    # TODO combine duplicate groups -> combine competitions dicts
+    # sort groups by name
+    groups_to_clean = sorted(groups_to_write)
+    print(groups_to_clean)
+
+
+
+    # write_json('./data/competitions.json', comps_to_write)
+    # logger.info("%s Competitions written to file", len(comps_to_write))
+    # write_json('./data/groups.json', groups_to_write)
+    # logger.info("%s Groups written to file", len(groups_to_write))
+
 
     logger.info("End run: %s", dt.datetime.now().isoformat()) # log end time
+

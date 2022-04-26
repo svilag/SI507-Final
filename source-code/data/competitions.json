@@ -3,7 +3,7 @@
         "title": "PIO Prelims",
         "date": "April 21",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_PIO_Prelims.html",
-        "recaps": "No recaps",
+        "recap": "No recaps",
         "groups": [
             "Infinity 2",
             "River City Rhythm",
@@ -63,7 +63,7 @@
         "title": "PSW Prelims",
         "date": "April 21",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_PSW_Prelims.html",
-        "recaps": "No recaps",
+        "recap": "No recaps",
         "groups": [
             "Dartmouth HS",
             "Arcadia HS",
@@ -109,7 +109,7 @@
         "title": "PSO Prelims",
         "date": "April 21",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_PSO_Prelims.html",
-        "recaps": "No recaps",
+        "recap": "No recaps",
         "groups": [
             "Clear Brook HS",
             "Burleson HS",
@@ -155,7 +155,7 @@
         "title": "PSA Prelims",
         "date": "April 21",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_PSA_Prelims.html",
-        "recaps": "No recaps",
+        "recap": "No recaps",
         "groups": [
             "North Allegheny HS",
             "Irondale Combined Schools",
@@ -259,7 +259,7 @@
         "title": "Concert Prelims",
         "date": "April 21",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Concert_Prelims.html",
-        "recaps": "No recaps",
+        "recap": "No recaps",
         "groups": [
             "Penn-Trafford HS",
             "East Central HS",
@@ -313,7 +313,7 @@
         "title": "Dayton Perc Finals",
         "date": "March 27",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Dayton_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/0a524b5a-0003-4681-8405-89c70a2263ba.htm",
+        "recap": "https://recaps.competitionsuite.com/0a524b5a-0003-4681-8405-89c70a2263ba.htm",
         "groups": [
             "North Allegheny HS",
             "Mars Area HS",
@@ -381,7 +381,7 @@
         "title": "San Bernardino Perc Finals",
         "date": "March 27",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_San_Bernardino_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/24c4c8ec-a300-4737-816b-e78dc0a3221c.htm",
+        "recap": "https://recaps.competitionsuite.com/24c4c8ec-a300-4737-816b-e78dc0a3221c.htm",
         "groups": [
             "Los Alamitos HS",
             "Carlsbad HS",
@@ -475,7 +475,7 @@
         "title": "San Bernardino Perc Prelims",
         "date": "March 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_San_Bernardino_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/908cc6a9-d4a3-41dd-89c2-d88a4ec81ee0.htm",
+        "recap": "https://recaps.competitionsuite.com/908cc6a9-d4a3-41dd-89c2-d88a4ec81ee0.htm",
         "groups": [
             "Los Alamitos HS",
             "Carlsbad HS",
@@ -584,7 +584,7 @@
         "title": "Dayton Perc Prelims",
         "date": "March 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Dayton_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/9a45b886-dc71-40fd-8768-cff580cacc86.htm",
+        "recap": "https://recaps.competitionsuite.com/9a45b886-dc71-40fd-8768-cff580cacc86.htm",
         "groups": [
             "North Allegheny HS",
             "Mars Area HS",
@@ -666,7 +666,7 @@
         "title": "Monroe Township Perc Prelims",
         "date": "March 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Monroe_Township_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/474cc20f-fe40-4458-a2a1-70e6f907901b.htm",
+        "recap": "https://recaps.competitionsuite.com/474cc20f-fe40-4458-a2a1-70e6f907901b.htm",
         "groups": [
             "Old Bridge HS",
             "Unionville HS",
@@ -750,7 +750,7 @@
         "title": "Monroe Township Perc Finals",
         "date": "March 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Monroe_Township_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/33543adb-c8db-4812-9f44-4538303c59cb.htm",
+        "recap": "https://recaps.competitionsuite.com/33543adb-c8db-4812-9f44-4538303c59cb.htm",
         "groups": [
             "Old Bridge HS",
             "Cab Calloway HS",
@@ -812,7 +812,7 @@
         "title": "Portland Perc Prelims",
         "date": "March 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Portland_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/87096c72-5dd2-4f99-8d63-32b40f3fa524.htm",
+        "recap": "https://recaps.competitionsuite.com/87096c72-5dd2-4f99-8d63-32b40f3fa524.htm",
         "groups": [
             "Kamiak HS",
             "Rex Putnam HS",
@@ -849,7 +849,7 @@
         "title": "Portland Perc Finals",
         "date": "March 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Portland_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/2faf6805-0c77-43fa-9af6-f9b821635f67.htm",
+        "recap": "https://recaps.competitionsuite.com/2faf6805-0c77-43fa-9af6-f9b821635f67.htm",
         "groups": [
             "Rex Putnam HS",
             "Glencoe HS",
@@ -884,7 +884,7 @@
         "title": "Dallas Perc Finals",
         "date": "March 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Dallas_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/021eb843-d78c-49a9-a739-2aea582b4e84.htm",
+        "recap": "https://recaps.competitionsuite.com/021eb843-d78c-49a9-a739-2aea582b4e84.htm",
         "groups": [
             "Lewisville HS",
             "Southmoore HS",
@@ -934,7 +934,7 @@
         "title": "Dallas Perc Prelims",
         "date": "March 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Dallas_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/b52784ea-0caa-4a3b-9b29-7e8142bc734a.htm",
+        "recap": "https://recaps.competitionsuite.com/b52784ea-0caa-4a3b-9b29-7e8142bc734a.htm",
         "groups": [
             "Lewisville HS",
             "Robert Vela HS",
@@ -984,7 +984,7 @@
         "title": "Minneapolis Perc Prelims",
         "date": "March 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Minneapolis_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/babcf045-1112-496f-9046-96634ee8f218.htm",
+        "recap": "https://recaps.competitionsuite.com/babcf045-1112-496f-9046-96634ee8f218.htm",
         "groups": [
             "Elk River Combined Schools",
             "Burnsville HS",
@@ -1026,7 +1026,7 @@
         "title": "Minneapolis Perc Finals",
         "date": "March 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Minneapolis_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/4415fd93-acf2-4cba-bfdb-023219048907.htm",
+        "recap": "https://recaps.competitionsuite.com/4415fd93-acf2-4cba-bfdb-023219048907.htm",
         "groups": [
             "Elk River Combined Schools",
             "Burnsville HS",
@@ -1068,7 +1068,7 @@
         "title": "Atlanta Perc Finals",
         "date": "March 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Atlanta_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/6bbfbeb0-5ddf-4174-8329-e3b71990ffe4.htm",
+        "recap": "https://recaps.competitionsuite.com/6bbfbeb0-5ddf-4174-8329-e3b71990ffe4.htm",
         "groups": [
             "Alpharetta HS",
             "North Forsyth HS",
@@ -1104,7 +1104,7 @@
         "title": "Atlanta Perc Prelims",
         "date": "March 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Atlanta_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/00b37cd0-7a1a-4fc6-bd14-9d3c226ac5c7.htm",
+        "recap": "https://recaps.competitionsuite.com/00b37cd0-7a1a-4fc6-bd14-9d3c226ac5c7.htm",
         "groups": [
             "Alpharetta HS",
             "North Forsyth HS",
@@ -1140,7 +1140,7 @@
         "title": "Hattiesburg Perc Finals",
         "date": "March 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Hattiesburg_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/25e9d761-b44a-476a-90c1-a01e6f27ec58.htm",
+        "recap": "https://recaps.competitionsuite.com/25e9d761-b44a-476a-90c1-a01e6f27ec58.htm",
         "groups": [
             "Hernando HS",
             "Pearl HS",
@@ -1186,7 +1186,7 @@
         "title": "Hattiesburg Perc Prelims",
         "date": "March 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Hattiesburg_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/f6c79a16-8db9-43c0-b09e-b1b5f95f7980.htm",
+        "recap": "https://recaps.competitionsuite.com/f6c79a16-8db9-43c0-b09e-b1b5f95f7980.htm",
         "groups": [
             "Pearl HS",
             "Hernando HS",
@@ -1232,7 +1232,7 @@
         "title": "Denver Perc Finals",
         "date": "March 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Denver_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/61f3abb6-ea09-4290-b0e1-1e8cb7ce734f.htm",
+        "recap": "https://recaps.competitionsuite.com/61f3abb6-ea09-4290-b0e1-1e8cb7ce734f.htm",
         "groups": [
             "Centaurus HS",
             "Longmont Combined Schools",
@@ -1266,7 +1266,7 @@
         "title": "Denver Perc Prelims",
         "date": "March 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Denver_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/217dfed5-6757-43bc-8dba-6d2e054e83d4.htm",
+        "recap": "https://recaps.competitionsuite.com/217dfed5-6757-43bc-8dba-6d2e054e83d4.htm",
         "groups": [
             "Centaurus HS",
             "Longmont Combined Schools",
@@ -1300,7 +1300,7 @@
         "title": "Merced Perc Finals",
         "date": "March 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Merced_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/a8814676-7363-4aee-b73c-76e02bc7e9b6.htm",
+        "recap": "https://recaps.competitionsuite.com/a8814676-7363-4aee-b73c-76e02bc7e9b6.htm",
         "groups": [
             "Rex Putnam HS",
             "Damonte Ranch HS",
@@ -1332,7 +1332,7 @@
         "title": "Merced Perc Prelims",
         "date": "March 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Merced_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/f519473b-cc21-4172-b039-69fd17fd49a9.htm",
+        "recap": "https://recaps.competitionsuite.com/f519473b-cc21-4172-b039-69fd17fd49a9.htm",
         "groups": [
             "Damonte Ranch HS",
             "Rex Putnam HS",
@@ -1364,7 +1364,7 @@
         "title": "Phoenix Perc Finals",
         "date": "March 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Phoenix_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/e7bd5324-cd20-4fad-a0c3-5e9cd3abc03e.htm",
+        "recap": "https://recaps.competitionsuite.com/e7bd5324-cd20-4fad-a0c3-5e9cd3abc03e.htm",
         "groups": [
             "Arbor View HS",
             "Walden Grove HS",
@@ -1418,7 +1418,7 @@
         "title": "Phoenix Perc Prelims",
         "date": "March 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Phoenix_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/1dbbb573-19b0-4181-96e7-7dc9fe587d41.htm",
+        "recap": "https://recaps.competitionsuite.com/1dbbb573-19b0-4181-96e7-7dc9fe587d41.htm",
         "groups": [
             "Arbor View HS",
             "Higley HS",
@@ -1472,7 +1472,7 @@
         "title": "Spartanburg Perc Finals",
         "date": "March 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Spartanburg_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/f4cdf113-a5e3-4110-982c-cfb2b99b795a.htm",
+        "recap": "https://recaps.competitionsuite.com/f4cdf113-a5e3-4110-982c-cfb2b99b795a.htm",
         "groups": [
             "T.L. Hanna HS",
             "Clover HS",
@@ -1512,7 +1512,7 @@
         "title": "Spartanburg Perc Prelims",
         "date": "March 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Spartanburg_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/f4fa7357-5ca4-42ba-acc9-722a058179f3.htm",
+        "recap": "https://recaps.competitionsuite.com/f4fa7357-5ca4-42ba-acc9-722a058179f3.htm",
         "groups": [
             "T.L. Hanna HS",
             "Clover HS",
@@ -1552,7 +1552,7 @@
         "title": "Indianapolis Perc Finals",
         "date": "March 06",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Indianapolis_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/0cc5afd0-457d-4553-911d-e18dff492b23.htm",
+        "recap": "https://recaps.competitionsuite.com/0cc5afd0-457d-4553-911d-e18dff492b23.htm",
         "groups": [
             "Noblesville HS",
             "Westfield HS",
@@ -1631,7 +1631,7 @@
         "title": "Richmond Perc Finals",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Richmond_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/806c134b-64a2-4abd-9ee0-1427c9c0ac1f.htm",
+        "recap": "https://recaps.competitionsuite.com/806c134b-64a2-4abd-9ee0-1427c9c0ac1f.htm",
         "groups": [
             "Green Hope HS",
             "West Shore School District",
@@ -1680,7 +1680,7 @@
         "title": "Indianapolis Perc Prelims",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Indianapolis_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/007d1709-7a93-4dfc-9c4c-dc6c2249d941.htm",
+        "recap": "https://recaps.competitionsuite.com/007d1709-7a93-4dfc-9c4c-dc6c2249d941.htm",
         "groups": [
             "Westfield HS",
             "Central Crossing HS",
@@ -1775,7 +1775,7 @@
         "title": "Houston Perc Prelims",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Houston_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/201b1ced-2fe0-49db-8906-c83372029dcf.htm",
+        "recap": "https://recaps.competitionsuite.com/201b1ced-2fe0-49db-8906-c83372029dcf.htm",
         "groups": [
             "Klein Collins HS",
             "Cypress Park HS",
@@ -1831,7 +1831,7 @@
         "title": "Houston Perc Finals",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Houston_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/9f9d7f9a-8dcd-4ca9-b94a-57bda8a1d8e9.htm",
+        "recap": "https://recaps.competitionsuite.com/9f9d7f9a-8dcd-4ca9-b94a-57bda8a1d8e9.htm",
         "groups": [
             "Klein Collins HS",
             "Cypress Ranch HS",
@@ -1885,7 +1885,7 @@
         "title": "Richmond Perc Prelims",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Richmond_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/454a0519-5d4b-4a58-9875-9bb301460ce6.htm",
+        "recap": "https://recaps.competitionsuite.com/454a0519-5d4b-4a58-9875-9bb301460ce6.htm",
         "groups": [
             "Green Hope HS",
             "West Shore School District",
@@ -1934,7 +1934,7 @@
         "title": "Knoxville Perc Prelims",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Knoxville_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/ca16ab6c-622f-45e2-a925-37f486463337.htm",
+        "recap": "https://recaps.competitionsuite.com/ca16ab6c-622f-45e2-a925-37f486463337.htm",
         "groups": [
             "Clover HS",
             "Seymour HS",
@@ -1984,7 +1984,7 @@
         "title": "Knoxville Perc Finals",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Knoxville_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/df7548ad-6191-4cb5-9d79-51c30a62b1f5.htm\t",
+        "recap": "https://recaps.competitionsuite.com/df7548ad-6191-4cb5-9d79-51c30a62b1f5.htm\t",
         "groups": [
             "Dorman HS",
             "Clover HS",
@@ -2034,7 +2034,7 @@
         "title": "Omaha Perc Prelims",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Omaha_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/cb97244a-e7c6-43f0-972f-17ee20722b6c.htm",
+        "recap": "https://recaps.competitionsuite.com/cb97244a-e7c6-43f0-972f-17ee20722b6c.htm",
         "groups": [
             "Papillion-La Vista South HS",
             "Bellevue Combined Schools",
@@ -2058,7 +2058,7 @@
         "title": "Omaha Perc Finals",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Omaha_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/9e37bdf5-dfb0-4eec-8c1d-c90e695d92b2.htm",
+        "recap": "https://recaps.competitionsuite.com/9e37bdf5-dfb0-4eec-8c1d-c90e695d92b2.htm",
         "groups": [
             "Papillion-La Vista South HS",
             "Bellevue Combined Schools",
@@ -2078,7 +2078,7 @@
         "title": "Trumbull Perc Finals",
         "date": "February 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Trumbull_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/c7fde5f2-8f62-4a9d-a539-14937ae55276.htm",
+        "recap": "https://recaps.competitionsuite.com/c7fde5f2-8f62-4a9d-a539-14937ae55276.htm",
         "groups": [
             "Nutley HS",
             "Mansfield HS",
@@ -2128,7 +2128,7 @@
         "title": "Orlando Perc Prelims",
         "date": "February 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Orlando_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/3fd373e7-58e1-44d3-abb6-4e2d639f9d93.htm",
+        "recap": "https://recaps.competitionsuite.com/3fd373e7-58e1-44d3-abb6-4e2d639f9d93.htm",
         "groups": [
             "J.W. Mitchell HS",
             "Stoneman Douglas HS",
@@ -2168,7 +2168,7 @@
         "title": "Orlando Perc Finals",
         "date": "February 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Orlando_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/566349c3-8219-48ce-ade2-658e686195ac.htm",
+        "recap": "https://recaps.competitionsuite.com/566349c3-8219-48ce-ade2-658e686195ac.htm",
         "groups": [
             "J.W. Mitchell HS",
             "Stoneman Douglas HS",
@@ -2208,7 +2208,7 @@
         "title": "Temecula Perc Prelims",
         "date": "February 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Temecula_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/487dc78d-1a27-4caf-8848-7a3eb2d838e2.htm",
+        "recap": "https://recaps.competitionsuite.com/487dc78d-1a27-4caf-8848-7a3eb2d838e2.htm",
         "groups": [
             "Carlsbad HS",
             "Dorothy McElhinney MS",
@@ -2259,7 +2259,7 @@
         "title": "Temecula Perc Finals",
         "date": "February 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Temecula_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/0c4d76db-28fa-4721-ba9a-91ebae40398b.htm",
+        "recap": "https://recaps.competitionsuite.com/0c4d76db-28fa-4721-ba9a-91ebae40398b.htm",
         "groups": [
             "Carlsbad HS",
             "Valhalla HS",
@@ -2310,7 +2310,7 @@
         "title": "Chicago Perc Finals",
         "date": "February 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Chicago_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/89276529-e621-49a1-b07b-938e1e98b8d4.htm",
+        "recap": "https://recaps.competitionsuite.com/89276529-e621-49a1-b07b-938e1e98b8d4.htm",
         "groups": [
             "Lake Central HS",
             "Plainfield Combined School",
@@ -2338,7 +2338,7 @@
         "title": "Chicago Perc Prelims",
         "date": "February 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Chicago_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/1a8ced03-efa8-4276-864d-1362930e6e13.htm",
+        "recap": "https://recaps.competitionsuite.com/1a8ced03-efa8-4276-864d-1362930e6e13.htm",
         "groups": [
             "Lake Central HS",
             "Plainfield Combined School",
@@ -2366,7 +2366,7 @@
         "title": "Troy Perc Finals",
         "date": "February 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Troy_Perc_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/4117f8d8-6703-4e16-9564-287e8bd1b5bf.htm",
+        "recap": "https://recaps.competitionsuite.com/4117f8d8-6703-4e16-9564-287e8bd1b5bf.htm",
         "groups": [
             "Grand Blanc HS",
             "Dakota Combined Schools",
@@ -2408,7 +2408,7 @@
         "title": "Troy Perc Prelims",
         "date": "February 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Troy_Perc_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/1e808ac0-bd69-48a4-92a5-fd588414a471.htm",
+        "recap": "https://recaps.competitionsuite.com/1e808ac0-bd69-48a4-92a5-fd588414a471.htm",
         "groups": [
             "Grand Blanc HS",
             "Dakota Combined Schools",
@@ -2450,7 +2450,7 @@
         "title": "Denver Perc Finals",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/b679b8e2-785e-4cc7-aed7-c2844f4d5a66.htm",
+        "recap": "http://recaps.competitionsuite.com/b679b8e2-785e-4cc7-aed7-c2844f4d5a66.htm",
         "groups": [
             "Longmont Combined Schools",
             "Centaurus HS",
@@ -2502,7 +2502,7 @@
         "title": "Spartanburg Perc Prelims",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Spartanburg_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/65fd7a56-fa13-42bd-8348-19c8f11f4864.htm\t",
+        "recap": "http://recaps.competitionsuite.com/65fd7a56-fa13-42bd-8348-19c8f11f4864.htm\t",
         "groups": [
             "Dorman HS",
             "Hardin Valley Academy",
@@ -2550,7 +2550,7 @@
         "title": "Spartanburg Perc Finals",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Spartanburg_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/5c22baa6-2766-4b96-a37e-4ee76c785f72.htm\t",
+        "recap": "http://recaps.competitionsuite.com/5c22baa6-2766-4b96-a37e-4ee76c785f72.htm\t",
         "groups": [
             "Dorman HS",
             "Hardin Valley Academy",
@@ -2598,7 +2598,7 @@
         "title": "Phoenix Perc Prelims",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Phoenix_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/69457648-e2a9-4f59-9fba-a4545ff52d50.htm",
+        "recap": "http://recaps.competitionsuite.com/69457648-e2a9-4f59-9fba-a4545ff52d50.htm",
         "groups": [
             "Ironwood Ridge HS",
             "Gilbert HS",
@@ -2658,7 +2658,7 @@
         "title": "Phoenix Perc Finals",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Phoenix_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/7ef876d0-4d2e-4569-be2b-901cce579038.htm",
+        "recap": "http://recaps.competitionsuite.com/7ef876d0-4d2e-4569-be2b-901cce579038.htm",
         "groups": [
             "Ironwood Ridge HS",
             "Gilbert HS",
@@ -2708,7 +2708,7 @@
         "title": "Merced Perc Prelims",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Merced_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/c6930c8c-2cc5-4d18-9a87-a019e894bd02.htm",
+        "recap": "http://recaps.competitionsuite.com/c6930c8c-2cc5-4d18-9a87-a019e894bd02.htm",
         "groups": [
             "Lemoore HS",
             "Golden Valley HS",
@@ -2748,7 +2748,7 @@
         "title": "Merced Perc Finals",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Merced_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/c0ee85f9-ed9b-48e5-98c5-78815a6d122e.htm",
+        "recap": "http://recaps.competitionsuite.com/c0ee85f9-ed9b-48e5-98c5-78815a6d122e.htm",
         "groups": [
             "Lemoore HS",
             "Golden Valley HS",
@@ -2788,7 +2788,7 @@
         "title": "Dallas Perc Prelims",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Dallas_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/f6ba2a4b-c165-4949-8e5f-dc3badbecf8e.htm",
+        "recap": "http://recaps.competitionsuite.com/f6ba2a4b-c165-4949-8e5f-dc3badbecf8e.htm",
         "groups": [
             "Lewisville HS",
             "Saginaw HS",
@@ -2854,7 +2854,7 @@
         "title": "Dallas Perc Finals",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Dallas_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/5e11aa7b-d000-4879-978e-cb4b687aad39.htm",
+        "recap": "http://recaps.competitionsuite.com/5e11aa7b-d000-4879-978e-cb4b687aad39.htm",
         "groups": [
             "Lewisville HS",
             "Saginaw HS",
@@ -2920,7 +2920,7 @@
         "title": "Denver Perc Prelims",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/25b13ef5-6520-494f-a203-96cb52fe23f1.htm",
+        "recap": "http://recaps.competitionsuite.com/25b13ef5-6520-494f-a203-96cb52fe23f1.htm",
         "groups": [
             "Longmont Combined Schools",
             "Centaurus HS",
@@ -2972,7 +2972,7 @@
         "title": "Dayton Perc Finals",
         "date": "March 01",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Dayton_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/aa74b61e-83ae-49e4-a0b8-bc2881323047.htm",
+        "recap": "http://recaps.competitionsuite.com/aa74b61e-83ae-49e4-a0b8-bc2881323047.htm",
         "groups": [
             "Milford HS (OH)",
             "North Allegheny HS",
@@ -3038,7 +3038,7 @@
         "title": "Richmond Perc Finals",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Richmond_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/e65661bc-cd4e-4728-b71c-77241642d26c.htm",
+        "recap": "http://recaps.competitionsuite.com/e65661bc-cd4e-4728-b71c-77241642d26c.htm",
         "groups": [
             "Thomas Jefferson HS",
             "Ocean Lakes HS",
@@ -3091,7 +3091,7 @@
         "title": "Richmond Perc Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Richmond_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/54203d22-3c90-4816-9091-3d408c7dda94.htm",
+        "recap": "http://recaps.competitionsuite.com/54203d22-3c90-4816-9091-3d408c7dda94.htm",
         "groups": [
             "Thomas Jefferson HS",
             "Ocean Lakes HS",
@@ -3156,7 +3156,7 @@
         "title": "Trumbull Perc Finals",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Trumbull_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/ea70df0c-420b-4a78-ba73-90b3c3f847ce.htm ",
+        "recap": "http://recaps.competitionsuite.com/ea70df0c-420b-4a78-ba73-90b3c3f847ce.htm ",
         "groups": [
             "Mansfield HS",
             "Westhill HS",
@@ -3206,7 +3206,7 @@
         "title": "Trumbull Perc Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Trumbull_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/8f662e98-699e-40cf-a503-4af9cbb99dd6.htm ",
+        "recap": "http://recaps.competitionsuite.com/8f662e98-699e-40cf-a503-4af9cbb99dd6.htm ",
         "groups": [
             "Mansfield HS",
             "Westhill HS",
@@ -3258,7 +3258,7 @@
         "title": "Omaha Perc Finals",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Omaha_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/1c32976d-c28b-48ba-a7d1-328d169f74a9.htm",
+        "recap": "http://recaps.competitionsuite.com/1c32976d-c28b-48ba-a7d1-328d169f74a9.htm",
         "groups": [
             "Kickapoo HS",
             "Brandon Valley HS",
@@ -3290,7 +3290,7 @@
         "title": "Omaha Perc Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Omaha_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/5855919e-2a84-4214-aa1e-05c4d05d557c.htm",
+        "recap": "http://recaps.competitionsuite.com/5855919e-2a84-4214-aa1e-05c4d05d557c.htm",
         "groups": [
             "Kickapoo HS",
             "Papillion-La Vista South HS",
@@ -3322,7 +3322,7 @@
         "title": "Houston Perc Finals",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Houston_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/e0c9d5dc-d828-4085-932d-a2a7d1d502fe.htm",
+        "recap": "http://recaps.competitionsuite.com/e0c9d5dc-d828-4085-932d-a2a7d1d502fe.htm",
         "groups": [
             "Lewisville HS",
             "Bridgeland HS",
@@ -3372,7 +3372,7 @@
         "title": "Houston Perc Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Houston_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/eab01d59-ec64-45c8-a187-a3bc644d16ea.htm",
+        "recap": "http://recaps.competitionsuite.com/eab01d59-ec64-45c8-a187-a3bc644d16ea.htm",
         "groups": [
             "Lewisville HS",
             "Keller Central HS",
@@ -3440,7 +3440,7 @@
         "title": "Dayton Perc Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Dayton_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/b9d47582-5422-4faf-9a91-fb08eb22351c.htm",
+        "recap": "http://recaps.competitionsuite.com/b9d47582-5422-4faf-9a91-fb08eb22351c.htm",
         "groups": [
             "Milford HS (OH)",
             "North Allegheny HS",
@@ -3506,7 +3506,7 @@
         "title": "Temecula Perc Finals",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Temecula_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/bea5c482-a145-4f1f-9c46-431410a1eeba.htm",
+        "recap": "http://recaps.competitionsuite.com/bea5c482-a145-4f1f-9c46-431410a1eeba.htm",
         "groups": [
             "Arbor View HS",
             "Arvin HS",
@@ -3552,7 +3552,7 @@
         "title": "Knoxville Perc Prelims",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Knoxville_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/989e508a-ea48-4a10-8f26-d91cd22d13bb.htm",
+        "recap": "http://recaps.competitionsuite.com/989e508a-ea48-4a10-8f26-d91cd22d13bb.htm",
         "groups": [
             "Hardin Valley Academy",
             "Oak Ridge HS",
@@ -3588,7 +3588,7 @@
         "title": "Knoxville Perc Finals",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Knoxville_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/01a6f233-e8c6-42bd-8ecf-fb2214a80bee.htm",
+        "recap": "http://recaps.competitionsuite.com/01a6f233-e8c6-42bd-8ecf-fb2214a80bee.htm",
         "groups": [
             "Hardin Valley Academy",
             "Oak Ridge HS",
@@ -3624,7 +3624,7 @@
         "title": "Temecula Perc Prelims",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Temecula_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/4878be5d-e7bb-4007-af03-567bf7db1c76.htm",
+        "recap": "http://recaps.competitionsuite.com/4878be5d-e7bb-4007-af03-567bf7db1c76.htm",
         "groups": [
             "Arbor View HS",
             "Arvin HS",
@@ -3683,7 +3683,7 @@
         "title": "Orlando Perc Prelims",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Orlando_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/b5e9c6ba-7b74-4b3f-bed9-dce00bbdcaa4.htm",
+        "recap": "http://recaps.competitionsuite.com/b5e9c6ba-7b74-4b3f-bed9-dce00bbdcaa4.htm",
         "groups": [
             "H.B. Plant HS",
             "Sunlake HS",
@@ -3731,7 +3731,7 @@
         "title": "Orlando Perc Finals",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Orlando_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/6c6813b5-b156-4a45-92aa-e43dea4d81bd.htm",
+        "recap": "http://recaps.competitionsuite.com/6c6813b5-b156-4a45-92aa-e43dea4d81bd.htm",
         "groups": [
             "H.B. Plant HS",
             "Park Vista Community HS",
@@ -3779,7 +3779,7 @@
         "title": "Chicago Perc Finals",
         "date": "February 15",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Chicago_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/ad02f480-9f45-440e-be02-6f8eeeccf4c1.htm",
+        "recap": "http://recaps.competitionsuite.com/ad02f480-9f45-440e-be02-6f8eeeccf4c1.htm",
         "groups": [
             "Minooka Community HS",
             "Kaneland HS",
@@ -3817,7 +3817,7 @@
         "title": "Chicago Perc Prelims",
         "date": "February 15",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Chicago_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/ac563e69-4337-43a0-ab5d-236f4d68d62c.htm",
+        "recap": "http://recaps.competitionsuite.com/ac563e69-4337-43a0-ab5d-236f4d68d62c.htm",
         "groups": [
             "Minooka Community HS",
             "Kaneland HS",
@@ -3855,7 +3855,7 @@
         "title": "Troy Perc Finals",
         "date": "February 08",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Troy_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/e2fa2fbe-f7b1-4530-a319-ff81b4d7a724.htm",
+        "recap": "http://recaps.competitionsuite.com/e2fa2fbe-f7b1-4530-a319-ff81b4d7a724.htm",
         "groups": [
             "Dakota Combined Schools",
             "Grand Blanc HS",
@@ -3895,7 +3895,7 @@
         "title": "Troy Perc Prelims",
         "date": "February 08",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Troy_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/cf163bb7-b303-48b9-bb37-0b81c2f98594.htm",
+        "recap": "http://recaps.competitionsuite.com/cf163bb7-b303-48b9-bb37-0b81c2f98594.htm",
         "groups": [
             "Dakota Combined Schools",
             "Grand Blanc HS",
@@ -3932,10 +3932,18 @@
         }
     },
     {
+        "title": "WGI China Percussion Event",
+        "date": "May 19",
+        "scores": "No scores",
+        "recap": "https://recaps.competitionsuite.com/c1e550a7-3416-45b0-92ae-086de5217406.htm",
+        "groups": [],
+        "scores_by_group": {}
+    },
+    {
         "title": "WGI Costa Rica Percussion Finals",
         "date": "May 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_WGI_Costa_Rica_Percussion_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/3fbfead9-4e16-4708-a2fb-27bd12f07335.htm",
+        "recap": "https://recaps.competitionsuite.com/3fbfead9-4e16-4708-a2fb-27bd12f07335.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -3943,7 +3951,7 @@
         "title": "WGI United Kingdom Percussion Finals",
         "date": "May 11",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_WGI_United_Kingdom_Percussion_Finals.html",
-        "recaps": "https://wgi.org/wp-content/uploads/2019/05/2019-WGIUK-Percussion-Finals-RECAPS.pdf",
+        "recap": "https://wgi.org/wp-content/uploads/2019/05/2019-WGIUK-Percussion-Finals-RECAPS.pdf",
         "groups": [],
         "scores_by_group": {}
     },
@@ -3951,7 +3959,7 @@
         "title": "WGI United Kingdom Percussion Prelims",
         "date": "May 11",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_WGI_United_Kingdom_Percussion_Prelims.html",
-        "recaps": "https://wgi.org/wp-content/uploads/2019/05/2019-WGIUK-Percussion-Prelims-RECAPS.pdf",
+        "recap": "https://wgi.org/wp-content/uploads/2019/05/2019-WGIUK-Percussion-Prelims-RECAPS.pdf",
         "groups": [],
         "scores_by_group": {}
     },
@@ -3959,7 +3967,7 @@
         "title": "WGI Costa Rica Percussion Prelims",
         "date": "May 11",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_WGI_Costa_Rica_Percussion_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/976c4b96-c5b7-48f8-a151-ed8a910f68fa.htm",
+        "recap": "https://recaps.competitionsuite.com/976c4b96-c5b7-48f8-a151-ed8a910f68fa.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -3967,7 +3975,7 @@
         "title": "Open Class Finals UD Arena",
         "date": "April 13",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Open_Class_Finals_UD_Arena.html",
-        "recaps": "http://recaps.competitionsuite.com/c2cbe40a-9b78-4f93-aad4-b8e6fa2577a0.htm",
+        "recap": "http://recaps.competitionsuite.com/c2cbe40a-9b78-4f93-aad4-b8e6fa2577a0.htm",
         "groups": [
             "Sparkman HS",
             "Clear Brook HS",
@@ -4037,7 +4045,7 @@
         "title": "World Class Finals UD Arena",
         "date": "April 13",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_World_Class_Finals_UD_Arena.html",
-        "recaps": "http://recaps.competitionsuite.com/19197ecc-5d87-45a7-a734-7490fff89218.htm",
+        "recap": "http://recaps.competitionsuite.com/19197ecc-5d87-45a7-a734-7490fff89218.htm",
         "groups": [
             "Chino Hills HS",
             "Arcadia HS",
@@ -4107,7 +4115,7 @@
         "title": "Concert Finals Nutter Center",
         "date": "April 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Concert_Finals_Nutter_Center.html",
-        "recaps": "http://recaps.competitionsuite.com/b255a77b-3bd6-4103-989e-ea3504749756.htm",
+        "recap": "http://recaps.competitionsuite.com/b255a77b-3bd6-4103-989e-ea3504749756.htm",
         "groups": [
             "Price Charter School",
             "Penn-Trafford HS",
@@ -4153,7 +4161,7 @@
         "title": "A Class Finals UD Arena",
         "date": "April 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_A_Class_Finals_UD_Arena.html",
-        "recaps": "http://recaps.competitionsuite.com/30ce3fdc-3f4a-4e97-bb92-b7e6fbe4769c.htm",
+        "recap": "http://recaps.competitionsuite.com/30ce3fdc-3f4a-4e97-bb92-b7e6fbe4769c.htm",
         "groups": [
             "Grand Blanc HS",
             "E.D. White HS",
@@ -4223,7 +4231,7 @@
         "title": "PIW Semi Finals UD Arena",
         "date": "April 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_PIW_Semi_Finals_UD_Arena.html",
-        "recaps": "http://recaps.competitionsuite.com/5f88c012-691a-45bd-9dd8-b5d120c6567d.htm",
+        "recap": "http://recaps.competitionsuite.com/5f88c012-691a-45bd-9dd8-b5d120c6567d.htm",
         "groups": [
             "Broken City",
             "Pulse Percussion",
@@ -4273,7 +4281,7 @@
         "title": "PSW Semi Finals UD Arena",
         "date": "April 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_PSW_Semi_Finals_UD_Arena.html",
-        "recaps": "http://recaps.competitionsuite.com/89440d05-9297-4ff9-87e4-a5b7b9a29d79.htm",
+        "recap": "http://recaps.competitionsuite.com/89440d05-9297-4ff9-87e4-a5b7b9a29d79.htm",
         "groups": [
             "Chino Hills HS",
             "Arcadia HS",
@@ -4325,7 +4333,7 @@
         "title": "PIO Semi Finals Nutter Center",
         "date": "April 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_PIO_Semi_Finals_Nutter_Center.html",
-        "recaps": "http://recaps.competitionsuite.com/df0324e9-43a8-4b00-b7b0-4fe1625c9038.htm",
+        "recap": "http://recaps.competitionsuite.com/df0324e9-43a8-4b00-b7b0-4fe1625c9038.htm",
         "groups": [
             "Bakersfield College",
             "Spirit Winter Percussion",
@@ -4383,7 +4391,7 @@
         "title": "PSO Semi Finals Nutter Center",
         "date": "April 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_PSO_Semi_Finals_Nutter_Center.html",
-        "recaps": "http://recaps.competitionsuite.com/109a571d-c3af-4b3e-9e28-fea7df4d96dc.htm",
+        "recap": "http://recaps.competitionsuite.com/109a571d-c3af-4b3e-9e28-fea7df4d96dc.htm",
         "groups": [
             "Clear Brook HS",
             "Norwalk HS",
@@ -4457,7 +4465,7 @@
         "title": "PIW Prelims UD Arena",
         "date": "April 11",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_PIW_Prelims_UD_Arena.html",
-        "recaps": "http://recaps.competitionsuite.com/deea13ab-3516-466f-8a09-166fe8a2fdbc.htm",
+        "recap": "http://recaps.competitionsuite.com/deea13ab-3516-466f-8a09-166fe8a2fdbc.htm",
         "groups": [
             "Broken City",
             "Music City Mystique",
@@ -4525,7 +4533,7 @@
         "title": "PSW Prelims UD Arena",
         "date": "April 11",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_PSW_Prelims_UD_Arena.html",
-        "recaps": "http://recaps.competitionsuite.com/0870a1f9-9a91-4555-a756-bd076c5b796a.htm",
+        "recap": "http://recaps.competitionsuite.com/0870a1f9-9a91-4555-a756-bd076c5b796a.htm",
         "groups": [
             "Chino Hills HS",
             "Ayala HS",
@@ -4577,7 +4585,7 @@
         "title": "PIO Prelims Hobart Arena",
         "date": "April 11",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_PIO_Prelims_Hobart_Arena.html",
-        "recaps": "http://recaps.competitionsuite.com/c18c189c-4a54-4a9f-b3b6-f0bace3f41fd.htm",
+        "recap": "http://recaps.competitionsuite.com/c18c189c-4a54-4a9f-b3b6-f0bace3f41fd.htm",
         "groups": [
             "Bakersfield College",
             "Infinity 2",
@@ -4649,7 +4657,7 @@
         "title": "PSA Semi Finals Nutter Center",
         "date": "April 11",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_PSA_Semi_Finals_Nutter_Center.html",
-        "recaps": "http://recaps.competitionsuite.com/0c3bbdb6-2751-46f7-b338-efc6f1cef3eb.htm",
+        "recap": "http://recaps.competitionsuite.com/0c3bbdb6-2751-46f7-b338-efc6f1cef3eb.htm",
         "groups": [
             "E.D. White HS",
             "Grand Blanc HS",
@@ -4707,7 +4715,7 @@
         "title": "PIA Semi Finals BB and T Arena",
         "date": "April 11",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_PIA_Semi_Finals_BB_and_T_Arena.html",
-        "recaps": "http://recaps.competitionsuite.com/b6f4de2d-bc59-4763-8230-327a265d6d70.htm",
+        "recap": "http://recaps.competitionsuite.com/b6f4de2d-bc59-4763-8230-327a265d6d70.htm",
         "groups": [
             "Unity Percussion",
             "Railmen Indoor Percussion",
@@ -4757,7 +4765,7 @@
         "title": "Concert Prelims Nutter Center",
         "date": "April 11",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Concert_Prelims_Nutter_Center.html",
-        "recaps": "http://recaps.competitionsuite.com/90e52700-363a-4153-8346-1df93b11a416.htm",
+        "recap": "http://recaps.competitionsuite.com/90e52700-363a-4153-8346-1df93b11a416.htm",
         "groups": [
             "Price Charter School",
             "Penn-Trafford HS",
@@ -4817,7 +4825,7 @@
         "title": "PSO Prelims BB and T Arena",
         "date": "April 11",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_PSO_Prelims_BB_and_T_Arena.html",
-        "recaps": "http://recaps.competitionsuite.com/9f141c72-ac56-4622-971c-3b7d44ad384a.htm",
+        "recap": "http://recaps.competitionsuite.com/9f141c72-ac56-4622-971c-3b7d44ad384a.htm",
         "groups": [
             "Norwalk HS",
             "Pace HS",
@@ -4927,7 +4935,7 @@
         "title": "PIA Prelims Nutter Center",
         "date": "April 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_PIA_Prelims_Nutter_Center.html",
-        "recaps": "http://recaps.competitionsuite.com/7ec2646a-39c3-4234-b6e9-219f73593ccc.htm",
+        "recap": "http://recaps.competitionsuite.com/7ec2646a-39c3-4234-b6e9-219f73593ccc.htm",
         "groups": [
             "Railmen Indoor Percussion",
             "STRYKE Percussion 2",
@@ -4985,7 +4993,7 @@
         "title": "PSA Prelims UD Arena",
         "date": "April 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_PSA_Prelims_UD_Arena.html",
-        "recaps": "http://recaps.competitionsuite.com/d4e93297-593c-42eb-88d5-eeb216c72264.htm",
+        "recap": "http://recaps.competitionsuite.com/d4e93297-593c-42eb-88d5-eeb216c72264.htm",
         "groups": [
             "Milford HS (OH)",
             "Beavercreek HS",
@@ -5089,7 +5097,7 @@
         "title": "West Perc Finals",
         "date": "March 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_West_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/be61e52e-b812-4854-96b7-27a2d5d2fdae.htm ",
+        "recap": "http://recaps.competitionsuite.com/be61e52e-b812-4854-96b7-27a2d5d2fdae.htm ",
         "groups": [
             "Enochs HS",
             "Valhalla HS",
@@ -5192,7 +5200,7 @@
         "title": "Mid East Perc Finals",
         "date": "March 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Mid_East_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/8428528a-546b-453c-a6ef-d6edd5971fe9.htm",
+        "recap": "http://recaps.competitionsuite.com/8428528a-546b-453c-a6ef-d6edd5971fe9.htm",
         "groups": [
             "Belleville East HS",
             "Milford HS (OH)",
@@ -5250,7 +5258,7 @@
         "title": "West Perc Concert Finals",
         "date": "March 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_West_Perc_Concert_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/be61e52e-b812-4854-96b7-27a2d5d2fdae.htm ",
+        "recap": "http://recaps.competitionsuite.com/be61e52e-b812-4854-96b7-27a2d5d2fdae.htm ",
         "groups": [
             "Savanna HS",
             "Notre Dame HS",
@@ -5276,7 +5284,7 @@
         "title": "Portland Perc Finals",
         "date": "March 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Portland_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/88d9d37e-83c0-426c-80f8-f018e5bae621.htm",
+        "recap": "http://recaps.competitionsuite.com/88d9d37e-83c0-426c-80f8-f018e5bae621.htm",
         "groups": [
             "Kamiak HS",
             "Sherwood Middle School",
@@ -5314,7 +5322,7 @@
         "title": "Mid East Perc Prelims",
         "date": "March 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Mid_East_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/3acc8357-2a44-460f-b915-589b93824fa3.htm",
+        "recap": "http://recaps.competitionsuite.com/3acc8357-2a44-460f-b915-589b93824fa3.htm",
         "groups": [
             "Belleville East HS",
             "Milford HS (OH)",
@@ -5386,7 +5394,7 @@
         "title": "Portland Perc Prelims",
         "date": "March 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Portland_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/e4b8c150-f554-49f9-8518-4e1b64c28de4.htm",
+        "recap": "http://recaps.competitionsuite.com/e4b8c150-f554-49f9-8518-4e1b64c28de4.htm",
         "groups": [
             "Kamiak HS",
             "Glencoe HS",
@@ -5424,7 +5432,7 @@
         "title": "West Perc Prelims",
         "date": "March 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_West_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/916fef75-2b51-4c9f-986d-32846f36f49a.htm",
+        "recap": "http://recaps.competitionsuite.com/916fef75-2b51-4c9f-986d-32846f36f49a.htm",
         "groups": [
             "El Dorado HS",
             "Los Alamitos HS",
@@ -5529,7 +5537,7 @@
         "title": "West Perc Prelims Grand Terrace",
         "date": "March 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_West_Perc_Prelims_Grand_Terrace.html",
-        "recaps": "http://recaps.competitionsuite.com/916fef75-2b51-4c9f-986d-32846f36f49a.htm",
+        "recap": "http://recaps.competitionsuite.com/916fef75-2b51-4c9f-986d-32846f36f49a.htm",
         "groups": [
             "Savanna HS",
             "West Ranch HS",
@@ -5589,7 +5597,7 @@
         "title": "South Perc Finals",
         "date": "March 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_South_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/ea26ff7c-7b3c-47c3-9440-85ce61f788b8.htm\t",
+        "recap": "http://recaps.competitionsuite.com/ea26ff7c-7b3c-47c3-9440-85ce61f788b8.htm\t",
         "groups": [
             "E.D. White HS",
             "Southaven HS",
@@ -5643,7 +5651,7 @@
         "title": "East Perc Finals",
         "date": "March 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_East_Perc_Finals.html",
-        "recaps": "\t\thttp://recaps.competitionsuite.com/7194508f-cd87-4a41-a5fc-b5b33a7c7eab.htm",
+        "recap": "\t\thttp://recaps.competitionsuite.com/7194508f-cd87-4a41-a5fc-b5b33a7c7eab.htm",
         "groups": [
             "Newtown HS",
             "Unionville HS",
@@ -5709,7 +5717,7 @@
         "title": "South Perc Prelims",
         "date": "March 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_South_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/a939710e-0679-4165-9ba3-801c8fd31152.htm",
+        "recap": "http://recaps.competitionsuite.com/a939710e-0679-4165-9ba3-801c8fd31152.htm",
         "groups": [
             "E.D. White HS",
             "Pace HS",
@@ -5773,7 +5781,7 @@
         "title": "East Perc Prelims",
         "date": "March 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_East_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/a83f0363-eeeb-4ccb-9127-a50beb9a0f19.htm",
+        "recap": "http://recaps.competitionsuite.com/a83f0363-eeeb-4ccb-9127-a50beb9a0f19.htm",
         "groups": [
             "Hilton HS",
             "Mechanicsburg HS",
@@ -5859,7 +5867,7 @@
         "title": "Atlanta Perc Prelims",
         "date": "March 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Atlanta_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/3a85025a-e4ea-4e2d-ad9f-99edae35a2a9.htm",
+        "recap": "http://recaps.competitionsuite.com/3a85025a-e4ea-4e2d-ad9f-99edae35a2a9.htm",
         "groups": [
             "Dorman HS",
             "Ninety Six HS",
@@ -5939,7 +5947,7 @@
         "title": "Atlanta Perc Finals",
         "date": "March 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Atlanta_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/ba317e61-c963-4a54-967d-584239026f73.htm",
+        "recap": "http://recaps.competitionsuite.com/ba317e61-c963-4a54-967d-584239026f73.htm",
         "groups": [
             "Dorman HS",
             "Hardin Valley Academy",
@@ -6005,7 +6013,7 @@
         "title": "Indy Perc Finals",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Indy_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/79e0777a-a712-487a-9d20-09fd54f70648.htm",
+        "recap": "http://recaps.competitionsuite.com/79e0777a-a712-487a-9d20-09fd54f70648.htm",
         "groups": [
             "Hamilton Southeastern HS",
             "Zionsville Community HS",
@@ -6078,7 +6086,7 @@
         "title": "Houston Perc Prelims",
         "date": "March 09",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Houston_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/96dd35b1-1dd3-45ec-9337-35e13a384a26.htm",
+        "recap": "http://recaps.competitionsuite.com/96dd35b1-1dd3-45ec-9337-35e13a384a26.htm",
         "groups": [
             "Lewisville HS",
             "East view HS",
@@ -6148,7 +6156,7 @@
         "title": "Houston Perc Finals",
         "date": "March 09",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Houston_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/507603af-8b06-47b0-8657-138d21f8d900.htm",
+        "recap": "http://recaps.competitionsuite.com/507603af-8b06-47b0-8657-138d21f8d900.htm",
         "groups": [
             "Lewisville HS",
             "Carroll HS",
@@ -6206,7 +6214,7 @@
         "title": "Denver Perc Prelims",
         "date": "March 09",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Denver_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/2b7002a2-ea47-420f-88a2-75b3b9a04d51.htm",
+        "recap": "http://recaps.competitionsuite.com/2b7002a2-ea47-420f-88a2-75b3b9a04d51.htm",
         "groups": [
             "Centaurus HS",
             "Monarch HS",
@@ -6250,7 +6258,7 @@
         "title": "Denver Perc Finals",
         "date": "March 09",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Denver_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/c233eb4c-4610-4357-ad5d-8e60c005e4b3.htm",
+        "recap": "http://recaps.competitionsuite.com/c233eb4c-4610-4357-ad5d-8e60c005e4b3.htm",
         "groups": [
             "Centaurus HS",
             "Monarch HS",
@@ -6294,7 +6302,7 @@
         "title": "Indy Perc Prelims",
         "date": "March 09",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Indy_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/92d96feb-aa5f-45d1-973f-91848ed79e9b.htm",
+        "recap": "http://recaps.competitionsuite.com/92d96feb-aa5f-45d1-973f-91848ed79e9b.htm",
         "groups": [
             "McGavock HS",
             "Hamilton Southeastern HS",
@@ -6383,7 +6391,7 @@
         "title": "Phoenix Perc Prelims",
         "date": "March 09",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Phoenix_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/24a6d9dc-c1de-4171-9fc8-8f0484f0b41d.htm",
+        "recap": "http://recaps.competitionsuite.com/24a6d9dc-c1de-4171-9fc8-8f0484f0b41d.htm",
         "groups": [
             "Basha HS",
             "Arcadia HS",
@@ -6437,7 +6445,7 @@
         "title": "Phoenix Perc Finals",
         "date": "March 09",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Phoenix_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/0da6e7ff-5add-4461-ae76-5cc79b46db30.htm",
+        "recap": "http://recaps.competitionsuite.com/0da6e7ff-5add-4461-ae76-5cc79b46db30.htm",
         "groups": [
             "Basha HS",
             "Arcadia HS",
@@ -6481,7 +6489,7 @@
         "title": "Spartanburg Perc Finals",
         "date": "March 02",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Spartanburg_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/03b847c6-8383-41a4-8f87-119122488048.htm",
+        "recap": "http://recaps.competitionsuite.com/03b847c6-8383-41a4-8f87-119122488048.htm",
         "groups": [
             "Clover HS",
             "Farragut HS",
@@ -6533,7 +6541,7 @@
         "title": "Spartanburg Perc Prelims",
         "date": "March 02",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Spartanburg_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/aff236c1-582a-4737-894f-a15f9a0fc347.htm",
+        "recap": "http://recaps.competitionsuite.com/aff236c1-582a-4737-894f-a15f9a0fc347.htm",
         "groups": [
             "Halls HS",
             "Clover HS",
@@ -6599,7 +6607,7 @@
         "title": "Fresno Perc Prelims",
         "date": "March 02",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Fresno_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/f2eb1149-5afa-4554-8f0b-0afbaa56faec.htm",
+        "recap": "http://recaps.competitionsuite.com/f2eb1149-5afa-4554-8f0b-0afbaa56faec.htm",
         "groups": [
             "Lemoore HS",
             "Golden Valley HS",
@@ -6650,7 +6658,7 @@
         "title": "Fresno Perc Finals",
         "date": "March 02",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Fresno_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/fb456e65-9acd-464f-a848-e13e69501002.htm",
+        "recap": "http://recaps.competitionsuite.com/fb456e65-9acd-464f-a848-e13e69501002.htm",
         "groups": [
             "Lemoore HS",
             "Golden Valley HS",
@@ -6691,7 +6699,7 @@
         "title": "Chicago Perc Finals",
         "date": "March 02",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Chicago_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/0c3f75be-f2d7-48b0-9b14-d5865de350a1.htm",
+        "recap": "http://recaps.competitionsuite.com/0c3f75be-f2d7-48b0-9b14-d5865de350a1.htm",
         "groups": [
             "Victor J. Andrew HS",
             "Kaneland HS",
@@ -6717,7 +6725,7 @@
         "title": "Chicago Perc Prelims",
         "date": "March 02",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Chicago_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/b404a1f3-9f8c-4301-b481-3eb67bf70864.htm",
+        "recap": "http://recaps.competitionsuite.com/b404a1f3-9f8c-4301-b481-3eb67bf70864.htm",
         "groups": [
             "Victor J. Andrew HS",
             "Minooka Community HS",
@@ -6747,7 +6755,7 @@
         "title": "Temecula Perc Finals",
         "date": "February 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Temecula_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/0a2b538d-a968-4cf1-95cc-61a19b629ef2.htm",
+        "recap": "http://recaps.competitionsuite.com/0a2b538d-a968-4cf1-95cc-61a19b629ef2.htm",
         "groups": [
             "Basha HS",
             "Mountain View HS",
@@ -6809,7 +6817,7 @@
         "title": "Dallas Perc Prelims",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Dallas_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/79fe53d7-36c7-4843-bc5a-1ecfcd2801ce.htm",
+        "recap": "http://recaps.competitionsuite.com/79fe53d7-36c7-4843-bc5a-1ecfcd2801ce.htm",
         "groups": [
             "Lewisville HS",
             "Rockwall Heath HS",
@@ -6865,7 +6873,7 @@
         "title": "Dallas Perc Finals",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Dallas_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/4e113846-2fc5-4725-ac4b-2384dd2a59ea.htm",
+        "recap": "http://recaps.competitionsuite.com/4e113846-2fc5-4725-ac4b-2384dd2a59ea.htm",
         "groups": [
             "Lewisville HS",
             "Saginaw HS",
@@ -6921,7 +6929,7 @@
         "title": "Richmond Perc Finals",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Richmond_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/e949f657-d3b5-4b8b-b960-f732399e7feb.htm",
+        "recap": "http://recaps.competitionsuite.com/e949f657-d3b5-4b8b-b960-f732399e7feb.htm",
         "groups": [
             "Central Dauphin School District",
             "Woodbridge Senior HS",
@@ -6972,7 +6980,7 @@
         "title": "Richmond Perc Prelims",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Richmond_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/9731b7a8-d510-40af-a12c-f1aad8c37f61.htm",
+        "recap": "http://recaps.competitionsuite.com/9731b7a8-d510-40af-a12c-f1aad8c37f61.htm",
         "groups": [
             "Central Dauphin School District",
             "Woodbridge Senior HS",
@@ -7023,7 +7031,7 @@
         "title": "Temecula Perc Prelims",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Temecula_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/a6852a09-dd51-453c-82b2-074cbed31993.htm",
+        "recap": "http://recaps.competitionsuite.com/a6852a09-dd51-453c-82b2-074cbed31993.htm",
         "groups": [
             "Basha HS",
             "Mountain View HS",
@@ -7095,7 +7103,7 @@
         "title": "Orlando Perc Prelims",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Orlando_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/228e020c-9f33-4eb5-9e0c-5312b0e8e22a.htm",
+        "recap": "http://recaps.competitionsuite.com/228e020c-9f33-4eb5-9e0c-5312b0e8e22a.htm",
         "groups": [
             "Sunlake HS",
             "Wiregrass Ranch HS",
@@ -7137,7 +7145,7 @@
         "title": "Orlando Perc Finals",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Orlando_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/2df861ca-9902-4c16-b614-3d63aea58bc2.htm",
+        "recap": "http://recaps.competitionsuite.com/2df861ca-9902-4c16-b614-3d63aea58bc2.htm",
         "groups": [
             "Sunlake HS",
             "Wiregrass Ranch HS",
@@ -7179,7 +7187,7 @@
         "title": "Dayton Perc Finals",
         "date": "February 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Dayton_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/41fd8904-cf54-4f09-a2cb-1f4618b884c4.htm",
+        "recap": "http://recaps.competitionsuite.com/41fd8904-cf54-4f09-a2cb-1f4618b884c4.htm",
         "groups": [
             "Victor J. Andrew HS",
             "Beavercreek HS",
@@ -7243,7 +7251,7 @@
         "title": "St Louis Perc Finals",
         "date": "February 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_St_Louis_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/ec0f84fc-19f6-476b-bfa5-49c75f61a9a4.htm\t",
+        "recap": "http://recaps.competitionsuite.com/ec0f84fc-19f6-476b-bfa5-49c75f61a9a4.htm\t",
         "groups": [
             "Belleville East HS",
             "Mater Dei Catholic HS",
@@ -7275,7 +7283,7 @@
         "title": "St Louis Perc Prelims",
         "date": "February 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_St_Louis_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/273b3c1c-9f52-4ff2-b7b0-ccb57184de44.htm\t",
+        "recap": "http://recaps.competitionsuite.com/273b3c1c-9f52-4ff2-b7b0-ccb57184de44.htm\t",
         "groups": [
             "Belleville East HS",
             "Mater Dei Catholic HS",
@@ -7304,10 +7312,18 @@
         }
     },
     {
+        "title": "Dayton Perc Winds Prelims",
+        "date": "February 16",
+        "scores": "No scores",
+        "recap": "http://recaps.competitionsuite.com/4eb5b9ff-279a-44c6-ad0f-9eb3738ea2f8.htm",
+        "groups": [],
+        "scores_by_group": {}
+    },
+    {
         "title": "Troy Perc Prelims",
         "date": "February 09",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Troy_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/e4e14e6f-dc31-4bb6-82e2-ae7565df2d58.htm",
+        "recap": "http://recaps.competitionsuite.com/e4e14e6f-dc31-4bb6-82e2-ae7565df2d58.htm",
         "groups": [
             "Grand Blanc HS",
             "Lake Orion HS",
@@ -7347,7 +7363,7 @@
         "title": "Troy Perc Finals",
         "date": "February 09",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Troy_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/b87ff6e8-0a63-49e4-8f26-58f81993799e.htm",
+        "recap": "http://recaps.competitionsuite.com/b87ff6e8-0a63-49e4-8f26-58f81993799e.htm",
         "groups": [
             "Grand Blanc HS",
             "Lake Orion HS",
@@ -7387,7 +7403,7 @@
         "title": "Costa Rica Perc Finals",
         "date": "September 30",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Costa_Rica_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/c7a206ce-d55a-4ea2-9d3f-82e7135cec18.htm",
+        "recap": "http://recaps.competitionsuite.com/c7a206ce-d55a-4ea2-9d3f-82e7135cec18.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -7395,7 +7411,7 @@
         "title": "Costa Rica Perc Prelims",
         "date": "September 30",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Costa_Rica_Perc_Prelims.html",
-        "recaps": " http://recaps.competitionsuite.com/4e82ab93-2c5a-4ec9-b113-1fab47942ec4.htm",
+        "recap": " http://recaps.competitionsuite.com/4e82ab93-2c5a-4ec9-b113-1fab47942ec4.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -7403,7 +7419,7 @@
         "title": "Philippines Perc Finals",
         "date": "June 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Philippines_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/9028fb27-ceed-4512-9704-fd3ea7497e65.htm",
+        "recap": "http://recaps.competitionsuite.com/9028fb27-ceed-4512-9704-fd3ea7497e65.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -7411,7 +7427,7 @@
         "title": "Philippines Perc Prelims",
         "date": "June 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Philippines_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/03bb1d2c-d999-4044-94b5-605e3bfa8a11.htm",
+        "recap": "http://recaps.competitionsuite.com/03bb1d2c-d999-4044-94b5-605e3bfa8a11.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -7419,7 +7435,7 @@
         "title": "Open Class Finals",
         "date": "April 21",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Open_Class_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/c2b65600-7610-4419-9203-79a45d4ff10d.htm",
+        "recap": "http://recaps.competitionsuite.com/c2b65600-7610-4419-9203-79a45d4ff10d.htm",
         "groups": [
             "Clear Brook HS",
             "Old Bridge HS",
@@ -7489,7 +7505,7 @@
         "title": "World Class Finals",
         "date": "April 21",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_World_Class_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/fb80be78-2dee-4061-a0c0-0406cadcfe99.htm",
+        "recap": "http://recaps.competitionsuite.com/fb80be78-2dee-4061-a0c0-0406cadcfe99.htm",
         "groups": [
             "Chino Hills HS",
             "Dartmouth HS",
@@ -7559,7 +7575,7 @@
         "title": "Concert Finals",
         "date": "April 20",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Concert_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/8f88c53e-7b17-4118-9868-ea73471c63e0.htm",
+        "recap": "http://recaps.competitionsuite.com/8f88c53e-7b17-4118-9868-ea73471c63e0.htm",
         "groups": [
             "Decatur Central HS",
             "West Ranch HS",
@@ -7607,7 +7623,7 @@
         "title": "PIO Semi Finals",
         "date": "April 20",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_PIO_Semi_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/c8dee206-0239-4eb3-9032-205bda7137a3.htm",
+        "recap": "http://recaps.competitionsuite.com/c8dee206-0239-4eb3-9032-205bda7137a3.htm",
         "groups": [
             "Matrix Open",
             "ConneXus",
@@ -7665,7 +7681,7 @@
         "title": "PIW Semi Finals",
         "date": "April 20",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_PIW_Semi_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/ae75f4eb-c573-470d-9165-707470517b1c.htm",
+        "recap": "http://recaps.competitionsuite.com/ae75f4eb-c573-470d-9165-707470517b1c.htm",
         "groups": [
             "RCC",
             "Rhythm X",
@@ -7715,7 +7731,7 @@
         "title": "PSA Semi Finals",
         "date": "April 20",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_PSA_Semi_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/153db846-0f04-47d4-92db-e9e78820c365.htm",
+        "recap": "http://recaps.competitionsuite.com/153db846-0f04-47d4-92db-e9e78820c365.htm",
         "groups": [
             "Plainfield HS",
             "Dorman HS",
@@ -7789,7 +7805,7 @@
         "title": "A Class Finals",
         "date": "April 20",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_A_Class_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/8cdba4ec-7dd0-428a-98a2-f08716788edf.htm",
+        "recap": "http://recaps.competitionsuite.com/8cdba4ec-7dd0-428a-98a2-f08716788edf.htm",
         "groups": [
             "IMPACT Percussion",
             "Unity Percussion",
@@ -7859,7 +7875,7 @@
         "title": "PSO Semi Finals",
         "date": "April 20",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_PSO_Semi_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/3806f572-7905-44e4-a2e7-b168f6585b76.htm",
+        "recap": "http://recaps.competitionsuite.com/3806f572-7905-44e4-a2e7-b168f6585b76.htm",
         "groups": [
             "Victor J. Andrew HS",
             "Union HS",
@@ -7917,7 +7933,7 @@
         "title": "PIA Semi Finals",
         "date": "April 20",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_PIA_Semi_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/fe1e33d1-4fe7-4911-a29a-6161835604e9.htm",
+        "recap": "http://recaps.competitionsuite.com/fe1e33d1-4fe7-4911-a29a-6161835604e9.htm",
         "groups": [
             "IMPACT Percussion",
             "Unity Percussion",
@@ -7967,7 +7983,7 @@
         "title": "PSW Semi Finals",
         "date": "April 20",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_PSW_Semi_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/4386d5e9-e718-4ae8-9a6c-5746a2537ffb.htm",
+        "recap": "http://recaps.competitionsuite.com/4386d5e9-e718-4ae8-9a6c-5746a2537ffb.htm",
         "groups": [
             "Chino Hills HS",
             "Dartmouth HS",
@@ -8017,7 +8033,7 @@
         "title": "PSA Prelims",
         "date": "April 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_PSA_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/08121cd3-26ca-4f3e-b95f-8ae9e6a38495.htm",
+        "recap": "http://recaps.competitionsuite.com/08121cd3-26ca-4f3e-b95f-8ae9e6a38495.htm",
         "groups": [
             "Dorman HS",
             "Pearl HS",
@@ -8157,7 +8173,7 @@
         "title": "PSW Prelims",
         "date": "April 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_PSW_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/4427c463-6ec8-4d2c-a19b-cb721ee821e7.htm",
+        "recap": "http://recaps.competitionsuite.com/4427c463-6ec8-4d2c-a19b-cb721ee821e7.htm",
         "groups": [
             "Arcadia HS",
             "Dartmouth HS",
@@ -8213,7 +8229,7 @@
         "title": "Concert Prelims",
         "date": "April 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Concert_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/58432d48-520a-4bbe-a502-ed736a10ba9a.htm",
+        "recap": "http://recaps.competitionsuite.com/58432d48-520a-4bbe-a502-ed736a10ba9a.htm",
         "groups": [
             "Decatur Central HS",
             "West Ranch HS",
@@ -8277,7 +8293,7 @@
         "title": "PIW Prelims",
         "date": "April 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_PIW_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/c7c2cb7c-374f-46eb-931f-979094dcc985.htm",
+        "recap": "http://recaps.competitionsuite.com/c7c2cb7c-374f-46eb-931f-979094dcc985.htm",
         "groups": [
             "Broken City",
             "Pulse Percussion",
@@ -8341,7 +8357,7 @@
         "title": "PIO Prelims",
         "date": "April 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_PIO_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/9fff1df8-1a5d-4e88-95a8-918fdc6a11f5.htm",
+        "recap": "http://recaps.competitionsuite.com/9fff1df8-1a5d-4e88-95a8-918fdc6a11f5.htm",
         "groups": [
             "Bakersfield College",
             "Matrix Open",
@@ -8421,7 +8437,7 @@
         "title": "PIA Prelims",
         "date": "April 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_PIA_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/3c4a1e7c-6b74-4917-b417-464f0dd99d6a.htm",
+        "recap": "http://recaps.competitionsuite.com/3c4a1e7c-6b74-4917-b417-464f0dd99d6a.htm",
         "groups": [
             "IMPACT Percussion",
             "Paradigm Percussion",
@@ -8485,7 +8501,7 @@
         "title": "PSO Prelims",
         "date": "April 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_PSO_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/4a5fe9bb-c74e-4e7b-9b3d-aadd10fd62af.htm",
+        "recap": "http://recaps.competitionsuite.com/4a5fe9bb-c74e-4e7b-9b3d-aadd10fd62af.htm",
         "groups": [
             "Union HS",
             "Victor J. Andrew HS",
@@ -8571,7 +8587,7 @@
         "title": "Mid East Power Regional Perc Finals",
         "date": "March 25",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Mid_East_Power_Regional_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/6055476e-5b3e-428c-bb24-3a207684d551.htm",
+        "recap": "http://recaps.competitionsuite.com/6055476e-5b3e-428c-bb24-3a207684d551.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8579,7 +8595,7 @@
         "title": "West Power Regional Perc Finals",
         "date": "March 25",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_West_Power_Regional_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/0a8765aa-6701-42ea-9525-0f6b96e1292a.htm",
+        "recap": "http://recaps.competitionsuite.com/0a8765aa-6701-42ea-9525-0f6b96e1292a.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8587,7 +8603,7 @@
         "title": "West Power Regional Perc Prelims",
         "date": "March 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_West_Power_Regional_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/80729c44-0d8e-4417-ba26-f6eae936171c.htm",
+        "recap": "http://recaps.competitionsuite.com/80729c44-0d8e-4417-ba26-f6eae936171c.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8595,7 +8611,7 @@
         "title": "West Prelims at Grand Terrace HS",
         "date": "March 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_West_Prelims_at_Grand_Terrace_HS.html",
-        "recaps": "http://recaps.competitionsuite.com/80729c44-0d8e-4417-ba26-f6eae936171c.htm",
+        "recap": "http://recaps.competitionsuite.com/80729c44-0d8e-4417-ba26-f6eae936171c.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8603,7 +8619,7 @@
         "title": "West Power Regional Concert Finals at CSUSB",
         "date": "March 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_West_Power_Regional_Concert_Finals_at_CSUSB.html",
-        "recaps": "http://recaps.competitionsuite.com/0a8765aa-6701-42ea-9525-0f6b96e1292a.htm",
+        "recap": "http://recaps.competitionsuite.com/0a8765aa-6701-42ea-9525-0f6b96e1292a.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8611,7 +8627,7 @@
         "title": "West Power Regional PSA Semi Finals at CSUSB",
         "date": "March 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_West_Power_Regional_PSA_Semi_Finals_at_CSUSB.html",
-        "recaps": "http://recaps.competitionsuite.com/2cb3d7f4-ae78-4d6b-a01d-c397db853827.htm",
+        "recap": "http://recaps.competitionsuite.com/2cb3d7f4-ae78-4d6b-a01d-c397db853827.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8619,7 +8635,7 @@
         "title": "Mid East Power Regional Perc Prelims",
         "date": "March 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Mid_East_Power_Regional_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/89d7f888-d892-4f73-bae5-b099eb1302dc.htm\t",
+        "recap": "http://recaps.competitionsuite.com/89d7f888-d892-4f73-bae5-b099eb1302dc.htm\t",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8627,7 +8643,7 @@
         "title": "South Power Regional Perc Finals",
         "date": "March 18",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_South_Power_Regional_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/a76d3715-a571-4e06-a4e0-da97daa1cc71.htm",
+        "recap": "http://recaps.competitionsuite.com/a76d3715-a571-4e06-a4e0-da97daa1cc71.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8635,7 +8651,7 @@
         "title": "East Power Regional Perc Finals",
         "date": "March 18",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_East_Power_Regional_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/c062e6ca-0992-41db-a7c2-46f33d168774.htm",
+        "recap": "http://recaps.competitionsuite.com/c062e6ca-0992-41db-a7c2-46f33d168774.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8643,7 +8659,7 @@
         "title": "Denver Perc Finals",
         "date": "March 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Denver_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/ae46f881-7c76-4a42-acaa-d7a4b8cc3d23.htm\t",
+        "recap": "http://recaps.competitionsuite.com/ae46f881-7c76-4a42-acaa-d7a4b8cc3d23.htm\t",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8651,7 +8667,7 @@
         "title": "Denver Perc Prelims",
         "date": "March 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Denver_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/00d40833-2478-4daa-bca8-24d7df5d8b67.htm\t",
+        "recap": "http://recaps.competitionsuite.com/00d40833-2478-4daa-bca8-24d7df5d8b67.htm\t",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8659,7 +8675,7 @@
         "title": "South Power Regional Perc Prelims",
         "date": "March 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_South_Power_Regional_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/ab437932-72d5-4e58-8fea-3ccf27687a25.htm",
+        "recap": "http://recaps.competitionsuite.com/ab437932-72d5-4e58-8fea-3ccf27687a25.htm",
         "groups": [
             "Pace HS",
             "Southaven HS",
@@ -8725,7 +8741,7 @@
         "title": "East Power Regional Perc Prelims",
         "date": "March 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_East_Power_Regional_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/4643406e-d7e7-4178-91f6-37d9f697ceff.htm",
+        "recap": "http://recaps.competitionsuite.com/4643406e-d7e7-4178-91f6-37d9f697ceff.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8733,7 +8749,7 @@
         "title": "Indianapolis Perc Finals",
         "date": "March 11",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Indianapolis_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/c06aa0b9-500e-4ab4-9960-fb0e04e103a1.htm",
+        "recap": "http://recaps.competitionsuite.com/c06aa0b9-500e-4ab4-9960-fb0e04e103a1.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8741,7 +8757,7 @@
         "title": "Portland Perc Finals",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Portland_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/4569d60f-f81a-400a-97d3-325f642d21d0.htm",
+        "recap": "http://recaps.competitionsuite.com/4569d60f-f81a-400a-97d3-325f642d21d0.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8749,7 +8765,7 @@
         "title": "Portland Perc Prelims",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Portland_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/7758a612-44c0-4701-a966-dbbf8b294994.htm",
+        "recap": "http://recaps.competitionsuite.com/7758a612-44c0-4701-a966-dbbf8b294994.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8757,7 +8773,7 @@
         "title": "Las Vegas Perc Finals",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Las_Vegas_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/4ec4141b-db47-4192-871f-6dddc289646c.htm",
+        "recap": "http://recaps.competitionsuite.com/4ec4141b-db47-4192-871f-6dddc289646c.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8765,7 +8781,7 @@
         "title": "Dallas Perc Prelims",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Dallas_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/b634c20a-38b7-4ed2-907b-584361c076da.htm",
+        "recap": "http://recaps.competitionsuite.com/b634c20a-38b7-4ed2-907b-584361c076da.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8773,7 +8789,7 @@
         "title": "Dallas Perc Finals",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Dallas_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/c9928b60-b482-482f-a208-bbd49aae60bc.htm",
+        "recap": "http://recaps.competitionsuite.com/c9928b60-b482-482f-a208-bbd49aae60bc.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8781,7 +8797,7 @@
         "title": "Atlanta Perc Prelims",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Atlanta_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/163038be-69e8-47a7-ac4d-4bc9dd94c108.htm",
+        "recap": "http://recaps.competitionsuite.com/163038be-69e8-47a7-ac4d-4bc9dd94c108.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8789,7 +8805,7 @@
         "title": "Atlanta Perc Finals",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Atlanta_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/fc7041c5-5267-431a-9489-d642ddd7b7d9.htm",
+        "recap": "http://recaps.competitionsuite.com/fc7041c5-5267-431a-9489-d642ddd7b7d9.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8797,7 +8813,7 @@
         "title": "Indianapolis Perc Prelims",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Indianapolis_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/7f7a02a0-cb68-4951-a220-33217370996d.htm",
+        "recap": "http://recaps.competitionsuite.com/7f7a02a0-cb68-4951-a220-33217370996d.htm",
         "groups": [
             "Plainfield HS",
             "Perry Meridian HS",
@@ -8910,7 +8926,7 @@
         "title": "Las Vegas Perc Prelims",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Las_Vegas_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/080c1293-aa1e-477b-8f77-949fb1554538.htm",
+        "recap": "http://recaps.competitionsuite.com/080c1293-aa1e-477b-8f77-949fb1554538.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8918,7 +8934,7 @@
         "title": "Minneapolis Perc Prelims",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Minneapolis_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/f4181b79-a059-412a-9bf7-1d976cb15326.htm",
+        "recap": "http://recaps.competitionsuite.com/f4181b79-a059-412a-9bf7-1d976cb15326.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8926,7 +8942,7 @@
         "title": "Minneapolis Perc Finals",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Minneapolis_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/5fb43771-8b9c-4465-9d2e-e04ebaddde92.htm",
+        "recap": "http://recaps.competitionsuite.com/5fb43771-8b9c-4465-9d2e-e04ebaddde92.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8934,7 +8950,7 @@
         "title": "Spartanburg Perc Prelims",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Spartanburg_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/0875727b-6ce3-4a81-a24c-2f3c84ebfea4.htm",
+        "recap": "http://recaps.competitionsuite.com/0875727b-6ce3-4a81-a24c-2f3c84ebfea4.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8942,7 +8958,7 @@
         "title": "Spartanburg Perc Finals",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Spartanburg_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/e367953e-66d4-4389-95ce-5693d6665c93.htm",
+        "recap": "http://recaps.competitionsuite.com/e367953e-66d4-4389-95ce-5693d6665c93.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8950,7 +8966,7 @@
         "title": "Fresno Perc Prelims",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Fresno_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/5a42defe-b8dd-4fef-be0d-9148b0c9e6b6.htm",
+        "recap": "http://recaps.competitionsuite.com/5a42defe-b8dd-4fef-be0d-9148b0c9e6b6.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8958,7 +8974,7 @@
         "title": "Fresno Perc Finals",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Fresno_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/a99527c7-4b59-49af-97dc-b24f2cb52c7f.htm",
+        "recap": "http://recaps.competitionsuite.com/a99527c7-4b59-49af-97dc-b24f2cb52c7f.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8966,7 +8982,7 @@
         "title": "Phoenix Perc Prelims",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Phoenix_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/ea7d34a2-176a-4e4a-9829-ca01e103a874.htm",
+        "recap": "http://recaps.competitionsuite.com/ea7d34a2-176a-4e4a-9829-ca01e103a874.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8974,7 +8990,7 @@
         "title": "Phoenix Perc Finals",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Phoenix_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/a91336a5-7f63-4655-bb4f-4be22f8275c3.htm\t",
+        "recap": "http://recaps.competitionsuite.com/a91336a5-7f63-4655-bb4f-4be22f8275c3.htm\t",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8982,7 +8998,7 @@
         "title": "Trumbull Perc Finals",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Trumbull_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/73a89114-5fc4-43a2-9273-0b06114a6d08.htm ",
+        "recap": "http://recaps.competitionsuite.com/73a89114-5fc4-43a2-9273-0b06114a6d08.htm ",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8990,7 +9006,7 @@
         "title": "Trumbull Perc Prelims",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Trumbull_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/92773708-dbeb-40f4-aa99-d06f0c846dd1.htm ",
+        "recap": "http://recaps.competitionsuite.com/92773708-dbeb-40f4-aa99-d06f0c846dd1.htm ",
         "groups": [],
         "scores_by_group": {}
     },
@@ -8998,7 +9014,7 @@
         "title": "Temecula Perc Finals",
         "date": "February 25",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Temecula_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/164baf2d-f7d8-44c0-bb1c-48e22f7641e8.htm",
+        "recap": "http://recaps.competitionsuite.com/164baf2d-f7d8-44c0-bb1c-48e22f7641e8.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -9006,7 +9022,7 @@
         "title": "Tampa Perc Prelims",
         "date": "February 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Tampa_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/573d72c4-f3a8-46b6-8deb-acfd09aa1b70.htm",
+        "recap": "http://recaps.competitionsuite.com/573d72c4-f3a8-46b6-8deb-acfd09aa1b70.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -9014,7 +9030,7 @@
         "title": "Houston Perc Finals",
         "date": "February 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Houston_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/51d2b79f-5015-41bb-91bf-6fb4817c5f5a.htm",
+        "recap": "http://recaps.competitionsuite.com/51d2b79f-5015-41bb-91bf-6fb4817c5f5a.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -9022,7 +9038,7 @@
         "title": "Houston Perc Prelims",
         "date": "February 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Houston_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/df88807b-fd94-4ed8-9229-300a24d3d1fd.htm",
+        "recap": "http://recaps.competitionsuite.com/df88807b-fd94-4ed8-9229-300a24d3d1fd.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -9030,7 +9046,7 @@
         "title": "Tampa Perc Finals",
         "date": "February 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Tampa_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/dfdfac40-1300-446d-80d1-920537518a6d.htm",
+        "recap": "http://recaps.competitionsuite.com/dfdfac40-1300-446d-80d1-920537518a6d.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -9038,7 +9054,7 @@
         "title": "Temecula Perc Prelims",
         "date": "February 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Temecula_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/97f0c2b0-9e47-428f-9aea-c51cad8852a6.htm",
+        "recap": "http://recaps.competitionsuite.com/97f0c2b0-9e47-428f-9aea-c51cad8852a6.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -9046,7 +9062,7 @@
         "title": "Richmond Perc Finals",
         "date": "February 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Richmond_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/a8d60618-540f-4cbf-9499-f7abd7e86bdb.htm",
+        "recap": "http://recaps.competitionsuite.com/a8d60618-540f-4cbf-9499-f7abd7e86bdb.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -9054,7 +9070,7 @@
         "title": "Richmond Perc Prelims",
         "date": "February 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Richmond_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/5793c9ec-c993-46be-95b0-1a7201c789f3.htm",
+        "recap": "http://recaps.competitionsuite.com/5793c9ec-c993-46be-95b0-1a7201c789f3.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -9062,7 +9078,7 @@
         "title": "Dayton Perc Finals",
         "date": "February 18",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Dayton_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/4061f1ad-dba7-4cfb-bd3e-726f76ad6a8b.htm",
+        "recap": "http://recaps.competitionsuite.com/4061f1ad-dba7-4cfb-bd3e-726f76ad6a8b.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -9070,7 +9086,7 @@
         "title": "St Louis Perc Finals",
         "date": "February 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_St_Louis_Perc_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/ab9d17be-7ddb-4222-8da1-573e899cc9a4.htm",
+        "recap": "http://recaps.competitionsuite.com/ab9d17be-7ddb-4222-8da1-573e899cc9a4.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -9078,7 +9094,7 @@
         "title": "St Louis Perc Prelims ",
         "date": "February 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_St_Louis_Perc_Prelims_.html",
-        "recaps": "http://recaps.competitionsuite.com/aae50de3-bce9-44f8-936f-9cf0951165d3.htm",
+        "recap": "http://recaps.competitionsuite.com/aae50de3-bce9-44f8-936f-9cf0951165d3.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -9086,7 +9102,7 @@
         "title": "Dayton Perc Prelims",
         "date": "February 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Dayton_Perc_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/2d303de8-3086-425b-8a93-60c344bc9dbb.htm",
+        "recap": "http://recaps.competitionsuite.com/2d303de8-3086-425b-8a93-60c344bc9dbb.htm",
         "groups": [
             "Victor HS",
             "East Syracuse Minoa Central HS",
@@ -9156,7 +9172,7 @@
         "title": "Dayton Winds Finals",
         "date": "March 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Dayton_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/581021be-f630-4b4c-81f8-7d4b2252ff7d.htm",
+        "recap": "https://recaps.competitionsuite.com/581021be-f630-4b4c-81f8-7d4b2252ff7d.htm",
         "groups": [
             "Carlisle HS",
             "Miamisburg HS",
@@ -9174,7 +9190,7 @@
         "title": "Monroe Township Winds Finals",
         "date": "March 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Monroe_Township_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/33543adb-c8db-4812-9f44-4538303c59cb.htm ",
+        "recap": "https://recaps.competitionsuite.com/33543adb-c8db-4812-9f44-4538303c59cb.htm ",
         "groups": [
             "Dartmouth HS",
             "Vortex Indoor Winds"
@@ -9188,7 +9204,7 @@
         "title": "Monroe Township Winds Prelims",
         "date": "March 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Monroe_Township_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/474cc20f-fe40-4458-a2a1-70e6f907901b.htm",
+        "recap": "https://recaps.competitionsuite.com/474cc20f-fe40-4458-a2a1-70e6f907901b.htm",
         "groups": [
             "Dartmouth HS",
             "Vortex Indoor Winds"
@@ -9202,7 +9218,7 @@
         "title": "Dayton Winds Prelims",
         "date": "March 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Dayton_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/93db739d-6635-44f9-b26b-4efe2f80bdba.htm",
+        "recap": "https://recaps.competitionsuite.com/93db739d-6635-44f9-b26b-4efe2f80bdba.htm",
         "groups": [
             "Carlisle HS",
             "Miamisburg HS",
@@ -9222,7 +9238,7 @@
         "title": "Dallas Winds Finals",
         "date": "March 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Dallas_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/021eb843-d78c-49a9-a739-2aea582b4e84.htm",
+        "recap": "https://recaps.competitionsuite.com/021eb843-d78c-49a9-a739-2aea582b4e84.htm",
         "groups": [
             "Joshua HS",
             "Brandon HS",
@@ -9246,7 +9262,7 @@
         "title": "Minneapolis Winds Prelims",
         "date": "March 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Minneapolis_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/babcf045-1112-496f-9046-96634ee8f218.htm",
+        "recap": "https://recaps.competitionsuite.com/babcf045-1112-496f-9046-96634ee8f218.htm",
         "groups": [
             "Elk River Combined Schools"
         ],
@@ -9258,7 +9274,7 @@
         "title": "Minneapolis Winds Finals",
         "date": "March 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Minneapolis_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/4415fd93-acf2-4cba-bfdb-023219048907.htm",
+        "recap": "https://recaps.competitionsuite.com/4415fd93-acf2-4cba-bfdb-023219048907.htm",
         "groups": [
             "Elk River Combined Schools"
         ],
@@ -9270,7 +9286,7 @@
         "title": "Atlanta Winds Prelims",
         "date": "March 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Atlanta_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/00b37cd0-7a1a-4fc6-bd14-9d3c226ac5c7.htm",
+        "recap": "https://recaps.competitionsuite.com/00b37cd0-7a1a-4fc6-bd14-9d3c226ac5c7.htm",
         "groups": [
             "Paragon",
             "Mt. Juliet HS"
@@ -9284,7 +9300,7 @@
         "title": "Atlanta Winds Finals",
         "date": "March 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Atlanta_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/6bbfbeb0-5ddf-4174-8329-e3b71990ffe4.htm",
+        "recap": "https://recaps.competitionsuite.com/6bbfbeb0-5ddf-4174-8329-e3b71990ffe4.htm",
         "groups": [
             "Paragon",
             "Mt. Juliet HS"
@@ -9298,7 +9314,7 @@
         "title": "Dallas Winds Prelims",
         "date": "March 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Dallas_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/b52784ea-0caa-4a3b-9b29-7e8142bc734a.htm",
+        "recap": "https://recaps.competitionsuite.com/b52784ea-0caa-4a3b-9b29-7e8142bc734a.htm",
         "groups": [
             "Joshua HS",
             "Brandon HS",
@@ -9322,7 +9338,7 @@
         "title": "Hattiesburg Winds Finals",
         "date": "March 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Hattiesburg_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/25e9d761-b44a-476a-90c1-a01e6f27ec58.htm",
+        "recap": "https://recaps.competitionsuite.com/25e9d761-b44a-476a-90c1-a01e6f27ec58.htm",
         "groups": [
             "Hollister HS",
             "East Webster HS",
@@ -9344,7 +9360,7 @@
         "title": "Hattiesburg Winds Prelims",
         "date": "March 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Hattiesburg_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/f6c79a16-8db9-43c0-b09e-b1b5f95f7980.htm",
+        "recap": "https://recaps.competitionsuite.com/f6c79a16-8db9-43c0-b09e-b1b5f95f7980.htm",
         "groups": [
             "East Webster HS",
             "Hollister HS",
@@ -9366,7 +9382,7 @@
         "title": "Spartanburg Winds Finals",
         "date": "March 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Spartanburg_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/f4cdf113-a5e3-4110-982c-cfb2b99b795a.htm",
+        "recap": "https://recaps.competitionsuite.com/f4cdf113-a5e3-4110-982c-cfb2b99b795a.htm",
         "groups": [
             "Corinth Holders HS",
             "Mooresville HS",
@@ -9384,7 +9400,7 @@
         "title": "Spartanburg Winds Prelims",
         "date": "March 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Spartanburg_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/f4fa7357-5ca4-42ba-acc9-722a058179f3.htm",
+        "recap": "https://recaps.competitionsuite.com/f4fa7357-5ca4-42ba-acc9-722a058179f3.htm",
         "groups": [
             "Corinth Holders HS",
             "Mooresville HS",
@@ -9402,7 +9418,7 @@
         "title": "Richmond Winds Finals",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Richmond_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/806c134b-64a2-4abd-9ee0-1427c9c0ac1f.htm",
+        "recap": "https://recaps.competitionsuite.com/806c134b-64a2-4abd-9ee0-1427c9c0ac1f.htm",
         "groups": [
             "Empyrean Winds"
         ],
@@ -9414,7 +9430,7 @@
         "title": "Houston Winds Prelims",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Houston_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/201b1ced-2fe0-49db-8906-c83372029dcf.htm",
+        "recap": "https://recaps.competitionsuite.com/201b1ced-2fe0-49db-8906-c83372029dcf.htm",
         "groups": [
             "Edinburg HS",
             "Elkhart HS",
@@ -9436,7 +9452,7 @@
         "title": "Houston Winds Finals",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Houston_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/9f9d7f9a-8dcd-4ca9-b94a-57bda8a1d8e9.htm",
+        "recap": "https://recaps.competitionsuite.com/9f9d7f9a-8dcd-4ca9-b94a-57bda8a1d8e9.htm",
         "groups": [
             "Edinburg HS",
             "Edinburg North HS",
@@ -9456,7 +9472,7 @@
         "title": "Knoxville Winds Prelims",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Knoxville_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/ca16ab6c-622f-45e2-a925-37f486463337.htm",
+        "recap": "https://recaps.competitionsuite.com/ca16ab6c-622f-45e2-a925-37f486463337.htm",
         "groups": [
             "Hardin Valley Academy",
             "Green Hill HS",
@@ -9474,7 +9490,7 @@
         "title": "Knoxville Winds Finals",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Knoxville_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/df7548ad-6191-4cb5-9d79-51c30a62b1f5.htm\t",
+        "recap": "https://recaps.competitionsuite.com/df7548ad-6191-4cb5-9d79-51c30a62b1f5.htm\t",
         "groups": [
             "Hardin Valley Academy",
             "Green Hill HS",
@@ -9492,7 +9508,7 @@
         "title": "Omaha Winds Prelims",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Omaha_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/cb97244a-e7c6-43f0-972f-17ee20722b6c.htm",
+        "recap": "https://recaps.competitionsuite.com/cb97244a-e7c6-43f0-972f-17ee20722b6c.htm",
         "groups": [
             "Bellevue West HS",
             "Bellevue East HS",
@@ -9508,7 +9524,7 @@
         "title": "Omaha Winds Finals",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Omaha_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/9e37bdf5-dfb0-4eec-8c1d-c90e695d92b2.htm",
+        "recap": "https://recaps.competitionsuite.com/9e37bdf5-dfb0-4eec-8c1d-c90e695d92b2.htm",
         "groups": [
             "Bellevue West HS",
             "Bellevue East HS",
@@ -9524,7 +9540,7 @@
         "title": "Richmond Winds Prelims",
         "date": "March 05",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Richmond_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/454a0519-5d4b-4a58-9875-9bb301460ce6.htm",
+        "recap": "https://recaps.competitionsuite.com/454a0519-5d4b-4a58-9875-9bb301460ce6.htm",
         "groups": [
             "Empyrean Winds"
         ],
@@ -9536,7 +9552,7 @@
         "title": "Orlando Winds Finals",
         "date": "February 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Orlando_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/566349c3-8219-48ce-ade2-658e686195ac.htm",
+        "recap": "https://recaps.competitionsuite.com/566349c3-8219-48ce-ade2-658e686195ac.htm",
         "groups": [
             "Father Ryan HS",
             "Stoneman Douglas HS",
@@ -9556,7 +9572,7 @@
         "title": "Orlando Winds Prelims",
         "date": "February 26",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Orlando_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/3fd373e7-58e1-44d3-abb6-4e2d639f9d93.htm",
+        "recap": "https://recaps.competitionsuite.com/3fd373e7-58e1-44d3-abb6-4e2d639f9d93.htm",
         "groups": [
             "Father Ryan HS",
             "Stoneman Douglas HS",
@@ -9576,7 +9592,7 @@
         "title": "Indianapolis Winds Finals",
         "date": "February 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Indianapolis_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/8cd9eabc-3bb6-4e8e-8c5c-5be427ed5d4f.htm",
+        "recap": "https://recaps.competitionsuite.com/8cd9eabc-3bb6-4e8e-8c5c-5be427ed5d4f.htm",
         "groups": [
             "Ben Davis HS",
             "Kent City HS",
@@ -9610,7 +9626,7 @@
         "title": "Indianapolis Winds Prelims",
         "date": "February 19",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Indianapolis_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/7d1c686b-9c60-43b4-ab39-90a75d2f6fc9.htm",
+        "recap": "https://recaps.competitionsuite.com/7d1c686b-9c60-43b4-ab39-90a75d2f6fc9.htm",
         "groups": [
             "Daviess County HS",
             "Ben Davis HS",
@@ -9644,7 +9660,7 @@
         "title": "Troy Winds Finals",
         "date": "February 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Troy_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/4117f8d8-6703-4e16-9564-287e8bd1b5bf.htm",
+        "recap": "https://recaps.competitionsuite.com/4117f8d8-6703-4e16-9564-287e8bd1b5bf.htm",
         "groups": [
             "LSM Winds"
         ],
@@ -9656,7 +9672,7 @@
         "title": "Troy Winds Prelims",
         "date": "February 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2022/scores_Troy_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/1e808ac0-bd69-48a4-92a5-fd588414a471.htm",
+        "recap": "https://recaps.competitionsuite.com/1e808ac0-bd69-48a4-92a5-fd588414a471.htm",
         "groups": [
             "LSM Winds"
         ],
@@ -9668,7 +9684,7 @@
         "title": "Spartanburg Winds Finals",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Spartanburg_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/5c22baa6-2766-4b96-a37e-4ee76c785f72.htm\t",
+        "recap": "http://recaps.competitionsuite.com/5c22baa6-2766-4b96-a37e-4ee76c785f72.htm\t",
         "groups": [
             "Rock Hill HS"
         ],
@@ -9680,7 +9696,7 @@
         "title": "Denver Winds Finals",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/b679b8e2-785e-4cc7-aed7-c2844f4d5a66.htm",
+        "recap": "http://recaps.competitionsuite.com/b679b8e2-785e-4cc7-aed7-c2844f4d5a66.htm",
         "groups": [
             "Armada Winds",
             "Blue Knights Winds"
@@ -9694,7 +9710,7 @@
         "title": "Denver Winds Prelims",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/25b13ef5-6520-494f-a203-96cb52fe23f1.htm",
+        "recap": "http://recaps.competitionsuite.com/25b13ef5-6520-494f-a203-96cb52fe23f1.htm",
         "groups": [
             "Armada Winds",
             "Blue Knights Winds"
@@ -9708,7 +9724,7 @@
         "title": "Dallas Winds Finals",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Dallas_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/5e11aa7b-d000-4879-978e-cb4b687aad39.htm",
+        "recap": "http://recaps.competitionsuite.com/5e11aa7b-d000-4879-978e-cb4b687aad39.htm",
         "groups": [
             "Greenwood HS",
             "Joshua HS",
@@ -9728,7 +9744,7 @@
         "title": "Dallas Winds Prelims",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Dallas_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/f6ba2a4b-c165-4949-8e5f-dc3badbecf8e.htm",
+        "recap": "http://recaps.competitionsuite.com/f6ba2a4b-c165-4949-8e5f-dc3badbecf8e.htm",
         "groups": [
             "Joshua HS",
             "Greenwood HS",
@@ -9748,7 +9764,7 @@
         "title": "Spartanburg Winds Prelims",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Spartanburg_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/65fd7a56-fa13-42bd-8348-19c8f11f4864.htm\t",
+        "recap": "http://recaps.competitionsuite.com/65fd7a56-fa13-42bd-8348-19c8f11f4864.htm\t",
         "groups": [
             "Rock Hill HS"
         ],
@@ -9760,7 +9776,7 @@
         "title": "Houston Winds Finals",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Houston_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/e0c9d5dc-d828-4085-932d-a2a7d1d502fe.htm",
+        "recap": "http://recaps.competitionsuite.com/e0c9d5dc-d828-4085-932d-a2a7d1d502fe.htm",
         "groups": [
             "Edinburg North HS"
         ],
@@ -9772,7 +9788,7 @@
         "title": "Richmond Winds Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Richmond_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/54203d22-3c90-4816-9091-3d408c7dda94.htm",
+        "recap": "http://recaps.competitionsuite.com/54203d22-3c90-4816-9091-3d408c7dda94.htm",
         "groups": [
             "Ardrey Kell HS",
             "Corinth Holders HS",
@@ -9794,7 +9810,7 @@
         "title": "Omaha Winds Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Omaha_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/5855919e-2a84-4214-aa1e-05c4d05d557c.htm",
+        "recap": "http://recaps.competitionsuite.com/5855919e-2a84-4214-aa1e-05c4d05d557c.htm",
         "groups": [
             "Bellevue East HS",
             "Bellevue West HS",
@@ -9810,7 +9826,7 @@
         "title": "Houston Winds Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Houston_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/eab01d59-ec64-45c8-a187-a3bc644d16ea.htm",
+        "recap": "http://recaps.competitionsuite.com/eab01d59-ec64-45c8-a187-a3bc644d16ea.htm",
         "groups": [
             "Edinburg North HS"
         ],
@@ -9822,7 +9838,7 @@
         "title": "Dayton Winds Finals",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Dayton_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/aa74b61e-83ae-49e4-a0b8-bc2881323047.htm",
+        "recap": "http://recaps.competitionsuite.com/aa74b61e-83ae-49e4-a0b8-bc2881323047.htm",
         "groups": [
             "Mt. Juliet HS",
             "Richmond HS",
@@ -9840,7 +9856,7 @@
         "title": "Dayton Winds Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Dayton_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/b9d47582-5422-4faf-9a91-fb08eb22351c.htm",
+        "recap": "http://recaps.competitionsuite.com/b9d47582-5422-4faf-9a91-fb08eb22351c.htm",
         "groups": [
             "Mt. Juliet HS",
             "Richmond HS",
@@ -9858,7 +9874,7 @@
         "title": "Richmond Winds Finals",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Richmond_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/e65661bc-cd4e-4728-b71c-77241642d26c.htm",
+        "recap": "http://recaps.competitionsuite.com/e65661bc-cd4e-4728-b71c-77241642d26c.htm",
         "groups": [
             "Ardrey Kell HS",
             "Corinth Holders HS",
@@ -9880,7 +9896,7 @@
         "title": "Omaha Winds Finals",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Omaha_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/1c32976d-c28b-48ba-a7d1-328d169f74a9.htm",
+        "recap": "http://recaps.competitionsuite.com/1c32976d-c28b-48ba-a7d1-328d169f74a9.htm",
         "groups": [
             "Bellevue East HS",
             "Bellevue West HS",
@@ -9896,7 +9912,7 @@
         "title": "Knoxville Winds Prelims",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Knoxville_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/989e508a-ea48-4a10-8f26-d91cd22d13bb.htm",
+        "recap": "http://recaps.competitionsuite.com/989e508a-ea48-4a10-8f26-d91cd22d13bb.htm",
         "groups": [
             "Sequoyah HS"
         ],
@@ -9908,7 +9924,7 @@
         "title": "Knoxville Winds Finals",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Knoxville_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/01a6f233-e8c6-42bd-8ecf-fb2214a80bee.htm",
+        "recap": "http://recaps.competitionsuite.com/01a6f233-e8c6-42bd-8ecf-fb2214a80bee.htm",
         "groups": [
             "Sequoyah HS"
         ],
@@ -9920,7 +9936,7 @@
         "title": "Temecula Winds Prelims",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Temecula_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/4878be5d-e7bb-4007-af03-567bf7db1c76.htm",
+        "recap": "http://recaps.competitionsuite.com/4878be5d-e7bb-4007-af03-567bf7db1c76.htm",
         "groups": [
             "The Royal Cavaliers"
         ],
@@ -9932,7 +9948,7 @@
         "title": "Temecula Winds Finals",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Temecula_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/bea5c482-a145-4f1f-9c46-431410a1eeba.htm",
+        "recap": "http://recaps.competitionsuite.com/bea5c482-a145-4f1f-9c46-431410a1eeba.htm",
         "groups": [
             "The Royal Cavaliers"
         ],
@@ -9944,7 +9960,7 @@
         "title": "Orlando Winds Prelims",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Orlando_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/b5e9c6ba-7b74-4b3f-bed9-dce00bbdcaa4.htm",
+        "recap": "http://recaps.competitionsuite.com/b5e9c6ba-7b74-4b3f-bed9-dce00bbdcaa4.htm",
         "groups": [
             "Horizon Winds",
             "STRYKE Wynds",
@@ -9960,7 +9976,7 @@
         "title": "Orlando Winds Finals",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Orlando_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/6c6813b5-b156-4a45-92aa-e43dea4d81bd.htm",
+        "recap": "http://recaps.competitionsuite.com/6c6813b5-b156-4a45-92aa-e43dea4d81bd.htm",
         "groups": [
             "Horizon Winds",
             "STRYKE Wynds",
@@ -9976,7 +9992,7 @@
         "title": "Indianapolis Winds Prelims",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Indianapolis_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/c14eb39e-0126-4d4d-8fc1-4cc85da07c07.htm",
+        "recap": "http://recaps.competitionsuite.com/c14eb39e-0126-4d4d-8fc1-4cc85da07c07.htm",
         "groups": [
             "Decatur Central HS",
             "Westfield HS",
@@ -10010,7 +10026,7 @@
         "title": "Indianapolis Winds Finals",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Indianapolis_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/9cbc9e9d-fd45-4ad1-a124-f6be63e96fa8.htm",
+        "recap": "http://recaps.competitionsuite.com/9cbc9e9d-fd45-4ad1-a124-f6be63e96fa8.htm",
         "groups": [
             "Decatur Central HS",
             "Westfield HS",
@@ -10044,7 +10060,7 @@
         "title": "Troy Winds Prelims",
         "date": "February 08",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Troy_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/cf163bb7-b303-48b9-bb37-0b81c2f98594.htm",
+        "recap": "http://recaps.competitionsuite.com/cf163bb7-b303-48b9-bb37-0b81c2f98594.htm",
         "groups": [
             "LSM Winds"
         ],
@@ -10056,7 +10072,7 @@
         "title": "Troy Winds Finals",
         "date": "February 08",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Troy_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/e2fa2fbe-f7b1-4530-a319-ff81b4d7a724.htm",
+        "recap": "http://recaps.competitionsuite.com/e2fa2fbe-f7b1-4530-a319-ff81b4d7a724.htm",
         "groups": [
             "LSM Winds"
         ],
@@ -10065,10 +10081,18 @@
         }
     },
     {
+        "title": "WGI China Winds Event",
+        "date": "May 19",
+        "scores": "No scores",
+        "recap": "https://recaps.competitionsuite.com/c1e550a7-3416-45b0-92ae-086de5217406.htm",
+        "groups": [],
+        "scores_by_group": {}
+    },
+    {
         "title": "WGI Costa Rica Winds Finals",
         "date": "May 12",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_WGI_Costa_Rica_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/3fbfead9-4e16-4708-a2fb-27bd12f07335.htm",
+        "recap": "https://recaps.competitionsuite.com/3fbfead9-4e16-4708-a2fb-27bd12f07335.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -10076,7 +10100,7 @@
         "title": "WGI United Kingdom Winds Finals",
         "date": "May 11",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_WGI_United_Kingdom_Winds_Finals.html",
-        "recaps": "https://wgi.org/wp-content/uploads/2019/05/2019-WGIUK-Winds-Finals-RECAPS.pdf",
+        "recap": "https://wgi.org/wp-content/uploads/2019/05/2019-WGIUK-Winds-Finals-RECAPS.pdf",
         "groups": [],
         "scores_by_group": {}
     },
@@ -10084,7 +10108,7 @@
         "title": "WGI United Kingdom Winds Prelims",
         "date": "May 11",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_WGI_United_Kingdom_Winds_Prelims.html",
-        "recaps": "https://wgi.org/wp-content/uploads/2019/05/2019-WGIUK-Winds-Prelims-RECAPS.pdf",
+        "recap": "https://wgi.org/wp-content/uploads/2019/05/2019-WGIUK-Winds-Prelims-RECAPS.pdf",
         "groups": [],
         "scores_by_group": {}
     },
@@ -10092,7 +10116,7 @@
         "title": "WGI Costa Rica Winds Prelims",
         "date": "May 11",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_WGI_Costa_Rica_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/976c4b96-c5b7-48f8-a151-ed8a910f68fa.htm",
+        "recap": "https://recaps.competitionsuite.com/976c4b96-c5b7-48f8-a151-ed8a910f68fa.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -10100,7 +10124,7 @@
         "title": "Winds Finals UD Arena",
         "date": "April 14",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Winds_Finals_UD_Arena.html",
-        "recaps": "http://recaps.competitionsuite.com/8f83d485-e713-4443-9f0d-162d831f63a0.htm",
+        "recap": "http://recaps.competitionsuite.com/8f83d485-e713-4443-9f0d-162d831f63a0.htm",
         "groups": [
             "Valley Christian HS",
             "Ardrey Kell HS",
@@ -10184,7 +10208,7 @@
         "title": "Winds Prelims Nutter Center",
         "date": "April 13",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Winds_Prelims_Nutter_Center.html",
-        "recaps": "http://recaps.competitionsuite.com/effb9cc6-59af-4506-b9e4-3bf3411be7e5.htm",
+        "recap": "http://recaps.competitionsuite.com/effb9cc6-59af-4506-b9e4-3bf3411be7e5.htm",
         "groups": [
             "Ardrey Kell HS",
             "Newnan HS",
@@ -10284,7 +10308,7 @@
         "title": "Portland Winds Finals",
         "date": "March 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Portland_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/88d9d37e-83c0-426c-80f8-f018e5bae621.htm",
+        "recap": "http://recaps.competitionsuite.com/88d9d37e-83c0-426c-80f8-f018e5bae621.htm",
         "groups": [
             "Sherwood HS",
             "Armada Winds"
@@ -10298,7 +10322,7 @@
         "title": "Mid East Winds Finals",
         "date": "March 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Mid_East_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/8428528a-546b-453c-a6ef-d6edd5971fe9.htm",
+        "recap": "http://recaps.competitionsuite.com/8428528a-546b-453c-a6ef-d6edd5971fe9.htm",
         "groups": [
             "John Hardin HS",
             "Hart County HS",
@@ -10330,7 +10354,7 @@
         "title": "Mid East Winds Prelims",
         "date": "March 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Mid_East_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/3acc8357-2a44-460f-b915-589b93824fa3.htm",
+        "recap": "http://recaps.competitionsuite.com/3acc8357-2a44-460f-b915-589b93824fa3.htm",
         "groups": [
             "John Hardin HS",
             "Hart County HS",
@@ -10362,7 +10386,7 @@
         "title": "Portland Winds Prelims",
         "date": "March 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Portland_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/e4b8c150-f554-49f9-8518-4e1b64c28de4.htm",
+        "recap": "http://recaps.competitionsuite.com/e4b8c150-f554-49f9-8518-4e1b64c28de4.htm",
         "groups": [
             "Sherwood HS",
             "Armada Winds"
@@ -10376,7 +10400,7 @@
         "title": "South Winds Prelims",
         "date": "March 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_South_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/a939710e-0679-4165-9ba3-801c8fd31152.htm",
+        "recap": "http://recaps.competitionsuite.com/a939710e-0679-4165-9ba3-801c8fd31152.htm",
         "groups": [
             "St. Charles Parish Public Schools",
             "Greenwood HS",
@@ -10400,7 +10424,7 @@
         "title": "South Winds Finals",
         "date": "March 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_South_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/ea26ff7c-7b3c-47c3-9440-85ce61f788b8.htm",
+        "recap": "http://recaps.competitionsuite.com/ea26ff7c-7b3c-47c3-9440-85ce61f788b8.htm",
         "groups": [
             "St. Charles Parish Public Schools",
             "Greenwood HS",
@@ -10424,7 +10448,7 @@
         "title": "Atlanta Winds Prelims",
         "date": "March 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Atlanta_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/3a85025a-e4ea-4e2d-ad9f-99edae35a2a9.htm",
+        "recap": "http://recaps.competitionsuite.com/3a85025a-e4ea-4e2d-ad9f-99edae35a2a9.htm",
         "groups": [
             "Ardrey Kell HS",
             "Newnan HS",
@@ -10448,7 +10472,7 @@
         "title": "Atlanta Winds Finals",
         "date": "March 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Atlanta_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/ba317e61-c963-4a54-967d-584239026f73.htm",
+        "recap": "http://recaps.competitionsuite.com/ba317e61-c963-4a54-967d-584239026f73.htm",
         "groups": [
             "Ardrey Kell HS",
             "Newnan HS",
@@ -10470,7 +10494,7 @@
         "title": "Houston Winds Finals",
         "date": "March 09",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Houston_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/507603af-8b06-47b0-8657-138d21f8d900.htm",
+        "recap": "http://recaps.competitionsuite.com/507603af-8b06-47b0-8657-138d21f8d900.htm",
         "groups": [
             "Laredo Independent Indoor Winds",
             "Edinburg North HS",
@@ -10490,7 +10514,7 @@
         "title": "Houston Winds Prelims",
         "date": "March 09",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Houston_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/96dd35b1-1dd3-45ec-9337-35e13a384a26.htm",
+        "recap": "http://recaps.competitionsuite.com/96dd35b1-1dd3-45ec-9337-35e13a384a26.htm",
         "groups": [
             "Laredo Independent Indoor Winds",
             "Edinburg North HS",
@@ -10510,7 +10534,7 @@
         "title": "Denver Winds Finals",
         "date": "March 09",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Denver_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/c233eb4c-4610-4357-ad5d-8e60c005e4b3.htm",
+        "recap": "http://recaps.competitionsuite.com/c233eb4c-4610-4357-ad5d-8e60c005e4b3.htm",
         "groups": [
             "Blue Knights Winds"
         ],
@@ -10522,7 +10546,7 @@
         "title": "Denver Winds Prelims",
         "date": "March 09",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Denver_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/2b7002a2-ea47-420f-88a2-75b3b9a04d51.htm",
+        "recap": "http://recaps.competitionsuite.com/2b7002a2-ea47-420f-88a2-75b3b9a04d51.htm",
         "groups": [
             "Blue Knights Winds"
         ],
@@ -10534,7 +10558,7 @@
         "title": "Indy Winds Finals",
         "date": "March 02",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Indy_Winds_Finals.html",
-        "recaps": "https://recaps.competitionsuite.com/61f5b0d3-4055-4315-af1b-c5d2cae2db26.htm",
+        "recap": "https://recaps.competitionsuite.com/61f5b0d3-4055-4315-af1b-c5d2cae2db26.htm",
         "groups": [
             "Lewis Cass HS",
             "Daviess County HS",
@@ -10564,7 +10588,7 @@
         "title": "Indy Winds Prelims",
         "date": "March 02",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Indy_Winds_Prelims.html",
-        "recaps": "https://recaps.competitionsuite.com/d6d172a0-8b81-4b5c-a714-724c97fa9747.htm",
+        "recap": "https://recaps.competitionsuite.com/d6d172a0-8b81-4b5c-a714-724c97fa9747.htm",
         "groups": [
             "Lewis Cass HS",
             "Daviess County HS",
@@ -10594,7 +10618,7 @@
         "title": "Spartanburg Winds Finals",
         "date": "March 02",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Spartanburg_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/03b847c6-8383-41a4-8f87-119122488048.htm",
+        "recap": "http://recaps.competitionsuite.com/03b847c6-8383-41a4-8f87-119122488048.htm",
         "groups": [
             "Olympic HS",
             "Greenville High School Indoor Winds"
@@ -10608,7 +10632,7 @@
         "title": "Spartanburg Winds Prelims",
         "date": "March 02",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Spartanburg_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/aff236c1-582a-4737-894f-a15f9a0fc347.htm",
+        "recap": "http://recaps.competitionsuite.com/aff236c1-582a-4737-894f-a15f9a0fc347.htm",
         "groups": [
             "Olympic HS",
             "Greenville High School Indoor Winds"
@@ -10622,7 +10646,7 @@
         "title": "Dallas Winds Prelims",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Dallas_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/79fe53d7-36c7-4843-bc5a-1ecfcd2801ce.htm",
+        "recap": "http://recaps.competitionsuite.com/79fe53d7-36c7-4843-bc5a-1ecfcd2801ce.htm",
         "groups": [
             "Edinburg North HS",
             "RGV Winds",
@@ -10644,7 +10668,7 @@
         "title": "Dallas Winds Finals",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Dallas_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/4e113846-2fc5-4725-ac4b-2384dd2a59ea.htm",
+        "recap": "http://recaps.competitionsuite.com/4e113846-2fc5-4725-ac4b-2384dd2a59ea.htm",
         "groups": [
             "Edinburg North HS",
             "RGV Winds",
@@ -10666,7 +10690,7 @@
         "title": "Richmond Winds Prelims",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Richmond_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/9731b7a8-d510-40af-a12c-f1aad8c37f61.htm",
+        "recap": "http://recaps.competitionsuite.com/9731b7a8-d510-40af-a12c-f1aad8c37f61.htm",
         "groups": [
             "West Johnston HS",
             "Empyrean Winds"
@@ -10680,7 +10704,7 @@
         "title": "Richmond Winds Finals",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Richmond_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/e949f657-d3b5-4b8b-b960-f732399e7feb.htm",
+        "recap": "http://recaps.competitionsuite.com/e949f657-d3b5-4b8b-b960-f732399e7feb.htm",
         "groups": [
             "West Johnston HS",
             "Empyrean Winds"
@@ -10694,7 +10718,7 @@
         "title": "Orlando Winds Finals",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Orlando_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/2df861ca-9902-4c16-b614-3d63aea58bc2.htm",
+        "recap": "http://recaps.competitionsuite.com/2df861ca-9902-4c16-b614-3d63aea58bc2.htm",
         "groups": [
             "Cooper City HS",
             "Horizon Winds",
@@ -10714,7 +10738,7 @@
         "title": "Orlando Winds Prelims",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Orlando_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/228e020c-9f33-4eb5-9e0c-5312b0e8e22a.htm",
+        "recap": "http://recaps.competitionsuite.com/228e020c-9f33-4eb5-9e0c-5312b0e8e22a.htm",
         "groups": [
             "Cooper City HS",
             "Horizon Winds",
@@ -10734,7 +10758,7 @@
         "title": "St Louis Winds Finals",
         "date": "February 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_St_Louis_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/ec0f84fc-19f6-476b-bfa5-49c75f61a9a4.htm\t",
+        "recap": "http://recaps.competitionsuite.com/ec0f84fc-19f6-476b-bfa5-49c75f61a9a4.htm\t",
         "groups": [
             "Windsor HS"
         ],
@@ -10746,7 +10770,7 @@
         "title": "St Louis Winds Prelims",
         "date": "February 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_St_Louis_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/273b3c1c-9f52-4ff2-b7b0-ccb57184de44.htm\t",
+        "recap": "http://recaps.competitionsuite.com/273b3c1c-9f52-4ff2-b7b0-ccb57184de44.htm\t",
         "groups": [
             "Windsor HS"
         ],
@@ -10758,7 +10782,7 @@
         "title": "Dayton Winds Finals",
         "date": "February 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Dayton_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/41fd8904-cf54-4f09-a2cb-1f4618b884c4.htm",
+        "recap": "http://recaps.competitionsuite.com/41fd8904-cf54-4f09-a2cb-1f4618b884c4.htm",
         "groups": [
             "Miamisburg HS",
             "Inertia Independent Winds",
@@ -10774,7 +10798,7 @@
         "title": "Dayton Winds Prelims",
         "date": "February 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2019/scores_Dayton_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/4eb5b9ff-279a-44c6-ad0f-9eb3738ea2f8.htm",
+        "recap": "http://recaps.competitionsuite.com/4eb5b9ff-279a-44c6-ad0f-9eb3738ea2f8.htm",
         "groups": [
             "Miamisburg HS",
             "Inertia Independent Winds",
@@ -10790,7 +10814,7 @@
         "title": "Costa Rica Winds Finals",
         "date": "September 30",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Costa_Rica_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/c7a206ce-d55a-4ea2-9d3f-82e7135cec18.htm",
+        "recap": "http://recaps.competitionsuite.com/c7a206ce-d55a-4ea2-9d3f-82e7135cec18.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -10798,7 +10822,7 @@
         "title": "Costa Rica Winds Prelims",
         "date": "September 30",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Costa_Rica_Winds_Prelims.html",
-        "recaps": " http://recaps.competitionsuite.com/4e82ab93-2c5a-4ec9-b113-1fab47942ec4.htm",
+        "recap": " http://recaps.competitionsuite.com/4e82ab93-2c5a-4ec9-b113-1fab47942ec4.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -10806,7 +10830,7 @@
         "title": "Philippines Winds Finals",
         "date": "June 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Philippines_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/9028fb27-ceed-4512-9704-fd3ea7497e65.htm",
+        "recap": "http://recaps.competitionsuite.com/9028fb27-ceed-4512-9704-fd3ea7497e65.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -10814,7 +10838,7 @@
         "title": "Philippines Winds Prelims",
         "date": "June 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Philippines_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/03bb1d2c-d999-4044-94b5-605e3bfa8a11.htm",
+        "recap": "http://recaps.competitionsuite.com/03bb1d2c-d999-4044-94b5-605e3bfa8a11.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -10822,7 +10846,7 @@
         "title": "2018 Winds Finals",
         "date": "April 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_2018_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/d46f147c-0bad-4f12-86b3-4a9077686a07.htm",
+        "recap": "http://recaps.competitionsuite.com/d46f147c-0bad-4f12-86b3-4a9077686a07.htm",
         "groups": [
             "Lake Hamilton HS",
             "Newnan HS",
@@ -10920,7 +10944,7 @@
         "title": "2018 Winds Prelims",
         "date": "April 21",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_2018_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/c3054098-b5a1-4473-ad42-3070dd3f9c2c.htm",
+        "recap": "http://recaps.competitionsuite.com/c3054098-b5a1-4473-ad42-3070dd3f9c2c.htm",
         "groups": [
             "Newnan HS",
             "Lake Hamilton HS",
@@ -11022,7 +11046,7 @@
         "title": "West Power Regional Winds Prelims",
         "date": "March 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_West_Power_Regional_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/d1f3f739-1992-4245-80a3-af91511c8715.htm",
+        "recap": "http://recaps.competitionsuite.com/d1f3f739-1992-4245-80a3-af91511c8715.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11030,7 +11054,7 @@
         "title": "Mid East Power Regional Winds Finals",
         "date": "March 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Mid_East_Power_Regional_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/3824c3d3-5464-4162-8c87-4624bb8fc1fb.htm",
+        "recap": "http://recaps.competitionsuite.com/3824c3d3-5464-4162-8c87-4624bb8fc1fb.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11038,7 +11062,7 @@
         "title": "Mid East Power Regional Winds Prelims",
         "date": "March 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Mid_East_Power_Regional_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/95e232a6-427e-4c10-b7d2-7ba08dbd2d54.htm",
+        "recap": "http://recaps.competitionsuite.com/95e232a6-427e-4c10-b7d2-7ba08dbd2d54.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11046,7 +11070,7 @@
         "title": "West Power Regional Winds Finals",
         "date": "March 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_West_Power_Regional_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/50fc15e2-43e2-44cf-9327-44b41fa8015b.htm",
+        "recap": "http://recaps.competitionsuite.com/50fc15e2-43e2-44cf-9327-44b41fa8015b.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11054,7 +11078,7 @@
         "title": "South Power Regional Winds Prelims",
         "date": "March 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_South_Power_Regional_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/a48f2658-883e-42ad-89bb-b630c1406823.htm",
+        "recap": "http://recaps.competitionsuite.com/a48f2658-883e-42ad-89bb-b630c1406823.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11062,7 +11086,7 @@
         "title": "Dayton Winds Prelims",
         "date": "March 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Dayton_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/29481445-c71e-40ee-b84f-3a1dd9e4a3f6.htm",
+        "recap": "http://recaps.competitionsuite.com/29481445-c71e-40ee-b84f-3a1dd9e4a3f6.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11070,7 +11094,7 @@
         "title": "Dayton Winds Finals",
         "date": "March 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Dayton_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/c72feb3f-4f74-4ab4-b192-712e81c3d31f.htm",
+        "recap": "http://recaps.competitionsuite.com/c72feb3f-4f74-4ab4-b192-712e81c3d31f.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11078,7 +11102,7 @@
         "title": "South Power Regional Winds Finals",
         "date": "March 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_South_Power_Regional_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/921d989a-ec2c-4377-af57-193e65c00f9f.htm\t",
+        "recap": "http://recaps.competitionsuite.com/921d989a-ec2c-4377-af57-193e65c00f9f.htm\t",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11086,7 +11110,7 @@
         "title": "Portland Winds Prelims",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Portland_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/05caf9ae-4d75-4a57-a7fc-15286598017f.htm",
+        "recap": "http://recaps.competitionsuite.com/05caf9ae-4d75-4a57-a7fc-15286598017f.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11094,7 +11118,7 @@
         "title": "Atlanta Winds Prelims",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Atlanta_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/300186fd-6d00-48dd-8b15-69f4d1c42f75.htm",
+        "recap": "http://recaps.competitionsuite.com/300186fd-6d00-48dd-8b15-69f4d1c42f75.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11102,7 +11126,7 @@
         "title": "Portland Winds Finals",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Portland_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/53013c8f-2124-40f7-a430-21955a3a49a2.htm",
+        "recap": "http://recaps.competitionsuite.com/53013c8f-2124-40f7-a430-21955a3a49a2.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11110,7 +11134,7 @@
         "title": "Atlanta Winds Finals",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Atlanta_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/31b42bf3-a395-4de9-8339-d741972f5ff7.htm",
+        "recap": "http://recaps.competitionsuite.com/31b42bf3-a395-4de9-8339-d741972f5ff7.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11118,7 +11142,7 @@
         "title": "Dallas Winds Finals",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Dallas_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/0046a862-39f5-4518-9eb8-60d847ca792b.htm",
+        "recap": "http://recaps.competitionsuite.com/0046a862-39f5-4518-9eb8-60d847ca792b.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11126,7 +11150,7 @@
         "title": "Dallas Winds Prelims",
         "date": "March 10",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Dallas_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/617db7f1-4275-4fa2-adb3-a7c4020bcb94.htm",
+        "recap": "http://recaps.competitionsuite.com/617db7f1-4275-4fa2-adb3-a7c4020bcb94.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11134,7 +11158,7 @@
         "title": "Minneapolis Winds Prelims",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Minneapolis_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/e15347be-cd6a-49f2-8826-43fa9f5c7591.htm",
+        "recap": "http://recaps.competitionsuite.com/e15347be-cd6a-49f2-8826-43fa9f5c7591.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11142,7 +11166,7 @@
         "title": "Minneapolis Winds Finals",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Minneapolis_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/c7213430-c5cf-427b-ae26-4208bd566774.htm",
+        "recap": "http://recaps.competitionsuite.com/c7213430-c5cf-427b-ae26-4208bd566774.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11150,7 +11174,7 @@
         "title": "Spartanburg Winds Prelims",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Spartanburg_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/3c0a9eef-48e8-4a00-bfc5-6378c8798dd8.htm",
+        "recap": "http://recaps.competitionsuite.com/3c0a9eef-48e8-4a00-bfc5-6378c8798dd8.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11158,7 +11182,7 @@
         "title": "Spartanburg Winds Finals",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Spartanburg_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/db11c95c-c591-49a1-8bf0-0fcf1dbb9e1b.htm",
+        "recap": "http://recaps.competitionsuite.com/db11c95c-c591-49a1-8bf0-0fcf1dbb9e1b.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11166,7 +11190,7 @@
         "title": "Indianapolis Winds Prelims",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Indianapolis_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/341b34d7-cbd5-4667-b738-114175a77e5b.htm",
+        "recap": "http://recaps.competitionsuite.com/341b34d7-cbd5-4667-b738-114175a77e5b.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11174,7 +11198,7 @@
         "title": "Indianapolis Winds Finals",
         "date": "March 03",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Indianapolis_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/99ac125e-2b00-4a73-ab66-75fdc5336d4d.htm",
+        "recap": "http://recaps.competitionsuite.com/99ac125e-2b00-4a73-ab66-75fdc5336d4d.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11182,7 +11206,7 @@
         "title": "Houston Winds Prelims",
         "date": "February 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Houston_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/4916d260-534b-4a8d-8662-d9fcad30bec6.htm",
+        "recap": "http://recaps.competitionsuite.com/4916d260-534b-4a8d-8662-d9fcad30bec6.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11190,7 +11214,7 @@
         "title": "Houston Winds Finals",
         "date": "February 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Houston_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/7c35ed1f-71f6-4407-8fbe-b6051224bc9f.htm",
+        "recap": "http://recaps.competitionsuite.com/7c35ed1f-71f6-4407-8fbe-b6051224bc9f.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11198,7 +11222,7 @@
         "title": "Temecula Winds Prelims",
         "date": "February 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Temecula_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/07952cd2-433b-4f68-a00f-dbdc4e61ef31.htm",
+        "recap": "http://recaps.competitionsuite.com/07952cd2-433b-4f68-a00f-dbdc4e61ef31.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11206,7 +11230,7 @@
         "title": "Temecula Winds Finals",
         "date": "February 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Temecula_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/9df32a4a-496d-40de-817e-a72a84109bcf.htm",
+        "recap": "http://recaps.competitionsuite.com/9df32a4a-496d-40de-817e-a72a84109bcf.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11214,7 +11238,7 @@
         "title": "Tampa Winds Prelims",
         "date": "February 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Tampa_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/64136552-7415-4d18-a2b1-08d5597b4a9a.htm",
+        "recap": "http://recaps.competitionsuite.com/64136552-7415-4d18-a2b1-08d5597b4a9a.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11222,7 +11246,7 @@
         "title": "Tampa Winds Finals",
         "date": "February 24",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_Tampa_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/b2457404-f048-42d9-b6e2-6111efaba8d6.htm",
+        "recap": "http://recaps.competitionsuite.com/b2457404-f048-42d9-b6e2-6111efaba8d6.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11230,7 +11254,7 @@
         "title": "St Louis Winds Finals",
         "date": "February 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_St_Louis_Winds_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/f5052976-cc32-4b14-86e2-d1a07ee0fc49.htm",
+        "recap": "http://recaps.competitionsuite.com/f5052976-cc32-4b14-86e2-d1a07ee0fc49.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11238,7 +11262,7 @@
         "title": "St Louis Winds Prelims",
         "date": "February 17",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2018/scores_St_Louis_Winds_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/a0ba0169-a46e-40af-a121-8ecd9f0b1f09.htm",
+        "recap": "http://recaps.competitionsuite.com/a0ba0169-a46e-40af-a121-8ecd9f0b1f09.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11246,7 +11270,7 @@
         "title": "Nashville CG Finals",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Nashville_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/55029fbb-bb89-4aba-b415-9c618cff6f21.htm",
+        "recap": "http://recaps.competitionsuite.com/55029fbb-bb89-4aba-b415-9c618cff6f21.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11254,7 +11278,7 @@
         "title": "Flint CG Prelims",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Flint_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/afac61fa-781c-48d3-aaa5-dcbc48aa8c03.htm",
+        "recap": "http://recaps.competitionsuite.com/afac61fa-781c-48d3-aaa5-dcbc48aa8c03.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11262,7 +11286,7 @@
         "title": "Flint CG Finals",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Flint_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/eb4cf9b1-ca5b-4975-8f00-8ff86ffc5fc1.htm",
+        "recap": "http://recaps.competitionsuite.com/eb4cf9b1-ca5b-4975-8f00-8ff86ffc5fc1.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11270,7 +11294,7 @@
         "title": "Nashville CG Prelims",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Nashville_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/43fc407a-9062-4f78-901d-691a2cef327c.htm",
+        "recap": "http://recaps.competitionsuite.com/43fc407a-9062-4f78-901d-691a2cef327c.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11278,7 +11302,7 @@
         "title": "Phoenix CG Prelims",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Phoenix_CG_Prelims.html",
-        "recaps": " http://recaps.competitionsuite.com/4c3f268c-98c9-4ad8-aace-1c4c5cee49b7.htm ",
+        "recap": " http://recaps.competitionsuite.com/4c3f268c-98c9-4ad8-aace-1c4c5cee49b7.htm ",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11286,7 +11310,7 @@
         "title": "Phoenix CG Finals",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Phoenix_CG_Finals.html",
-        "recaps": " http://recaps.competitionsuite.com/7bd960ba-2f48-45c0-901a-8c753f8b360c.htm ",
+        "recap": " http://recaps.competitionsuite.com/7bd960ba-2f48-45c0-901a-8c753f8b360c.htm ",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11294,7 +11318,7 @@
         "title": "Portland CG Finals",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Portland_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/b7497b37-5ade-4d8c-9277-0b67e1a0b7ca.htm ",
+        "recap": "http://recaps.competitionsuite.com/b7497b37-5ade-4d8c-9277-0b67e1a0b7ca.htm ",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11302,7 +11326,7 @@
         "title": "Portland CG Prelims",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Portland_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/d6683e34-b0f0-4e59-86ce-bf4f8b75d952.htm ",
+        "recap": "http://recaps.competitionsuite.com/d6683e34-b0f0-4e59-86ce-bf4f8b75d952.htm ",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11310,7 +11334,7 @@
         "title": "Richmond CG Prelims",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Richmond_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/7f46436a-0fdc-4130-9e1e-9287ca730d3a.htm",
+        "recap": "http://recaps.competitionsuite.com/7f46436a-0fdc-4130-9e1e-9287ca730d3a.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11318,7 +11342,7 @@
         "title": "Richmond CG Finals",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Richmond_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/9147478a-0083-48e9-8564-d7e353f2b719.htm",
+        "recap": "http://recaps.competitionsuite.com/9147478a-0083-48e9-8564-d7e353f2b719.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11326,7 +11350,7 @@
         "title": "Tulsa CG Prelims",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Tulsa_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/bfa7c418-28a6-45f8-8250-124058370f40.htm",
+        "recap": "http://recaps.competitionsuite.com/bfa7c418-28a6-45f8-8250-124058370f40.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11334,7 +11358,7 @@
         "title": "Tulsa CG Finals",
         "date": "March 07",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Tulsa_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/9af34bfe-6ba2-493e-9911-1cf67c7eb158.htm",
+        "recap": "http://recaps.competitionsuite.com/9af34bfe-6ba2-493e-9911-1cf67c7eb158.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11342,7 +11366,7 @@
         "title": "Austin CG Finals",
         "date": "March 01",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Austin_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/5972ef01-3840-4c40-9e19-ea800f6fbc15.htm",
+        "recap": "http://recaps.competitionsuite.com/5972ef01-3840-4c40-9e19-ea800f6fbc15.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11350,7 +11374,7 @@
         "title": "Pittsburgh CG Finals",
         "date": "March 01",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Pittsburgh_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/480ecd92-b19d-4950-aef4-a0f01e267f35.htm",
+        "recap": "http://recaps.competitionsuite.com/480ecd92-b19d-4950-aef4-a0f01e267f35.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11358,7 +11382,7 @@
         "title": "Atlanta CG Finals",
         "date": "March 01",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Atlanta_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/fafb0b5d-1c07-405e-a492-e44706f39f75.htm",
+        "recap": "http://recaps.competitionsuite.com/fafb0b5d-1c07-405e-a492-e44706f39f75.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11366,7 +11390,7 @@
         "title": "Union City CG Finals",
         "date": "March 01",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Union_City_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/8f02046b-d652-4480-9d79-ccc4f36bdaec.htm",
+        "recap": "http://recaps.competitionsuite.com/8f02046b-d652-4480-9d79-ccc4f36bdaec.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11374,7 +11398,7 @@
         "title": "Chicago CG Finals",
         "date": "March 01",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Chicago_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/d2957adb-d998-4b4c-ba11-08211c5787e3.htm",
+        "recap": "http://recaps.competitionsuite.com/d2957adb-d998-4b4c-ba11-08211c5787e3.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11382,7 +11406,7 @@
         "title": "Austin CG Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Austin_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/7500513f-2613-439a-99b2-0fde10854098.htm",
+        "recap": "http://recaps.competitionsuite.com/7500513f-2613-439a-99b2-0fde10854098.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11390,7 +11414,7 @@
         "title": "Atlanta CG Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Atlanta_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/56d906fb-3296-4bdc-b416-fab9ab34947f.htm",
+        "recap": "http://recaps.competitionsuite.com/56d906fb-3296-4bdc-b416-fab9ab34947f.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11398,7 +11422,7 @@
         "title": "Chicago CG Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Chicago_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/5240e990-6068-41f4-89eb-1fb3125c8a6b.htm",
+        "recap": "http://recaps.competitionsuite.com/5240e990-6068-41f4-89eb-1fb3125c8a6b.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11406,7 +11430,7 @@
         "title": "Austin CG SA Semis",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Austin_CG_SA_Semis.html",
-        "recaps": "http://recaps.competitionsuite.com/0364213a-5c96-4cb9-8d52-3326d83ab41e.htm",
+        "recap": "http://recaps.competitionsuite.com/0364213a-5c96-4cb9-8d52-3326d83ab41e.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11414,7 +11438,7 @@
         "title": "Gulfport CG Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Gulfport_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/2ccaf0b9-a397-46ca-9fe8-6834bc474318.htm",
+        "recap": "http://recaps.competitionsuite.com/2ccaf0b9-a397-46ca-9fe8-6834bc474318.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11422,7 +11446,7 @@
         "title": "Gulfport CG Finals",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Gulfport_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/79e1f374-60a2-4d9c-bdd0-cd0b259bd780.htm",
+        "recap": "http://recaps.competitionsuite.com/79e1f374-60a2-4d9c-bdd0-cd0b259bd780.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11430,7 +11454,7 @@
         "title": "Austin CG SA Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Austin_CG_SA_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/19272a7b-65d8-4141-ab9b-328e10548de0.htm",
+        "recap": "http://recaps.competitionsuite.com/19272a7b-65d8-4141-ab9b-328e10548de0.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11438,7 +11462,7 @@
         "title": "Union City CG Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Union_City_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/5f9e7839-3cfd-41e2-8506-6b8f143e7e98.htm",
+        "recap": "http://recaps.competitionsuite.com/5f9e7839-3cfd-41e2-8506-6b8f143e7e98.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11446,7 +11470,7 @@
         "title": "Salt Lake City CG Finals",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Salt_Lake_City_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/6a7b36c8-71d1-4ef9-bbec-6844b0af312c.htm",
+        "recap": "http://recaps.competitionsuite.com/6a7b36c8-71d1-4ef9-bbec-6844b0af312c.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11454,7 +11478,7 @@
         "title": "Salt Lake City CG Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Salt_Lake_City_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/cad8e0d7-5504-476f-a824-28ac0889f5f2.htm",
+        "recap": "http://recaps.competitionsuite.com/cad8e0d7-5504-476f-a824-28ac0889f5f2.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11462,7 +11486,7 @@
         "title": "Pittsburgh CG Prelims",
         "date": "February 29",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Pittsburgh_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/0b247439-2504-4ac6-9ee5-ef1db9681ca8.htm",
+        "recap": "http://recaps.competitionsuite.com/0b247439-2504-4ac6-9ee5-ef1db9681ca8.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11470,7 +11494,7 @@
         "title": "South Brunswick CG Finals",
         "date": "February 23",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_South_Brunswick_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/7e78b468-3073-465a-87fa-f6df192df8fd.htm ",
+        "recap": "http://recaps.competitionsuite.com/7e78b468-3073-465a-87fa-f6df192df8fd.htm ",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11478,7 +11502,7 @@
         "title": "Omaha CG Prelims",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Omaha_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/b672b33a-5e2b-4496-8ac5-280121d8bdd2.htm",
+        "recap": "http://recaps.competitionsuite.com/b672b33a-5e2b-4496-8ac5-280121d8bdd2.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11486,7 +11510,7 @@
         "title": "Tampa CG Finals",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Tampa_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/28119237-e7be-47ac-9322-aa9bb62a732b.htm",
+        "recap": "http://recaps.competitionsuite.com/28119237-e7be-47ac-9322-aa9bb62a732b.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11494,7 +11518,7 @@
         "title": "Tampa CG Prelims",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Tampa_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/c5c8a731-1900-48a2-8c31-378e5b4c8b20.htm",
+        "recap": "http://recaps.competitionsuite.com/c5c8a731-1900-48a2-8c31-378e5b4c8b20.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11502,7 +11526,7 @@
         "title": "Springfield CG Finals",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Springfield_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/012f5090-282a-4f21-844d-b29575a0045c.htm",
+        "recap": "http://recaps.competitionsuite.com/012f5090-282a-4f21-844d-b29575a0045c.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11510,7 +11534,7 @@
         "title": "Denver CG Prelims",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/6693c4b8-517f-4dce-ab04-67682606bf3e.htm",
+        "recap": "http://recaps.competitionsuite.com/6693c4b8-517f-4dce-ab04-67682606bf3e.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11518,7 +11542,7 @@
         "title": "Denver CG Finals",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Denver_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/5cfafe5d-fffe-47a4-ae61-1aea88899764.htm",
+        "recap": "http://recaps.competitionsuite.com/5cfafe5d-fffe-47a4-ae61-1aea88899764.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11526,7 +11550,7 @@
         "title": "Omaha CG Finals",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Omaha_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/38d1ac2a-06d3-4aa4-8a46-8d52147660db.htm",
+        "recap": "http://recaps.competitionsuite.com/38d1ac2a-06d3-4aa4-8a46-8d52147660db.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11534,7 +11558,7 @@
         "title": "San Diego CG Prelims",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_San_Diego_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/120a4e99-2605-4fae-80ed-b0b3637ee45f.htm",
+        "recap": "http://recaps.competitionsuite.com/120a4e99-2605-4fae-80ed-b0b3637ee45f.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11542,7 +11566,7 @@
         "title": "San Diego CG Finals",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_San_Diego_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/42f27ec0-c96a-42ef-a732-1d33b488f1f8.htm",
+        "recap": "http://recaps.competitionsuite.com/42f27ec0-c96a-42ef-a732-1d33b488f1f8.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11550,7 +11574,7 @@
         "title": "South Brunswick CG Prelims",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_South_Brunswick_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/bfb4f714-59fb-4bfb-9f65-41514001dbd0.htm ",
+        "recap": "http://recaps.competitionsuite.com/bfb4f714-59fb-4bfb-9f65-41514001dbd0.htm ",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11558,7 +11582,7 @@
         "title": "Springfield CG Prelims",
         "date": "February 22",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Springfield_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/998825d5-8b33-45c8-a4dc-6a48da571af2.htm",
+        "recap": "http://recaps.competitionsuite.com/998825d5-8b33-45c8-a4dc-6a48da571af2.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11566,7 +11590,7 @@
         "title": "Indianapolis CG Finals",
         "date": "February 16",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Indianapolis_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/7e2631d6-581d-44b0-a276-46076720f10b.htm",
+        "recap": "http://recaps.competitionsuite.com/7e2631d6-581d-44b0-a276-46076720f10b.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11574,7 +11598,7 @@
         "title": "Bakersfield CG Prelims",
         "date": "February 15",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Bakersfield_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/e7daee4a-0f3e-4eed-bf0a-54881aecbf8b.htm",
+        "recap": "http://recaps.competitionsuite.com/e7daee4a-0f3e-4eed-bf0a-54881aecbf8b.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11582,7 +11606,7 @@
         "title": "Bakersfield CG Finals",
         "date": "February 15",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Bakersfield_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/7b70e204-4804-4f8b-b1d6-092cdb7677cd.htm",
+        "recap": "http://recaps.competitionsuite.com/7b70e204-4804-4f8b-b1d6-092cdb7677cd.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11590,7 +11614,7 @@
         "title": "Indianapolis CG Prelims",
         "date": "February 15",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Indianapolis_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/2ab3e3ab-0a6d-4461-9531-2fcb7759ce96.htm",
+        "recap": "http://recaps.competitionsuite.com/2ab3e3ab-0a6d-4461-9531-2fcb7759ce96.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11598,7 +11622,7 @@
         "title": "Indianapolis CG RA and SA Prelims",
         "date": "February 15",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Indianapolis_CG_RA_and_SA_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/b0ae31ab-9cc1-469b-b249-1fe581a51a29.htm",
+        "recap": "http://recaps.competitionsuite.com/b0ae31ab-9cc1-469b-b249-1fe581a51a29.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11606,7 +11630,7 @@
         "title": "Indianapolis CG SA Semis",
         "date": "February 15",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Indianapolis_CG_SA_Semis.html",
-        "recaps": "http://recaps.competitionsuite.com/6b02cbd7-4423-4614-ae6a-c7e35ed55c0f.htm",
+        "recap": "http://recaps.competitionsuite.com/6b02cbd7-4423-4614-ae6a-c7e35ed55c0f.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11614,7 +11638,7 @@
         "title": "Knoxville CG Prelims",
         "date": "February 15",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Knoxville_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/7935583d-4ca5-4b99-8dda-fc027cc616f5.htm",
+        "recap": "http://recaps.competitionsuite.com/7935583d-4ca5-4b99-8dda-fc027cc616f5.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11622,7 +11646,7 @@
         "title": "Knoxville CG Finals",
         "date": "February 15",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Knoxville_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/eb5c00c9-9743-4967-bea8-6db6f55c68d0.htm",
+        "recap": "http://recaps.competitionsuite.com/eb5c00c9-9743-4967-bea8-6db6f55c68d0.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11630,7 +11654,7 @@
         "title": "Salem CG Prelims",
         "date": "February 15",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Salem_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/a23940a7-029d-4335-ac53-119ff7769c64.htm ",
+        "recap": "http://recaps.competitionsuite.com/a23940a7-029d-4335-ac53-119ff7769c64.htm ",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11638,7 +11662,7 @@
         "title": "Salem CG Finals",
         "date": "February 15",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Salem_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/77d5f46e-e432-4bb8-b4d6-49ac6781c979.htm ",
+        "recap": "http://recaps.competitionsuite.com/77d5f46e-e432-4bb8-b4d6-49ac6781c979.htm ",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11646,7 +11670,7 @@
         "title": "Dallas CG Finals",
         "date": "February 08",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Dallas_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/ad6c64e1-fe1f-4ead-8403-1e1531c9b482.htm",
+        "recap": "http://recaps.competitionsuite.com/ad6c64e1-fe1f-4ead-8403-1e1531c9b482.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11654,7 +11678,7 @@
         "title": "Houston CG Finals",
         "date": "February 08",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Houston_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/7c3633ce-c769-48fa-a3f6-ed4c8f743b9c.htm",
+        "recap": "http://recaps.competitionsuite.com/7c3633ce-c769-48fa-a3f6-ed4c8f743b9c.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11662,7 +11686,7 @@
         "title": "Houston CG Prelims",
         "date": "February 08",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Houston_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/b38937a2-482a-4e69-98bc-5210194ef49d.htm",
+        "recap": "http://recaps.competitionsuite.com/b38937a2-482a-4e69-98bc-5210194ef49d.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11670,7 +11694,7 @@
         "title": "Philadelphia CG Prelims",
         "date": "February 08",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Philadelphia_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/26fcb573-90f3-4872-bc28-57ef2be0b824.htm ",
+        "recap": "http://recaps.competitionsuite.com/26fcb573-90f3-4872-bc28-57ef2be0b824.htm ",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11678,7 +11702,7 @@
         "title": "Philadelphia CG Finals",
         "date": "February 08",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Philadelphia_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/1f19a7f1-0a0d-4501-a24b-9821d311c3aa.htm ",
+        "recap": "http://recaps.competitionsuite.com/1f19a7f1-0a0d-4501-a24b-9821d311c3aa.htm ",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11686,7 +11710,7 @@
         "title": "Riverside CG Prelims",
         "date": "February 08",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Riverside_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/7c8522e1-3f28-4ff7-bb13-1c3d12ee4dff.htm",
+        "recap": "http://recaps.competitionsuite.com/7c8522e1-3f28-4ff7-bb13-1c3d12ee4dff.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11694,7 +11718,7 @@
         "title": "Riverside CG Finals",
         "date": "February 08",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Riverside_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/b4aaf207-bcd0-4eb5-a3f6-4ff965e69996.htm",
+        "recap": "http://recaps.competitionsuite.com/b4aaf207-bcd0-4eb5-a3f6-4ff965e69996.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11702,7 +11726,7 @@
         "title": "Dallas CG Prelims",
         "date": "February 08",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Dallas_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/d8a11c71-2f3a-4742-9956-d00789a135cd.htm",
+        "recap": "http://recaps.competitionsuite.com/d8a11c71-2f3a-4742-9956-d00789a135cd.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11710,7 +11734,7 @@
         "title": "Japan CG Finals",
         "date": "February 02",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Japan_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/29c916b7-c23b-45fa-a0bf-b613dc2229f5.htm",
+        "recap": "http://recaps.competitionsuite.com/29c916b7-c23b-45fa-a0bf-b613dc2229f5.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11718,7 +11742,7 @@
         "title": "San Antonio CG Finals",
         "date": "February 01",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_San_Antonio_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/169a29bb-ee3c-4172-8474-d40e276e2ac2.htm",
+        "recap": "http://recaps.competitionsuite.com/169a29bb-ee3c-4172-8474-d40e276e2ac2.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11726,7 +11750,7 @@
         "title": "San Antonio CG Prelims",
         "date": "February 01",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_San_Antonio_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/f7bb9050-d621-4c09-a2d9-11e04a3229e6.htm",
+        "recap": "http://recaps.competitionsuite.com/f7bb9050-d621-4c09-a2d9-11e04a3229e6.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11734,7 +11758,7 @@
         "title": "Corning CG Finals",
         "date": "February 01",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Corning_CG_Finals.html",
-        "recaps": "http://recaps.competitionsuite.com/b4a304b1-78f9-4b6d-bac3-202be469eaab.htm",
+        "recap": "http://recaps.competitionsuite.com/b4a304b1-78f9-4b6d-bac3-202be469eaab.htm",
         "groups": [],
         "scores_by_group": {}
     },
@@ -11742,7 +11766,7 @@
         "title": "Corning CG Prelims",
         "date": "February 01",
         "scores": "https://wgi.org/wp-content/uploads/wgi_events/static_scores/2020/scores_Corning_CG_Prelims.html",
-        "recaps": "http://recaps.competitionsuite.com/2490f15e-4830-498e-b06b-704adb8a5d8d.htm",
+        "recap": "http://recaps.competitionsuite.com/2490f15e-4830-498e-b06b-704adb8a5d8d.htm",
         "groups": [],
         "scores_by_group": {}
     }
