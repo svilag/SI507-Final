@@ -10,7 +10,6 @@ import os
 import re
 import sys
 import datetime as dt
-from turtle import write
 import requests
 from bs4 import BeautifulSoup as bs
 
@@ -147,8 +146,7 @@ def get_competitions(url):
     for t_r in table_rows[:-1]:
         tr_children = [child for child in t_r.children] # find children
         if len(tr_children) == 3: # rows with dates
-            year_pattern = re.compile("20..")
-            year = year_pattern.match(url)
+            year = re.search("20..", url).group()
             date = f"{tr_children[1:-1:1][0].strong.contents[0]}, {year}" # month day, year
         elif len(tr_children) == 9: # rows with groups and scores
             tr_children_data = tr_children[1::2][1:]
@@ -288,16 +286,32 @@ if __name__ == '__main__':
 
 
     # TODO combine duplicate groups -> combine competitions dicts
-    # sort groups by name
-    groups_to_clean = sorted(groups_to_write)
-    print(groups_to_clean)
+    # TODO check for duplicate comps
+    # TODO normalize location names
 
+    # sort groups by name, class_level
+    groups_to_clean = sorted(groups_to_write, key=lambda x: (x['name'], x['class_level']))
+    clean_groups = []
+    done_cleaning = []
 
+    # find duplicate group entries, combine competitions
+    for i, group in enumerate(groups_to_clean):
+        if len(clean_groups) == 0:
+            clean_groups.append(group)
+        elif group['name'] == clean_groups[-1]['name'] and group['class_level'] == clean_groups[-1]['class_level']:
+            if clean_groups[-1]['competitions'] != group['competitions']:
+                clean_groups[-1]['competitions'] |= group['competitions']
+                if clean_groups[-1] not in done_cleaning:
+                    done_cleaning.append(clean_groups[-1])
+        else:
+            clean_groups.append(group)
+            if clean_groups[-1] not in done_cleaning:
+                done_cleaning.append(clean_groups[-1])
 
-    # write_json('./data/competitions.json', comps_to_write)
-    # logger.info("%s Competitions written to file", len(comps_to_write))
-    # write_json('./data/groups.json', groups_to_write)
-    # logger.info("%s Groups written to file", len(groups_to_write))
+    write_json('./data/competitions.json', comps_to_write)
+    logger.info("%s Competitions written to file", len(comps_to_write))
+    write_json('./data/groups.json', done_cleaning)
+    logger.info("%s Groups written to file", len(done_cleaning))
 
 
     logger.info("End run: %s", dt.datetime.now().isoformat()) # log end time
