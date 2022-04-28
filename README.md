@@ -11,8 +11,6 @@ Required python packages are listed in [requirements.txt](./source-code/requirem
 
 ## Files
 
-### [parse_wgi.py](./source-code/parse_wgi.py)
+### [wgi_parse_graph.py](./source-code/wgi_parse_graph.py)
 
-This file parses data from [https://www.wgi.org](https://www.wgi.org)
-
-### []()
+This file parses data from [https://www.wgi.org](https://www.wgi.org), writes the competitions and groups data to json files, and creates a graph of the data.
